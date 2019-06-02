@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "nl-be"
+title = "Fri3d 2020"
+DefaultContentLanguage= "nl"
+sectionPagesMenu = "main"
+summaryLength = 10

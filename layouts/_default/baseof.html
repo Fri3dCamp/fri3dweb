@@ -1,0 +1,45 @@
+{{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "enableSourceMap" true) }}
+{{ $style := resources.Get "sass/main.scss" | resources.ToCSS $options }}
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+		<title>
+			{{ block "title" . }}
+			{{ with .Title }}{{ . }}{{ end }} | {{ .Site.Title }}
+			{{ end }}
+		</title>
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600|Open+Sans:400,700|Ubuntu+Mono:400" rel="stylesheet">
+		<link rel="stylesheet" href="{{ $style.Permalink }}">
+	</head>
+	<body>
+		<header class="siteheader">
+			<div class="topbar">
+				<ul class="ticker">
+					<li>14 - 16 augustus 2020</li>
+				</ul>
+				<nav class="sitenav sitenav--sec">
+				<a href="/contact/">contact</a> <a href="/privacy/">privacy</a> <a href="/meehelpen/">meehelpen</a>
+			</nav>
+			</div>
+			
+			<div class="mainbar">
+				<a class="mainlogo" href="/">
+					<span class="visually-hidden">Fri3d Camp</span>
+				</a>
+				<nav class="sitenav sitenav--prim">
+					<a href="/tickets/">Tickets</a> <a href="/programma/">Programma</a> <a href="/deelnemers/">Voor deelnemers</a> <a href="/wat" >Wat is Fri3d Camp?</a>
+				</nav>
+			</div>
+		</header>
+		<div class="pagettl">
+			<h1>{{ with .Title }}{{ . }}{{ end }}</h1>
+		</div>
+		{{ block "main" .}}
+		{{ end }}
+		<footer class="sitefooter">
+			<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>
+			<p>
+            <a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl"><img class="cclicense" alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
+        </footer>
+	</body>
+</html>

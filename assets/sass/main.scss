@@ -1,0 +1,200 @@
+@import 'normalize';
+
+/* Color Theme Swatches in RGBA */
+$clr_A: rgba(125,75,179, 1);
+$clr_B: rgba(255,216,158, 1);
+$clr_A_light: rgba(192,133,255, 1);
+$clr_C: rgba(86,204,123, 1);
+$clr_C_dark: rgba(84,179,113, 1);
+$clr_darkgrey: rgba(50,50,50,1);
+
+$spacer: 1.2rem;
+
+@mixin gridrow {
+	display: grid;
+	grid-template-columns: repeat( 12, 8.333vw );
+}
+
+html {
+	 font-size:62.5%;
+	 overflow-x: hidden;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size:1.6rem;
+}
+
+.topbar {
+	@include gridrow;
+	grid-area: tb;
+	grid-template-areas: 
+    "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav"
+}
+
+.visually-hidden {
+    position: absolute !important;
+    height: 1px; width: 1px;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+.siteheader {
+	@include gridrow;
+	grid-template-rows: auto auto;
+	grid-template-areas: 
+    "tb tb tb tb tb tb tb tb tb tb tb tb"
+	"him him him him him him him him him him him him"
+}
+
+.mainbar {
+	@include gridrow;
+	grid-template-rows: 8.333vw 8.333vw 8.333vw 8.333vw;
+	grid-area: him;
+	grid-template-areas: 
+	"bg bg bg bg bg bg bg bg bg bg bg bg"
+	"lg lg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
+	"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg"
+	"nbg nbg nbg nav nav nav nav nav nav nav nav nav";
+	width:100%;
+	background-image:url('/img/headerimg.svg');
+	background-size: cover;
+	height:8.333vw*4;
+	background-color: $clr_A;
+}
+
+.mainlogo {
+	display: block;
+	text-decoration: none;
+	grid-area: lg;
+	position: relative;
+	padding: $spacer*2;
+	background-color: black;
+	background-image:url('/img/logo_white.svg');
+	background-repeat: no-repeat;
+	background-size: 80%;
+	background-position: center;
+}
+
+.sitenav--sec {
+	//padding:$spacer;
+	grid-area: secnav;
+	background-color:black;
+	text-align: right;
+	padding-right:$spacer;
+}
+
+.sitenav--sec a {
+	display: inline-block;
+	color:white;
+	text-decoration: none;
+	padding:$spacer;
+	padding-right:$spacer;
+	padding-left:$spacer;
+}
+
+.sitenav--prim {
+	grid-area: nav;
+	display: flex;
+	background-color: black;
+	height:auto;
+	padding:$spacer*2;
+	padding-left: $spacer*2;
+	align-items: center;
+	border-bottom:1.2rem solid white;
+}
+
+.sitenav--prim a {
+	padding-right:$spacer;
+	padding-left:$spacer;
+	padding-bottom: $spacer/2;
+	/*background-color:$clr_A;
+	color:white;*/
+	color: white;
+	font-family: Montserrat, sans-serif;
+	font-weight: 400;
+	font-size: calc(1rem + 1vw) ;
+	text-decoration: none;
+	&:first-child {
+		padding-left:0;
+	}
+	&:last-child {
+		padding-right:0;
+	}
+}
+
+.sitenav--prim a.selected {
+	background-color: white;
+	color: black;
+}
+
+.pagettl {
+	@include gridrow;
+	padding-top: $spacer;
+}
+
+.pagettl h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-size: calc(3rem + 3vw);
+	margin:0;
+	grid-column-start: 3;
+	grid-column-end: 12;
+}
+
+.ticker {
+	grid-area: ticker;
+	color:white;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	background-color:$clr_C_dark;
+	padding:$spacer;
+}
+
+.ticker li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.maincontent {
+	@include gridrow;
+	line-height: 1.5em;
+	font-size: calc( 1.5rem + 0.5vw );
+	grid-template-areas: 
+	"aside1 aside1 center center center center center center center center aside2 aside2";
+	@media screen and (max-width:1024px) {
+		grid-template-areas: "
+			aside1 aside1 center center center center center center center center center center
+		";
+	}
+	@media screen and (max-width:800px) {
+		grid-template-areas: "
+			center center center center center center center center center center center center
+		";
+	}
+}
+
+.block--centered {
+	grid-area:center;
+	max-width:1000px; 
+}
+
+.sitefooter {
+	background-color:black;
+	padding:$spacer*2;
+	color:white;
+	display: flex;
+	justify-content: space-between;
+}
+
+.sitefooter a {
+	color:white;
+	text-decoration: none;
+	border-bottom:1px solid white;
+}
+.sitefooter .licenselink {
+	border:none;
+}
