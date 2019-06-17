@@ -1,0 +1,29 @@
+
+#mc_embed_signup {
+	margin-top:20px;
+	margin-bottom:20px;
+
+}
+.mc-field-group, #mc_embed_signup .clear {
+	display: flex;
+	flex-direction: column;
+}
+.mc-field-group input, .mc-field-group label, .mc-field-group .button {
+	display: block;
+	width: 300px;
+	@media screen and (max-width:$breakpoint4) {
+		width: 250px;
+	}
+	text-align: left;
+	align-self: center;
+}
+
+#mc_embed_signup .button {
+	display: block;
+	width: 300px;
+	@media screen and (max-width:$breakpoint4) {
+		width: 250px;
+	}
+	margin-top:20px;
+	align-self: center;
+}

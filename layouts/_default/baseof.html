@@ -1,5 +1,5 @@
 {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := resources.Get "sass/main.scss" | resources.ToCSS $options }}
+{{ $style := resources.Get "sass/style.scss" | resources.ToCSS $options }}
 <!DOCTYPE html>
 <html lang="nl">
 	<head>
@@ -27,7 +27,7 @@
 					<span class="visually-hidden">Fri3d Camp</span>
 				</a>
 				<nav class="sitenav sitenav--prim">
-					<a href="/tickets/">Tickets</a> <a href="/programma/">Programma</a> <a href="/deelnemers/">Voor deelnemers</a> <a href="/wat" >Wat is Fri3d Camp?</a>
+					<a href="/tickets/">Tickets</a> <a href="/programma/">Call for proposals</a> <a href="/deelnemers/">Voor deelnemers</a> <a href="/wat" >Wat is Fri3d Camp?</a>
 				</nav>
 			</div>
 		</header>
@@ -37,9 +37,16 @@
 		{{ block "main" .}}
 		{{ end }}
 		<footer class="sitefooter">
-			<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>
-			<p>
-            <a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl"><img class="cclicense" alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
+			<div class="sitefooter__meta">
+				<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>
+				<p>
+				<a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl"><img class="cclicense" alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
+			</div>
+			<nav class="sitefooter__nav">
+				<a href="https://program2018.fri3d.be">Programma 2018</a> <a href="https://wiki2018.fri3d.be">Wiki 2018</a>
+			</nav>
         </footer>
+		<script src="/js/jquery-3.4.1.min.js" ></script>
+		<script src="/js/gallery.js" ></script>
 	</body>
 </html>
