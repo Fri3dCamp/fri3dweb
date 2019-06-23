@@ -1,5 +1,5 @@
 ---
-title: "Sponsors"
+title: "Privacy"
 layout: "single"
 ---
 <div class="block--centered">

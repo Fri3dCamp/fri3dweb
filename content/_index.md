@@ -4,7 +4,7 @@ title: "Welkom!"
 <div class="block--callout">
 <p>Fri3d Camp is een tweejaarlijkse gezinsvriendelijk zomerkamp voor hackers, makers en DIY'ers. In 2020 zijn we aan onze vierde editie toe.</p>
 <div class="decoblock decoblock--wave decoblock--br"></div>
-<div class="decoblock decoblock--cog decoblock--l"></div>
+<div class="decoblock decoblock--hammer decoblock--l"></div>
 </div>
 
 <hr class="gridrule" />
@@ -19,7 +19,7 @@ title: "Welkom!"
 {{< mailinglist >}}
 </div>
 
-<div class="block--centered">
+<!-- <div class="block--centered">
 <ul>
 	<li>Foto's</li>
 	<li>Korte geschiedenis</li>
@@ -27,4 +27,4 @@ title: "Welkom!"
 	<li>Mailinglist</li>
 	<li>Social media</li>
 </ul>
-</div>
+</div> -->

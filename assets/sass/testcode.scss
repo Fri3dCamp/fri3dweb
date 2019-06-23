@@ -1,0 +1,11 @@
+.testbar {
+	background-color: red;
+	padding:$spacer;
+	grid-column: 1 / span 12;
+}
+
+.stickyheader .testbar {
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+}

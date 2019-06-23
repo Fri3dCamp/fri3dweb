@@ -8,6 +8,11 @@
 	display: flex;
 	flex-direction: column;
 }
+
+.mc-field-group label {
+	margin-bottom: $spacer;
+}
+
 .mc-field-group input, .mc-field-group label, .mc-field-group .button {
 	display: block;
 	width: 300px;

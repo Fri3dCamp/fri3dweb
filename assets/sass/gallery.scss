@@ -101,6 +101,12 @@
 	display: none;
 }
 
+.gallery__copyright {
+	font-size:1.2rem;
+	//padding-top:$spacer;
+	grid-column: 1 / span 12;
+}
+
 .gallery__overlay figure {
 	position: relative;
 	grid-column: 2 / span 1;
