@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cfp/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -20,11 +24,19 @@
   </url>
   
   <url>
+    <loc>/privacy/</loc>
+  </url>
+  
+  <url>
     <loc>/programma/</loc>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>/styleguide/</loc>
   </url>
   
   <url>

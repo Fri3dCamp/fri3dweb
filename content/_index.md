@@ -18,6 +18,9 @@ title: "Welkom!"
 <div class="block--centered">
 {{< mailinglist >}}
 </div>
+<div class="block--centered">
+{{< social >}}
+</div>
 
 <!-- <div class="block--centered">
 <ul>

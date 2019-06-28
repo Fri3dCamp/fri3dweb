@@ -36,10 +36,9 @@ p a {
 	height: 20px;
 	grid-column: 5 / span 4;
 	width: 150px;
-	background-color: $clr_A_light;
 	background-image: url("/img/headerimg.svg");
-	background-size: auto 100px;
-	background-position: center;
+	background-size: auto 800px;
+	background-position: 300px 500px;
 	border: none;
 }
 
@@ -77,94 +76,70 @@ p a {
 
 .topbar {
 	@include gridrow;
-	grid-area: tb;
 	grid-template-areas: 
-    "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav"
+    "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav";
+	//position: fixed;
+}
+
+.topbar--sticky {
+	position: fixed;
+	top:0;
+	z-index: 10;
 }
 
 .visually-hidden {
     @include visuallyhidden;
 }
 
-.siteheader {
-	@include gridrow;
-	grid-template-rows: auto auto;
-	grid-template-areas: 
-    "tb tb tb tb tb tb tb tb tb tb tb tb"
-	"him him him him him him him him him him him him"
-}
 
 .pagewrapper {
 	padding-bottom: 300px;
 	transition: padding, 0.5s;
 }
 
-/*body.stickyheader .pagewrapper {
-	padding-top: 680px;
+.siteheader {
+	width:100vw;
 }
 
-body.stickyheader .siteheader {
-	position: fixed;
-	top:0;
-	left:0;
-	z-index: 100;
-	border-bottom: 10px solid white;
-	.mainbar {
-		grid-template-rows: 60px;
-		grid-template-areas: "lg lg bg nav nav nav nav nav nav nav nav nav";
-		height:60px;
-		background-position: center;
-		background-size: auto 500px;
-		.mainlogo {
-			background-size: 200px;
-			background-image:url('/img/logo_white_hor.svg');
-			background-position: $spacer center;
-		}
-		.sitenav--prim {
-			border:none;
-		}
-	}
-}
-*/
-.mainbar {
+.logobar {
 	@include gridrow;
-	grid-template-rows: 8.333vw 8.333vw 8.333vw 8.333vw;
-	grid-area: him;
+	grid-template-rows: 8.333vw 8.333vw 8.333vw;
 	grid-template-areas: 
-	"bg bg bg bg bg bg bg bg bg bg bg bg"
-	"lg lg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
-	"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg"
-	"nbg nbg nbg nav nav nav nav nav nav nav nav nav";
+	"lg lg bg bg bg bg bg bg bg bg bg bg"
+	"lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
+	"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
+
 
 	@media screen and (max-width:$breakpoint1) {
 		grid-template-areas: 
 		"lg lg lg bg bg bg bg bg bg bg bg bg"
 		"lg lg lg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
-		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg"
-		"nbg nbg nav nav nav nav nav nav nav nav nav nav";
+		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
 	}
 
-	@media screen and (max-width:$breakpoint2) {
-		grid-template-areas: 
-		"lg lg lg bg bg bg bg bg bg bg bg bg"
-		"lg lg lg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
-		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg"
-		"nav nav nav nav nav nav nav nav nav nav nav nav";
-	}
 
 	@media screen and (max-width:$breakpoint3) {
 		grid-template-areas: 
-		"lg lg lg lg lg lg bg bg bg bg bg bg"
-		"lg lg lg lg lg lg lbg lbg lbg lbg lbg lbg"
-		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg"
-		"nav nav nav nav nav nav nav nav nav nav nav nav";
+		"lg lg lg lg lg bg bg bg bg bg bg bg"
+		"lg lg lg lg lg lbg lbg lbg lbg lbg lbg lbg"
+		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
 	}
+
 
 	width:100%;
 	background-image:url('/img/headerimg.svg');
 	background-size: cover;
-	height:8.333vw*4;
+	height:8.333vw*3;
 	background-color: $clr_A;
+}
+
+.navbar {
+	@include gridrow;
+}
+
+.navbar--sticky {
+	position: fixed;
+	z-index: 10;
 }
 
 .mainlogo {
@@ -197,8 +172,28 @@ body.stickyheader .siteheader {
 	padding-left:$spacer;
 }
 
+.sitenav__homelink {
+	background-image:url('/img/icon_home_white.svg');
+	background-size: contain;
+	display: inline-block;
+	height:calc(0.2rem + 1vw);
+	width:calc(0.2rem + 1vw);
+	background-repeat: no-repeat;
+	background-position: center;
+	position:relative;
+	top: -0.2rem;
+}
+
+.navbar--sticky .sitenav__homelink {
+	background-image: url('/img/logo_white_hor.svg');
+	width:16rem;
+	height:2rem;
+	background-position: left center;
+	border-right: 1px solid white;
+	margin-right: $spacer;
+}
+
 .sitenav--prim {
-	grid-area: nav;
 	display: flex;
 	background-color: black;
 	height:auto;
@@ -206,10 +201,10 @@ body.stickyheader .siteheader {
 	padding-left: $spacer*2;
 	align-items: center;
 	border-bottom:1.2rem solid white;
-	border-left: 4px solid $clr_C;
+	grid-column: 1 / span 12;
 	border-top: 4px solid $clr_C;
 	@media screen and (max-width: $breakpoint2) {
-		justify-content: center;
+		justify-content: space-around;
 	}
 }
 
@@ -350,5 +345,24 @@ input[type="text"], input[type="email"] {
 	padding:10px;
 	&:hover {
 		background-color: $clr_C_dark;
+	}
+}
+
+.social {
+	display: flex;
+	justify-content: center;
+}
+
+.sociallink {
+	width:6rem;
+	height: 6rem;
+	padding:0.5rem;
+	margin-left: $spacer;
+	margin-right: $spacer;
+	background-color: $clr_A_light;
+	&:hover {
+		padding: 0;
+		border:0.5rem solid $clr_A;
+		background-color: transparent;
 	}
 }
