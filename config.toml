@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "nl-be"
 title = "Fri3d 2020"
+description = "Fri3d Camp is een tweejaarlijks gezinsvriendelijk hackercamp."
 DefaultContentLanguage= "nl"
 sectionPagesMenu = "main"
 summaryLength = 10

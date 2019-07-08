@@ -1,0 +1,63 @@
+.figure--full img {
+	width: 100%;
+}
+
+.figure--full {
+	background-color: $clr_B;
+	margin:0;
+	padding:0;
+}
+
+.figure--full figcaption {
+	padding-left:   $spacer;
+	padding-right:  $spacer;
+	padding-bottom: $spacer;
+}
+
+.swatches {
+	display:flex;
+	justify-content:space-between;
+	//align-content: space-between;
+	flex-wrap: wrap;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.swatch {
+	display: block;
+	width:12vmax;
+	min-width: 150px;
+	margin-bottom:$spacer*2;
+	padding-top:12vmax;
+}
+
+.swatch__label {
+	padding:$spacer;
+	padding-top:$spacer/2;
+	padding-bottom:$spacer/2;
+	background-color: white;
+	margin:2px;
+	text-align: center;
+	//border:1px solid black;
+	//box-sizing: border-box;
+}
+
+.swatch--clr_A {
+	background-color: $clr_A;
+}
+.swatch--clr_A_light {
+	background-color: $clr_A_light;
+}
+.swatch--clr_B {
+	background-color: $clr_B;
+}
+.swatch--clr_C {
+	background-color: $clr_C;
+}
+.swatch--clr_C_dark {
+	background-color: $clr_C_dark;
+}
+.swatch--clr_darkgrey {
+	background-color: $clr_darkgrey;
+}

@@ -1,14 +1,23 @@
 ---
-title: "Deelnemers"
+title: "Voor deelnemers"
 layout: "single"
 ---
 <div class="block--centered">
-<ul>
-	<li>Wat meebrengen</li>
-	<li>Huisreglement</li>
-	<li>Bereikbaarheid</li>
-	<li>Grondplan</li>
-	<li>Catering</li>
-	<li>Specifiek voor contributors</li>
-</ul>
+
+<h2>Het Terrein</h2>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>14 tot en met 16 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
+</div>
+<div class="block--centered">
+{{< gallery >}}
+</div>
+<div class="block--centered">
+<h2>Call for Proposals</h2>
+<p>De inhoud op Fri3d Camp komt <strong>volledig van de deelnemers</strong>. Dat vinden we erg belangrijk, en dat maakt Fri3d Camp ook bijzonder. <strong>Binnenkort lanceren we een call for proposals</strong> waar je jouw voorstel voor een workshop, talk of andere activiteit op het officiële programma kan indienen.</p>
+</div>
+
+<div class="block--centered">
+{{< mailinglist >}}
+</div>
+<div class="block--centered">
+{{< social >}}
 </div>

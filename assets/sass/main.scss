@@ -1,6 +1,6 @@
 @mixin gridrow {
 	display: grid;
-	grid-template-columns: repeat( 12, 8.333vw );
+	grid-template-columns: repeat( 12, 8.333% );
 }
 
 @mixin visuallyhidden {
@@ -31,6 +31,14 @@ p a {
 	border-bottom: 1px solid $clr_A;
 }
 
+.sitewrapper {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100vw;
+	max-width: $maxwidth;
+}
+
 .gridrule {
 	display: block;
 	height: 20px;
@@ -58,20 +66,52 @@ p a {
 	width: 200px;
 	background-position: -200px center;
 }
-.decoblock--hammer {
+
+.decoblock--xu {
+	width: 200px;
+	background-position: 0 -300px;
+}
+
+.decoblock--dots {
 	width: 100px;
-	background-position: -600px -100px;
+	background-position: -200px 0px;
+}
+
+.decoblock--hammer {
+	width: 70px;
+	height: 70px;
+	background-position: -420px -70px;
+	background-size: auto 350px;
+	@media screen and (max-width: $breakpoint3) {
+		width: 50px;
+		height: 50px;
+		background-position: -300px -50px;
+		background-size: auto 250px;
+	}
+	@media screen and (min-width:$breakpoint2) {
+		width: 100px;
+		height: 100px;
+		background-position: -600px -100px;
+		background-size: auto 500px;
+	}
 }
 
 .decoblock--br {
 	bottom:-70px;
-	right: -170px;
+	right: -6vw;
+	@media screen and (min-width:$breakpoint2) {
+		right: -170px;
+	}
 }
 
 .decoblock--l {
-	top: 50%;
-	margin-top: -80px;
-	left: -90px;
+	left: -6vw;
+	top: -40px;
+	@media screen and (min-width:$breakpoint2) {
+		margin-top: -80px;
+		top: 50%;
+		left: -90px;
+	}
 }
 
 .topbar {
@@ -79,12 +119,20 @@ p a {
 	grid-template-areas: 
     "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav";
 	//position: fixed;
+	@media screen and (max-width:$breakpoint3) {
+		grid-template-areas: 
+		"ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker"
+		"secnav secnav secnav secnav secnav secnav secnav secnav secnav secnav secnav secnav";
+		text-align: center;
+	}
 }
 
 .topbar--sticky {
 	position: fixed;
 	top:0;
 	z-index: 10;
+	width: 100%;
+	max-width: $maxwidth;
 }
 
 .visually-hidden {
@@ -93,17 +141,17 @@ p a {
 
 
 .pagewrapper {
-	padding-bottom: 300px;
 	transition: padding, 0.5s;
+	padding-bottom: 100px;
 }
 
 .siteheader {
-	width:100vw;
+	width:100%;
 }
 
 .logobar {
 	@include gridrow;
-	grid-template-rows: 8.333vw 8.333vw 8.333vw;
+	grid-template-rows: 33.333% 33.333% 33.333%;
 	grid-template-areas: 
 	"lg lg bg bg bg bg bg bg bg bg bg bg"
 	"lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
@@ -130,16 +178,26 @@ p a {
 	background-image:url('/img/headerimg.svg');
 	background-size: cover;
 	height:8.333vw*3;
+	max-height: ($maxwidth*3/12);
 	background-color: $clr_A;
 }
 
 .navbar {
 	@include gridrow;
+	@media screen and (max-width:$breakpoint_primnav) {
+		position: fixed;
+		z-index: 10;
+		bottom: 0;
+		width: 100%;
+		max-width: $maxwidth;
+	}
 }
 
 .navbar--sticky {
 	position: fixed;
 	z-index: 10;
+	width: 100%;
+	max-width: $maxwidth;
 }
 
 .mainlogo {
@@ -160,7 +218,12 @@ p a {
 	grid-area: secnav;
 	background-color:$clr_C_dark;
 	text-align: right;
-	padding-right:$spacer*2;
+	padding-right:$spacer;
+	@media screen and (max-width:$breakpoint3) {
+		padding-left:$spacer;
+		padding-right:$spacer;
+		text-align: center;
+	}
 }
 
 .sitenav--sec a {
@@ -168,25 +231,46 @@ p a {
 	color:white;
 	text-decoration: none;
 	padding:$spacer;
-	padding-right:$spacer;
-	padding-left:$spacer;
+	padding-right:calc(0.8rem + 0.8vw);
+	padding-left:calc(0.8rem + 0.8vw);
+	font-size: calc(0.8rem + 0.8vw) ;
+	@media screen and (max-width:$breakpoint3) { 
+		padding-top:0;
+		font-size: calc(1rem + 0.6vw) ;
+	}
 }
 
 .sitenav__homelink {
 	background-image:url('/img/icon_home_white.svg');
 	background-size: contain;
 	display: inline-block;
-	height:calc(0.2rem + 1vw);
-	width:calc(0.2rem + 1vw);
+	height:calc(0.8rem + 0.8vw);
+	width:calc(0.8rem + 0.8vw);
 	background-repeat: no-repeat;
 	background-position: center;
 	position:relative;
 	top: -0.2rem;
+	margin: $spacer*2;
+}
+
+
+.sitenav__hamburger {
+	background-image:url('/img/icon_hamburger.svg');
+	background-size: contain;
+	display: inline-block;
+	width:calc(0.8rem + 0.8vw);
+	height:calc(0.8rem + 0.8vw);
+	background-repeat: no-repeat;
+	background-position: center;
+	@media screen and (min-width: ($breakpoint_primnav + 1px)) {
+		@include visuallyhidden;
+	}
+	margin: $spacer*2;
 }
 
 .navbar--sticky .sitenav__homelink {
 	background-image: url('/img/logo_white_hor.svg');
-	width:16rem;
+	min-width:16rem;
 	height:2rem;
 	background-position: left center;
 	border-right: 1px solid white;
@@ -195,16 +279,53 @@ p a {
 
 .sitenav--prim {
 	display: flex;
+	flex-wrap: wrap;
 	background-color: black;
 	height:auto;
-	padding:$spacer*2;
-	padding-left: $spacer*2;
 	align-items: center;
-	border-bottom:1.2rem solid white;
+	@media screen and (min-width: ($breakpoint_primnav + 1px) ) {
+		border-bottom:1.2rem solid white;
+	}
 	grid-column: 1 / span 12;
 	border-top: 4px solid $clr_C;
-	@media screen and (max-width: $breakpoint2) {
+	justify-content: space-between;
+	@media screen and (max-width: $breakpoint1) {
 		justify-content: space-around;
+	}
+}
+.sitenav--prim .hideonsmall {
+	@media screen and (max-width:$breakpoint_primnav) {
+		@include visuallyhidden;
+	}
+}
+
+.sitenav--prim .menuitems {
+	display: flex;
+	padding:$spacer*2;
+	padding-left: 0;
+	@media screen and (max-width:$breakpoint_primnav) {
+		display:block;
+		width: 100%;
+		background-color:black;
+		padding: 0;
+		a {
+			font-size: 2rem;
+			display: block;
+			padding: $spacer;
+			border-top:1px solid $clr_A;
+		}
+	}
+}
+
+.menuitems a:first-child {
+	@media screen and (min-width:($breakpoint_primnav+1px)) {
+		padding-left:0;
+	}
+}
+
+.menuitems a:last-child {
+	@media screen and (min-width:($breakpoint_primnav+1px)) {
+		padding-right:0;
 	}
 }
 
@@ -217,15 +338,23 @@ p a {
 	color: white;
 	font-family: Montserrat, sans-serif;
 	font-weight: 400;
-	font-size: calc(0.8rem + 1vw) ;
-	text-decoration: none;
-	&:first-child {
-		padding-left:0;
+	font-size:2rem ;
+
+	@media screen and (max-width:$breakpoint0) {	
+		font-size:1.6rem ;
+		padding-right:$spacer;
+		padding-left:$spacer;
 	}
-	&:last-child {
-		padding-right:0;
+	@media screen and (max-width:$breakpoint1) {	
+		font-size:1.4rem ;
+	}
+	text-decoration: none;
+	@media screen and (max-width:$breakpoint_primnav) {		
+		padding-right:$spacer;
+		padding-left:$spacer;
 	}
 }
+
 
 .sitenav--prim a.selected {
 	background-color: white;
@@ -254,6 +383,7 @@ p a {
 	font-family: 'Montserrat', sans-serif;
 }
 
+
 .ticker {
 	grid-area: ticker;
 	color:white;
@@ -262,6 +392,7 @@ p a {
 	margin: 0;
 	background-color:$clr_C_dark;
 	padding:$spacer;
+	font-size: calc(0.8rem + 0.8vw) ;
 }
 
 .ticker li {
@@ -285,14 +416,20 @@ p a {
 }
 
 .block--callout {
-	grid-column: 4 / span 6;
+	grid-column: 2 / span 10;
+	@media screen and (min-width:$breakpoint2) {
+		grid-column: 4 / span 6;
+	}
 	text-align: center;	
 	padding: $spacer*2;
 	padding-top: $spacer;
 	padding-bottom: $spacer;
 	margin-bottom: $spacer*8;
 	line-height: 1.5em;
-	font-size:3rem;
+	font-size:2rem;
+	@media screen and (min-width:$breakpoint3) {
+		font-size:3rem;
+	}
 	border:8px solid $clr_A;
 	position: relative;
 }
@@ -301,6 +438,7 @@ p a {
 	background-color:black;
 	padding:$spacer*2;
 	color:white;
+	padding-bottom:200px;
 }
 
 .sitefooter__meta {
@@ -366,3 +504,4 @@ input[type="text"], input[type="email"] {
 		background-color: transparent;
 	}
 }
+
