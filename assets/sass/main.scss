@@ -438,7 +438,10 @@ p a {
 	background-color:black;
 	padding:$spacer*2;
 	color:white;
-	padding-bottom:200px;
+	transition: padding, 0.5s;
+	@media screen and (max-width:$breakpoint_primnav) {
+		padding-bottom:150px;
+	}
 }
 
 .sitefooter__meta {
