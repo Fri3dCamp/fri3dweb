@@ -11,7 +11,7 @@ layout: "single"
 {{< gallery >}}
 </div>
 <div class="block--centered">
-<h2>Call for Proposals</h2>
+<h2>Call for Participation</h2>
 <p>De inhoud op Fri3d Camp komt <strong>volledig van de deelnemers</strong>. Dat vinden we erg belangrijk, en dat maakt Fri3d Camp ook bijzonder. <strong>Binnenkort lanceren we een call for proposals</strong> waar je jouw voorstel voor een workshop, talk of andere activiteit op het officiële programma kan indienen.</p>
 </div>
 
