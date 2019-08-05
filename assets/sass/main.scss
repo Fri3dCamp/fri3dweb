@@ -119,10 +119,9 @@ p a {
 	grid-template-areas: 
     "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav";
 	//position: fixed;
-	@media screen and (max-width:$breakpoint3) {
+	@media screen and (max-width:$breakpoint2b) {
 		grid-template-areas: 
-		"ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker"
-		"secnav secnav secnav secnav secnav secnav secnav secnav secnav secnav secnav secnav";
+		"ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker";
 		text-align: center;
 	}
 }
@@ -280,14 +279,16 @@ p a {
 .sitenav--prim {
 	display: flex;
 	flex-wrap: wrap;
-	background-color: black;
+	background-color: $clr_C_dark;
 	height:auto;
 	align-items: center;
 	@media screen and (min-width: ($breakpoint_primnav + 1px) ) {
 		border-bottom:1.2rem solid white;
+		background-color: black;
+		border-top: 4px solid $clr_C;
 	}
 	grid-column: 1 / span 12;
-	border-top: 4px solid $clr_C;
+	border-top: 4px solid $clr_C_dark;
 	justify-content: space-between;
 	@media screen and (max-width: $breakpoint1) {
 		justify-content: space-around;
@@ -315,6 +316,15 @@ p a {
 			border-top:1px solid $clr_A;
 		}
 	}
+}
+
+.sitenav--prim .menuitems .sitenav--sec {
+	background-color:black;
+	text-align:left;
+	padding-right: 0;
+}
+.sitenav--prim .menuitems .sitenav--sec a {
+	font-size:1.6rem;
 }
 
 .menuitems a:first-child {
