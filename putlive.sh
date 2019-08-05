@@ -1,0 +1,1 @@
+rsync -rP --delete --exclude=photos public/* autotoon@thecommons.dreamhost.com:~/www2020.fri3d.be/
