@@ -9,5 +9,16 @@ layout: "single"
 	<p>Onze inspiratie zijn de grote Europese kampen die elke twee jaar worden georganiseerd, zoals <a href="https://events.ccc.de/camp/">CCC Camp</a> of <a href="https://sha2017.org/">SHA</a>.</p>
 	<h2>Orga-team</h2>
 	<p>De eerste drie edities van Fri3d Camp werden op poten gezet door een los team van vrijwilligers, met ondersteuning van IO Lab bvba.</p>
-	<p>Na drie edities van Fri3d Camp, zetten we de stap om een VZW op te richten die de organisatie behartigt. Deze VZW is momenteel in oprichting.</p>
+	<p>Na drie edities van Fri3d Camp, zetten we de stap om een VZW op te richten die de organisatie behartigt.</p>
+</div>
+<hr class="gridrule" />
+<div class="block--centered">
+	<address class="orgacontact">
+		<p>
+		Fri3d VZW<br/>
+		Grote Hondstraat 44 - APE Collective<br/>
+		2018 Antwerpen<br/>
+		BTW BE 0734.464.006
+		</p>
+	</address>
 </div>
