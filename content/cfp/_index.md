@@ -16,7 +16,7 @@ layout: "single"
 </div>
 
 <div class="block--centered">
-<p>Vanaf nu <strong>tot en met 15 januari 2020</strong> verzamelen we al jullie voorstellen. Daarna gaat het Fri3d content-team aan de slag met het samenstellen van het officiële Fri3d programma. Indienen op onze CFP is dé weg om mee op het programma te komen en zeker te zijn van je tickets voor Fri3d 2020 - wacht er dus niet te lang mee ^_^</p>
+<p>Vanaf nu <strong>tot en met 15 januari 2020</strong> verzamelen we al jullie voorstellen. Daarna gaat het Fri3d content-team aan de slag met het samenstellen van het officiële Fri3d programma. Indienen op onze CFP is dé weg om mee op het programma te komen en zeker te zijn van je tickets voor Fri3d Camp 2020 - wacht er dus niet te lang mee ^_^</p>
 </div>
 <div class="block--centered">
 <h2 class="block__ttl">Bedankt</h2>
