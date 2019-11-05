@@ -21,7 +21,15 @@ layout: "single"
 <div class="block--centered">
 <h2 class="block__ttl">Bedankt</h2>
 <p>Fri3d Camp is er voor jou en vooral dankzij jou. Dus dankjewel om van deze vierde editie opnieuw een succes te willen maken!<br/>
-Ken je iemand die geknipt is voor Fri3d Camp? Stuur deze link zeker door, en deel ze overal waar je wil, on- en offline.</p>
+Ken je iemand die geknipt is voor Fri3d Camp? Stuur <a href="/cfp/">deze link</a> zeker door, en deel de CfP overal waar je wil, on- en offline.</p>
+</div>
+<div class="block--callout">
+<div class="decoblock decoblock--wave decoblock--br"></div>
+
+<div class="decoblock decoblock--dots decoblock--l"></div>
+<h2 class="block__ttl">Hang een affiche op</h2>
+<p>Weet je een goeie plek om <strong>een CfP affiche op te hangen?</strong> Geweldig! Je kan affiches oppikken in de <a href="https://www.meetup.com/nl-NL/OpenGarage/">Open Garage</a> (sowieso een heel goed idee om daar 's langs te gaan!) die je dan een zichtbare plek kan geven in je school, bedrijf, hackerspace,...</p>
+<p>Lukt dat niet, dan kan je ook <a href="/downloads/affiche_CFP.pdf">de affiche (PDF) downloaden</a> om zelf af te drukken en op te hangen.</p>
 <p><strong>Be excellent to each other!</strong></p>
 </div>
 <hr class="gridrule" />
