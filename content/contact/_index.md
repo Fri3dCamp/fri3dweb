@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: "single"
+layout: "contact"
 ---
 <div class="block--centered">
 
