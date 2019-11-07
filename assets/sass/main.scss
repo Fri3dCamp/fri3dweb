@@ -479,27 +479,6 @@ p a {
 	text-align: center;
 }
 
-input[type="text"], input[type="email"], textarea {
-	box-sizing: border-box;
-	border:1px solid black;
-	border-radius: $radius;
-	&:focus {
-		border:3px solid $clr_A;
-		padding:8px;
-	}
-	padding:10px;
-}
-
-.button, .zammad-form .btn {
-	background-color: $clr_C;
-	border:none;
-	border-radius: $radius;
-	padding:10px;
-	&:hover {
-		background-color: $clr_C_dark;
-	}
-}
-
 .social {
 	display: flex;
 	justify-content: center;

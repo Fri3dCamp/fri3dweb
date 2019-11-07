@@ -13,12 +13,5 @@ layout: "single"
 </div>
 <hr class="gridrule" />
 <div class="block--centered">
-	<address class="orgacontact">
-		<p>
-		Fri3d VZW<br/>
-		Grote Hondstraat 44 - APE Collective<br/>
-		2018 Antwerpen<br/>
-		BTW BE 0734.464.006
-		</p>
-	</address>
+	{{< vzw >}}
 </div>
