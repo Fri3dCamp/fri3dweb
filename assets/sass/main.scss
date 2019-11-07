@@ -383,7 +383,10 @@ p a {
 	font-weight: 300;
 	font-size: calc(3rem + 3vw);
 	margin:0;
-	grid-column: 4 / span 6;
+	grid-column: 2 / span 10;
+	@media screen and (min-width:$breakpoint2) {
+		grid-column: 4 / span 6;
+	}
 	text-align: center;
 }
 
@@ -431,11 +434,13 @@ p a {
 	@media screen and (min-width:$breakpoint2) {
 		grid-column: 4 / span 6;
 	}
-	text-align: center;
+	min-height: 150px;
+	text-align: center;	
 	padding: $spacer*2;
 	padding-top: $spacer;
 	padding-bottom: $spacer;
 	margin-bottom: $spacer*8;
+	margin-top: $spacer*4;
 	line-height: 1.5em;
 	font-size:2rem;
 	@media screen and (min-width:$breakpoint3) {
@@ -443,6 +448,27 @@ p a {
 	}
 	border:8px solid $clr_A;
 	position: relative;
+}
+
+
+.block--callout.block--noborder {
+	border:none;
+	background-color:$clr_B;
+}
+
+.cta a {
+	display: block;
+	background-color:$clr_A;
+	color:white;
+	border:5px solid black;
+	box-shadow: 8px 8px 0 black;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding:1rem;
+}
+
+.cta__subtext {
+	font-size:calc( 1.3rem + 0.5vw);
 }
 
 .sitefooter {

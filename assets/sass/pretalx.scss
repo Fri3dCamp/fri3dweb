@@ -1,0 +1,43 @@
+
+@import 'params.scss';
+.header.bg-primary {
+	background-color:rgba(125,75,179, 1) !important;
+}
+#main-container > header {
+	background-color:black;
+	h1{
+		padding-left:1rem;
+		padding-top: 1rem;
+		padding-right: 1rem;
+	}
+}
+#fri3dbar {
+  background-color: black;
+  padding: 1rem;
+  height:3.5rem;
+
+}
+#fri3dbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+#fri3dbar li {
+  margin-right: 1rem;
+}
+#fri3dbar li a {
+  color:white;
+  text-decoration: none;
+  font-weight: bold;
+}
+#fri3dbar + #top-bg {
+  top:3.5rem;
+  overflow-x: hidden;
+}
+.fri3dbar__homeicon {
+  display: inline-block;
+  height: 1rem;
+  margin-right: 0.5rem;
+  margin-bottom: 5px;
+}
