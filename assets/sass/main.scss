@@ -116,11 +116,11 @@ p a {
 
 .topbar {
 	@include gridrow;
-	grid-template-areas: 
+	grid-template-areas:
     "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav";
 	//position: fixed;
 	@media screen and (max-width:$breakpoint2b) {
-		grid-template-areas: 
+		grid-template-areas:
 		"ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker";
 		text-align: center;
 	}
@@ -151,14 +151,14 @@ p a {
 .logobar {
 	@include gridrow;
 	grid-template-rows: 33.333% 33.333% 33.333%;
-	grid-template-areas: 
+	grid-template-areas:
 	"lg lg bg bg bg bg bg bg bg bg bg bg"
 	"lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
 	"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
 
 
 	@media screen and (max-width:$breakpoint1) {
-		grid-template-areas: 
+		grid-template-areas:
 		"lg lg lg bg bg bg bg bg bg bg bg bg"
 		"lg lg lg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
 		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
@@ -166,7 +166,7 @@ p a {
 
 
 	@media screen and (max-width:$breakpoint3) {
-		grid-template-areas: 
+		grid-template-areas:
 		"lg lg lg lg lg bg bg bg bg bg bg bg"
 		"lg lg lg lg lg lbg lbg lbg lbg lbg lbg lbg"
 		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
@@ -233,7 +233,7 @@ p a {
 	padding-right:calc(0.8rem + 0.8vw);
 	padding-left:calc(0.8rem + 0.8vw);
 	font-size: calc(0.8rem + 0.8vw) ;
-	@media screen and (max-width:$breakpoint3) { 
+	@media screen and (max-width:$breakpoint3) {
 		padding-top:0;
 		font-size: calc(1rem + 0.6vw) ;
 	}
@@ -351,16 +351,16 @@ p a {
 	font-weight: 400;
 	font-size:2rem ;
 
-	@media screen and (max-width:$breakpoint0) {	
+	@media screen and (max-width:$breakpoint0) {
 		font-size:1.6rem ;
 		padding-right:$spacer;
 		padding-left:$spacer;
 	}
-	@media screen and (max-width:$breakpoint1) {	
+	@media screen and (max-width:$breakpoint1) {
 		font-size:1.4rem ;
 	}
 	text-decoration: none;
-	@media screen and (max-width:$breakpoint_primnav) {		
+	@media screen and (max-width:$breakpoint_primnav) {
 		padding-right:$spacer;
 		padding-left:$spacer;
 	}
@@ -431,7 +431,7 @@ p a {
 	@media screen and (min-width:$breakpoint2) {
 		grid-column: 4 / span 6;
 	}
-	text-align: center;	
+	text-align: center;
 	padding: $spacer*2;
 	padding-top: $spacer;
 	padding-bottom: $spacer;
@@ -479,7 +479,7 @@ p a {
 	text-align: center;
 }
 
-input[type="text"], input[type="email"] {
+input[type="text"], input[type="email"], textarea {
 	box-sizing: border-box;
 	border:1px solid black;
 	border-radius: $radius;
@@ -490,7 +490,7 @@ input[type="text"], input[type="email"] {
 	padding:10px;
 }
 
-.button {
+.button, .zammad-form .btn {
 	background-color: $clr_C;
 	border:none;
 	border-radius: $radius;

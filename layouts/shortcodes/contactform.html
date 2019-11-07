@@ -1,0 +1,25 @@
+<h2 class="block__ttl">Contactformulier</h2>
+<p>Vul onderstaand formulier in om contact met ons op te nemen.</p>
+<section class="contactform">
+	<div id="contactForm"></div>
+</section>
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		var zammadScript = document.createElement('script');
+		zammadScript.id = 'zammad_form_script';
+		zammadScript.onload = function () {
+			$('#contactForm').ZammadForm({
+				messageTitle: 'Feedback Form',
+				messageSubmit: 'Submit',
+				messageThankYou: 'Thank you for your inquiry (#%s)! We\'ll contact you as soon as possible.',
+				debug: false,
+				modal: false
+			});
+		};
+
+		zammadScript.src = 'https://zammad.fri3d.be/assets/form/form.js';
+		document.head.appendChild(zammadScript);
+	});
+</script>

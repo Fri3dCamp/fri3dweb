@@ -13,6 +13,10 @@ layout: "single"
 </ul> -->
 </div>
 
+<div class="block--centered">
+{{< contactform >}}
+</div>
+
 <hr class="gridrule" />
 
 <div class="block--centered">
