@@ -1,0 +1,48 @@
+input[type="text"], input[type="email"], textarea {
+	box-sizing: border-box;
+	border:1px solid black;
+	border-radius: $radius;
+	&:focus {
+		border:3px solid $clr_A;
+		padding:18px;
+	}
+	padding:20px;
+}
+
+.button, .zammad-form .btn {
+	cursor: pointer;
+	background-color: $clr_C;
+	border:none;
+	border-radius: $radius;
+	padding:10px;
+	&:hover {
+		background-color: $clr_C_dark;
+	}
+}
+
+
+.zammad-form {
+	margin-bottom:5rem;
+}
+
+.zammad-form .btn {
+	margin-top:1.5rem;
+}
+
+.zammad-form label {
+	font-weight: bold;
+	font-size: calc( 1.4rem + 0.5vw);
+	display: block;
+	margin-bottom: 1rem;
+}
+
+.zammad-form input {
+	margin-bottom: 1rem;
+}
+
+.zammad-form .js-thankyou {
+	padding:2rem;
+	background-color: $clr_B;
+	margin-top:5rem;
+	margin-bottom: 5rem;
+}

@@ -29,7 +29,7 @@
 					<a href="/contact/">contact</a> <a href="/privacy/">privacy</a> <a href="/sponsors/">sponsors</a>
 				</nav>
 				</div>
-				
+
 				<div class="logobar">
 					<a class="mainlogo" href="/">
 						<span class="visually-hidden">Fri3d Camp</span>
@@ -69,5 +69,7 @@
 		<script src="/js/jquery-3.4.1.min.js" ></script>
 		<script src="/js/gallery.js" ></script>
 		<script src="/js/nav.js" ></script>
+		{{ block "footer_scripts" .}}
+		{{ end }}
 	</body>
 </html>

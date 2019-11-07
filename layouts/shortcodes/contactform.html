@@ -1,0 +1,16 @@
+<h2 class="block__ttl">Contactformulier</h2>
+<section class="contactform">
+	<div id="contactForm"></div>
+</section>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+      $('#contactForm').ZammadForm({
+        messageTitle: 'Contactformulier',
+        messageSubmit: 'Versturen',
+        messageThankYou: 'Bedankt voor je vraag (#%s)! Je hoort spoedig van ons.',
+        debug: false,
+        modal: false
+      });
+	});
+</script>
