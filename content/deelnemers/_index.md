@@ -2,6 +2,15 @@
 title: "Voor deelnemers"
 layout: "single"
 ---
+
+<div class="block--centered">
+<h2>Call for Participation</h2>
+<p>De inhoud op Fri3d Camp komt <strong>volledig van de deelnemers</strong>. Dat vinden we erg belangrijk, en dat maakt Fri3d Camp ook bijzonder. <strong>Dien dus zeker jouw voorstel in op onze <a href="/cfp">call for participation</a></strong>! Zo krijg je je een workshop, talk of andere activiteit op het officiële programma van Fri3d Camp 2020.</p>
+</div>
+
+{{< cta-cfp href="/cfp" >}}
+
+<hr class="gridrule" />
 <div class="block--centered">
 
 <h2>Het Terrein</h2>
@@ -9,10 +18,6 @@ layout: "single"
 </div>
 <div class="block--centered">
 {{< gallery >}}
-</div>
-<div class="block--centered">
-<h2>Call for Participation</h2>
-<p>De inhoud op Fri3d Camp komt <strong>volledig van de deelnemers</strong>. Dat vinden we erg belangrijk, en dat maakt Fri3d Camp ook bijzonder. <strong>Binnenkort lanceren we een call for proposals</strong> waar je jouw voorstel voor een workshop, talk of andere activiteit op het officiële programma kan indienen.</p>
 </div>
 
 <div class="block--centered">
