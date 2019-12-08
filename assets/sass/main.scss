@@ -402,7 +402,6 @@ p a {
 	grid-area: ticker;
 	color:white;
 	list-style: none;
-	padding: 0;
 	margin: 0;
 	background-color:$clr_C_dark;
 	padding:$spacer;
@@ -528,3 +527,13 @@ p a {
 	font-style:normal;
 }
 
+.langnav {
+	padding:$spacer;
+	padding-right:$spacer*2;
+	//display: flex;
+	display: none;
+	flex-direction: row-reverse;
+}
+.langnav a {
+	margin-left: $spacer;
+}

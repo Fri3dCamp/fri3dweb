@@ -1,7 +1,7 @@
 {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "sass/style.scss" | resources.ToCSS $options }}
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="{{ .Language }}">
 	<head>
 		<title>
 			{{ block "title" . }}
@@ -23,30 +23,25 @@
 			<header class="siteheader">
 				<div class="topbar">
 					<ul class="ticker">
-						<li>14 - 16 augustus 2020</li>
-					</ul>
-					<nav class="sitenav sitenav--sec">
-					<a href="/contact/">contact</a> <a href="/privacy/">privacy</a> <a href="/sponsors/">sponsors</a>
-				</nav>
+						<li>14 - 16 {{ if eq .Language.Lang "en" }}August{{ else }}augustus{{ end }} 2020</li>
+					</ul>					
+					{{ partial "secnav.html" . }}
 				</div>
-
 				<div class="logobar">
 					<a class="mainlogo" href="/">
 						<span class="visually-hidden">Fri3d Camp</span>
 					</a>
 				</div>
 				<div class="navbar">
-					<nav class="sitenav sitenav--prim" id="primarynav">
-						<a href="/" class="sitenav__homelink"><span class="visually-hidden">Home</span></a>						
-						<a href="#primarynav" class="js_opennav vis--small sitenav__hamburger"><span class="visually-hidden">Menu</span></a>
-						<div class="js_navmenu menuitems hideonsmall">
-							<a href="/cfp" >Call for Participation</a>
-							<a href="/tickets/">Tickets</a> 
-							<a href="/deelnemers/">Voor deelnemers</a> 
-							<a href="/wat" >Over Fri3d Camp</a>
-						</div>
-					</nav>
+					{{ partial "sitenav.html" . }}
 				</div>
+			{{ if .IsTranslated }}
+			<nav class="langnav">
+			{{ range .Translations }}
+				<a href="{{ .Permalink }}">{{ .Language.Params.LanguageDesc }}</a>
+			{{ end}}
+			</nav>
+			{{ end }}
 			</header>
 			<div class="pagewrapper">
 			<div class="pagettl">
@@ -57,18 +52,19 @@
 			</div>
 			<footer class="sitefooter">
 				<div class="sitefooter__meta">
-					<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>
+					{{ if eq .Language.Lang "en" }}<p>You're free to distribute the information, images and logos on our site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">freely</a>.</p>{{ else }}
+					<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>{{ end }}
 					<p>
-					<a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl"><img class="cclicense" alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
+					<a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.{{ .Language.Lang }}"><img class="cclicense" alt="Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
 				</div>
 				<nav class="sitefooter__nav">
-					<a href="http://program.fri3d.be">Programma 2018</a> <a href="https://wiki2018.fri3d.be">Wiki 2018</a> <a href="/styleguide">Stijlgids</a>
+					<a href="http://program.fri3d.be">{{ if eq .Language.Lang "en" }}Program 2018{{ else }}Programma 2018{{ end }}</a> <a href="https://wiki2018.fri3d.be">Wiki 2018</a> <a href="/styleguide">{{ if eq .Language.Lang "en" }}Styleguide{{ else }}Stijlgids{{ end }}</a>
 				</nav>
 			</footer>
 		</div>
-		<div class="sponsors">
-			<h2>Sponsors | <a href="/sponsors/">Sponsor worden</a></h2>
-			<img src="/img/sponsorblok.png" alt="sponsors Dekimo, Espressif, De Werkkamer en Linux Belgium" />
+		<div class="partners">
+			<h2>Partners | {{ if eq .Language.Lang "en" }}<a href="/partners/">Become a partner</a>{{ else }}<a href="/partners/">Partner worden</a>{{ end }}</h2>
+			<img src="/img/partnerblok.png" alt="{{ if eq .Language.Lang "en" }}partners Dekimo, Espressif, De Werkkamer and Linux Belgium{{ else }}partners Dekimo, Espressif, De Werkkamer en Linux Belgium{{ end }}" />
 		</div>
 		<script src="/js/jquery-3.4.1.min.js" ></script>
 		<script src="/js/gallery.js" ></script>

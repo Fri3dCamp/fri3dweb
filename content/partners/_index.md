@@ -1,5 +1,5 @@
 ---
-title: "Sponsors"
+title: "Partners"
 layout: "single"
 ---
 <div class="block--centered">
@@ -8,6 +8,6 @@ layout: "single"
 <hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--dots decoblock--l"></div>
-<p>Wil je als sponsor bijdragen aan Fri3d Camp 2020, neem dan contact op via <a href="mailto:info@fri3d.be">info@fri3d.be</a>.</p>
+<p>Wil je als partner bijdragen aan Fri3d Camp 2020, neem dan contact op via <a href="mailto:info@fri3d.be">info@fri3d.be</a>.</p>
 <div class="decoblock decoblock--xu decoblock--br"></div>
 </div>

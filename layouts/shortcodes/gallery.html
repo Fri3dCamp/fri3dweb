@@ -1,7 +1,8 @@
-<h2 class="block__ttl">Foto's van editie 2018</h2>
+<h2 class="block__ttl">
+		{{ if eq .Site.Language.Lang "en" }}Photos from 2018{{ else }}Foto's van editie 2018{{ end }}</h2>
 <section class="gallery">
 	<figure class="gallery__image" style="background-image: url('/photos/fri3d2018/2.jpg')">
-		<figcaption>Welkom</figcaption>
+		<figcaption>{{ if eq .Site.Language.Lang "en" }}Welcome{{ else }}Welkom{{ end }}</figcaption>
 	</figure>
 	<figure class="gallery__image"  style="background-image: url('/photos/fri3d2018/5.jpg')">
 		<figcaption>Workshop</figcaption>
@@ -10,7 +11,7 @@
 		<figcaption>Bristlebot</figcaption>
 	</figure>
 	<figure class="gallery__image"  style="background-image: url('/photos/fri3d2018/13.jpg')">
-		<figcaption>Workshop sjorren</figcaption>
+		<figcaption>{{ if eq .Site.Language.Lang "en" }}Lashing workshop{{ else }}Workshop sjorren{{ end }}</figcaption>
 	</figure>
 	<figure class="gallery__image"  style="background-image: url('/photos/fri3d2018/16.jpg')">
 		<figcaption>Fablab truck</figcaption>
@@ -19,18 +20,18 @@
 		<figcaption>Fri3d Badge workshop</figcaption>
 	</figure>
 	<figure class="gallery__image"  style="background-image: url('/photos/fri3d2018/25.jpg')">
-		<figcaption>Knutselbaar met Ingegno</figcaption>
+		<figcaption>{{ if eq .Site.Language.Lang "en" }}Knutselbaar with Ingegno{{ else }}Knutselbaar met Ingegno{{ end }}</figcaption>
 	</figure>
 	<figure class="gallery__image" style="background-image: url('/photos/fri3d2018/39.jpg')">
-		<figcaption>Robots van Jan De Coster</figcaption>
+		<figcaption>{{ if eq .Site.Language.Lang "en" }}Jan De Coster's Robots{{ else }}Robots van Jan De Coster{{ end }}</figcaption>
 	</figure>
 	<figure class="gallery__image"  style="background-image: url('/photos/fri3d2018/48.jpg')">
-		<figcaption>Raketten lanceren</figcaption>
+		<figcaption>{{ if eq .Site.Language.Lang "en" }}Launching rockets{{ else }}Raketten lanceren{{ end }}</figcaption>
 	</figure>
 	<figure class="gallery__image"  style="background-image: url('/photos/fri3d2018/54.jpg')">
-		<figcaption>Workshop mechanical keyboards</figcaption>
+		<figcaption>{{ if eq .Site.Language.Lang "en" }}Mechanical Keyboard Workshop{{ else }}Workshop mechanical keyboards{{ end }}</figcaption>
 	</figure>
-	<div class="gallery__copyright">Foto's door <a href="https://www.sebastiaanfranco.com/">Sebastiaan Franco</a></div>
+	<div class="gallery__copyright">{{ if eq .Site.Language.Lang "en" }}Photography by{{ else }}Foto's door{{ end }} <a href="https://www.sebastiaanfranco.com/">Sebastiaan Franco</a></div>
 </section>
 <div class="gallery__overlay gallery__overlay--hidden">
 	<figure style="background-image: url('/photos/fri3d2018/54.jpg')">

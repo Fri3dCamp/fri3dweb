@@ -1,8 +1,13 @@
 <div class="block--callout block--noborder">
 	<div class="decoblock decoblock--hammer decoblock--l"></div>
 	<div class="cta cta--cfp">
+		{{ if eq .Site.Language.Lang "en" }}
+		<a href="{{ index .Params "href" }}">Submit your idea!</a>
+		<p class="cta__subtext">You'll be able to change your proposal afterwards.</p>
+		{{ else }}
 		<a href="{{ index .Params "href" }}">Dien hier je voorstel in!</a>
 		<p class="cta__subtext">Na het indienen kan je je voorstel nog aanpassen.</p>
+		{{ end }}
 	</div>
 	<div class="decoblock decoblock--wave decoblock--br"></div>
 </div>
