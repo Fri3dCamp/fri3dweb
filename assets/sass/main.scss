@@ -530,8 +530,8 @@ p a {
 .langnav {
 	padding:$spacer;
 	padding-right:$spacer*2;
-	//display: flex;
-	display: none;
+	display: flex;
+	//display: none;
 	flex-direction: row-reverse;
 }
 .langnav a {
