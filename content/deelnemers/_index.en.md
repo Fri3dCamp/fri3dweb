@@ -8,7 +8,7 @@ layout: "single"
 <p>The content at Fri3d Camp is <strong>fully supplied by the participants</strong>. This means a lot to us, and is what makes Fri3d Camp special. So <strong>be sure to enter your submission for our <a href="/en/cfp">call for participation</a></strong>! This way we can get your talk, workshop or other activity on the official Fri3d Camp 2020 program.</p>
 </div>
 
-{{< cta-cfp href="/cfp" >}}
+{{< cta-cfp href="/en/cfp" >}}
 
 <hr class="gridrule" />
 <div class="block--centered">
