@@ -5,7 +5,7 @@
 	<head>
 		<title>
 			{{ block "title" . }}
-			{{ with .Title }}{{ . }}{{ end }} | {{ .Site.Title }}
+			{{ with .Title }}{{ . }}| {{ end }}{{ .Site.Title }}
 			{{ end }}
 		</title>
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600|Open+Sans:400,700|Ubuntu+Mono:400" rel="stylesheet">
@@ -19,34 +19,36 @@
 		{{ partial "opengraph.html" . }}
 	</head>
 	<body>
-		<div class="sitewrapper">
-			<header class="siteheader">
-				<div class="topbar">
-					<ul class="ticker">
-						<li>14 - 16 {{ if eq .Language.Lang "en" }}August{{ else }}augustus{{ end }} 2020</li>
-					</ul>					
-					{{ partial "secnav.html" . }}
-				</div>
-				<div class="logobar">
-					<a class="mainlogo" href="/">
-						<span class="visually-hidden">Fri3d Camp</span>
-					</a>
-				</div>
-				<div class="navbar">
-					{{ partial "sitenav.html" . }}
-				</div>
-			{{ if .IsTranslated }}
-			<nav class="langnav">
-			{{ range .Translations }}
-				<a href="{{ .Permalink }}">{{ .Language.Params.LanguageDesc }}</a>
-			{{ end}}
-			</nav>
-			{{ end }}
-			</header>
-			<div class="pagewrapper">
-			<div class="pagettl">
-				<h1>{{ with .Title }}{{ . }}{{ end }}</h1>
+		<header class="siteheader">
+			<div class="topbar">
+				<ul class="ticker">
+					<li>14 - 16 {{ if eq .Language.Lang "en" }}August{{ else }}augustus{{ end }} 2020</li>
+				</ul>					
+				{{ partial "secnav.html" . }}
 			</div>
+			<div class="logobar">
+				<a class="mainlogo" href="/">
+					<span class="visually-hidden">Fri3d Camp</span>
+				</a>
+			</div>
+			<div class="navbar">
+				{{ partial "sitenav.html" . }}
+			</div>
+		{{ if .IsTranslated }}
+		<nav class="langnav">
+		{{ range .Translations }}
+			<a href="{{ .Permalink }}">{{ .Language.Params.LanguageDesc }}</a>
+		{{ end}}
+		</nav>
+		{{ end }}
+		</header>
+		<div class="sitewrapper">
+			<div class="pagewrapper">
+			{{ with .Title }}
+			<div class="pagettl">
+				<h1>{{ . }}</h1>
+			</div>
+			{{ end }}
 			{{ block "main" .}}
 			{{ end }}
 			</div>

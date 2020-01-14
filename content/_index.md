@@ -1,5 +1,4 @@
 ---
-title: "Welkom!"
 ---
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>

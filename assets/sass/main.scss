@@ -131,7 +131,7 @@ p a {
 	top:0;
 	z-index: 10;
 	width: 100%;
-	max-width: $maxwidth;
+	//max-width: $maxwidth;
 }
 
 .visually-hidden {
@@ -151,34 +151,35 @@ p a {
 .logobar {
 	@include gridrow;
 	grid-template-rows: 33.333% 33.333% 33.333%;
+	grid-template-columns: repeat(25,4%);
 	grid-template-areas:
-	"lg lg bg bg bg bg bg bg bg bg bg bg"
-	"lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
-	"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
-
-
-	@media screen and (max-width:$breakpoint1) {
-		grid-template-areas:
-		"lg lg lg bg bg bg bg bg bg bg bg bg"
-		"lg lg lg lbg lbg lbg lbg lbg lbg lbg lbg lbg"
-		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
-	}
-
-
-	@media screen and (max-width:$breakpoint3) {
-		grid-template-areas:
-		"lg lg lg lg lg bg bg bg bg bg bg bg"
-		"lg lg lg lg lg lbg lbg lbg lbg lbg lbg lbg"
-		"bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg bbg";
-	}
-
-
+	"lg lg lg lg"
+	"lg lg lg lg";
 	width:100%;
 	background-image:url('/img/headerimg.svg');
 	background-size: cover;
-	height:8.333vw*3;
-	max-height: ($maxwidth*3/12);
+	background-size: auto 4vw*5;
+	height:4vw*3;
+	max-height:4vw*3;
 	background-color: $clr_A;
+
+
+	@media screen and (max-width:$breakpoint1) {
+		grid-template-columns: repeat(12,8.33%);
+		grid-template-areas:
+		"lg lg lg lg"
+		"lg lg lg lg";
+		background-size: auto 8.333vw*5;
+		height:8.333vw*3;
+		max-height:8.333vw*3;
+	}
+
+	@media screen and (max-width:$breakpoint3) {
+		grid-template-areas:
+		"no no no no lg lg lg lg"
+		"no no no no lg lg lg lg";
+	}
+
 }
 
 .navbar {
@@ -196,7 +197,7 @@ p a {
 	position: fixed;
 	z-index: 10;
 	width: 100%;
-	max-width: $maxwidth;
+	//max-width: $maxwidth;
 }
 
 .mainlogo {
@@ -204,12 +205,15 @@ p a {
 	text-decoration: none;
 	grid-area: lg;
 	position: relative;
-	padding: $spacer*2;
+	//padding: $spacer*2;
 	background-color: black;
 	background-image:url('/img/logo_white.svg');
 	background-repeat: no-repeat;
 	background-size: 80%;
 	background-position: center;
+	/*@media screen and (max-width:$breakpoint1) {
+		background-size: 60%;
+	}*/
 }
 
 .sitenav--sec {
