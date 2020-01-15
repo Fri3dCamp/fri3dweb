@@ -1,3 +1,11 @@
+.partners {
+	margin-bottom: 10rem;
+
+	@media screen and (min-width:$breakpoint_primnav) {
+		margin-bottom: 2rem;
+	}
+}
+
 .partners img {
 	display: block;
 	position: relative;
