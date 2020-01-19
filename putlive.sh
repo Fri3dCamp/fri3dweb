@@ -1,1 +1,2 @@
-hugo && rsync -rP --delete --exclude=photos public/* autotoon@thecommons.dreamhost.com:~/www2020.fri3d.be/
+hugo && rsync -rP --delete --exclude=photos public/* autotoon@thecommons.dreamhost.com:~/fri3d.be/ rsync -rP --delete public/.htaccess autotoon@thecommons.dreamhost.com:~/fri3d.be/ 
+rsync -rP --delete public/.htaccess_2020 autotoon@thecommons.dreamhost.com:~/www2020.fri3d.be/.htaccess

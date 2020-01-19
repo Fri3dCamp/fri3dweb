@@ -15,8 +15,6 @@ layout: "contact"
 	{{< vzw >}}
 </div>
 <hr class="gridrule" />
-
-
 <div class="block--centered">
 {{< mailinglist >}}
 </div>
