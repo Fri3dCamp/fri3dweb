@@ -1,0 +1,11 @@
+<div class="block--callout block--noborder">
+	<div class="decoblock decoblock--hammer decoblock--l"></div>
+	<div class="cta cta--cfp">
+		{{ if eq .Site.Language.Lang "en" }}
+		<a href="{{ index .Params "href" }}">Order your tickets!</a>
+		{{ else }}
+		<a href="{{ index .Params "href" }}">Bestel je tickets!</a>
+		{{ end }}
+	</div>
+	<div class="decoblock decoblock--wave decoblock--br"></div>
+</div>
