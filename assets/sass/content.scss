@@ -73,7 +73,24 @@ td {
 	text-align: left;
 }
 
+h2 {
+	line-height: 1.5em;
+}
+
 .centerme {
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.img-right {
+	float:none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: $spacer;
+	@media screen and (min-width:$breakpoint3) {
+		float: right;
+		margin-left: $spacer;
+		margin-right: 0;
+	}
 }

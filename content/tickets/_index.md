@@ -6,12 +6,22 @@ layout: "single"
 <p>
 Om deel te nemen aan Fri3d Camp, moet je tickets op voorhand kopen voor alle deelnemers. Er zijn geen tickets voor één dag of voor een ad-hoc bezoek, enkel voor het volledige weekend.
 </p>
+<h2>Wat zit er in een ticket?</h2>
+<ul>
+	<li>Het volledige verblijf tijdens Fri3d Camp.</li>
+	<li>Gratis deelname aan alle activiteiten en workshops, op eventuele materiaalkost na.</li>
+	<li>Twee warme maaltijden, resp. vrijdag- en zaterdagavond.</li>
+	<li>Een programmeerbare badge.</li>
+</ul>
+<h2>Wat verwachten we van jou?</h2>
+<ul>
+	<li>Hou je aan de <a href="/deelnemers/excellent">gedragscode</a>.</li>
+	<li>Elke deelnemer vanaf 16 jaar draait minstens één shift mee om het kamp te doen draaien (ondersteuning workshops, bar bemannen,...). Als je dit <em>niet</em> wil, kan je een premium ticket aankopen.</li>
+</ul>
 </div>
-<div class="block--callout">
-	<div class="decoblock decoblock--dots decoblock--l"></div>
-	<p>De early-bird <a href="https://tickets.fri3d.be">ticketshop</a> gaat open <strong>op 22 januari</strong>. Dat betekent dat mensen die op 15 januari een activiteit op de <a href="/cfp">CfP</a> hadden ingediend, al tickets kunnen kopen. Circa een week later, opent de ticketshop voor de deelnemers van vorige editie, en daarna pas voor de rest van de wereld. Als je ingeschreven bent op de <a href="#mailinglist">Fri3d Camp mailinglist</a>, ontvang je hierover ook telkens een mail.</p>
-	<div class="decoblock decoblock--xu decoblock--br"></div>
-</div>
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
 <div class="block--centered centered" >
 	<h2>Ticketprijzen</h2>
 	<table class="centerme">
@@ -33,12 +43,6 @@ Om deel te nemen aan Fri3d Camp, moet je tickets op voorhand kopen voor alle dee
 	</p>
 </div>
 
-{{< cta-tickets href="https://tickets.fri3d.be/" >}}
-
-<!--<ul>
-	<li>Hoe weet je wanneer ticketverkoop start</li>
-	<li>Prijsstructuur tickets(?)</li>
-</ul>-->
 <a name="mailinglist"></a>
 <hr class="gridrule" />
 

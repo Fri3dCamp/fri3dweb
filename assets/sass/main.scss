@@ -468,10 +468,21 @@ p a {
 	margin-left: 10%;
 	margin-right: 10%;
 	padding:1rem;
+	&:last-child {
+		margin-bottom: 2em;
+	}
 }
 
 .cta__subtext {
 	font-size:calc( 1.3rem + 0.5vw);
+	line-height: 1.2em;
+	margin-bottom: 1em;
+}
+
+.cta__toptext {
+	font-size:calc( 1.3rem + 0.5vw);
+	line-height: 1.2em;
+	margin-bottom: 2em;
 }
 
 .sitefooter {
