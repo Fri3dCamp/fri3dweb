@@ -7,6 +7,7 @@
 </div>
 
 
+<div class="block--centered">
 <h2>What to expect?</h2>
 <p>Fri3d Camp is an interesting mix of technology festival, easy-going camping atmosphere, and a hacker convention.</p>
 <p>We take our inspiration from the large European hacker camps like <a href="https://events.ccc.de/camp/">CCC Camp</a> and <a href="https://sha2017.org/">SHA</a>.</p>
