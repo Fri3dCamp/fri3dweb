@@ -1,5 +1,5 @@
 ---
-title: "Be Excellent to Eachother"
+title: "Be Excellent to Each other"
 layout: "single"
 ---
 <div class="block--centered">

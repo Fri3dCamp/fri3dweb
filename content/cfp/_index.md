@@ -10,7 +10,7 @@ layout: "single"
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3d2020/cfp" >}}
 
 <div class="block--centered">
-<p><strong>De inzet:</strong> Als jouw voorstel door de eerste selectie raakt, krijg je als ‘content host’ voorrang om tickets te kopen voor jou en je gezin. Verder zorgen we voor de plek die je nodig hebt en bespreken we eventuele extra ondersteuning of andere voorzieningen die nodig zijn om jouw voorstel op Fri3d te krijgen.</p>
+<p><strong>De inzet:</strong> Als jouw voorstel door de eerste selectie raakt, zorgen we voor de plek die je nodig hebt en bespreken we eventuele extra ondersteuning of andere voorzieningen die nodig zijn om jouw voorstel op Fri3d te krijgen.</p>
 
 <p>Ja, <strong>ook jij kan iets bijdragen</strong>. We zijn er van overtuigd dat iedereen vanuit haar of zijn eigen passie of interesse iets kan leren aan iedereen. Je voorstel hoeft geen lezing of workshop te zijn. Je kan bijvoorbeeld een buizenpost aanleggen op het terrein, een lichtkunst installatie maken, een bosspel organiseren, een enorme geodetische koepel bouwen...  We staan open voor alle voorstellen en kijken graag hoe we jou kunnen ondersteunen!</p>
 </div>

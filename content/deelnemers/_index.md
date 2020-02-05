@@ -13,13 +13,13 @@ layout: "single"
 <div class="block--centered">
 <h2>Hier moet je rekening mee houden</h2>
 <h3>Kamperen</h3>
-<p>Je brengt je eigen tent, camper, caravan,... mee. Er is een <strong>beperkt aantal slaapkamers</strong> die we te huur aanbieden, interesse kan je aangeven bij je <a href="/tickets">ticketaankoop</a>.</p>
+<p>Je brengt je eigen tent, camper, caravan,... mee. Er is een <strong>beperkt aantal slaapkamers</strong> die we te huur aanbieden, interesse kan je aangeven bij je <a href="/tickets">ticketaankoop</a>. Je kan ook mailen naar <a href="mailto:info@fri3d.be">info@fri3d.be</a> als je interesse hebt in zo'n slaapplaats.</p>
 <p>Er zijn geen strak afgebakende kampeerplaatsen. Je zoekt dus een geschikte plaats en houdt rekening met voldoende plek voor de buren. Er is een centraal elektriciteitspunt per kampeerterrein, we verwachten dat deelnemers hun <strong>verlengkabels <a href="https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)">daisychainen</a></strong> en zo elkaar van stroom voorzien.
 <p>Er is WiFi op de kampeerterreinen. <strong>GSM-bereik is daarentegen quasi onbestaand</strong> op De Kluis.</p>
 <p>Het is een geëerde traditie om elke tent/caravan/camper van <strong>zoveel mogelijk gekleurde LED-lichtjes</strong> te voorzien, die in het donker een prachtig schouwspel opleveren. Als je denkt dat je te veel LED-strips meeneemt, is het antwoord altijd 'nee'.</p>
-<p>Er zijn <strong>sanitaire blokken</strong> op het terrein, en we voorzien ook <strong>koelkasten op de kampeerterreinen</strong> waar je je bederfbare etenswaren in kwijt kan. We vragen wel om hier geen flessen drank in te zetten, omdat ze anders erg snel vol zouden staan.</p>
+<p>Er zijn <strong>sanitaire blokken</strong> op het terrein, en we voorzien ook <strong>koelkasten op de kampeerterreinen</strong> waar je je bederfbare etenswaren in kwijt kan. We vragen wel om hier geen flessen drank in te zetten, omdat ze anders erg snel vol zouden staan. Er is altijd gekoelde drank te krijgen aan de bar.</p>
 <h3>Activiteiten</h3>
-<p>Alle activiteiten worden georganiseerd door de de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemers/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
+<p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemers/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
 <p>We stimuleren <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
 <h3>Kinderen</h3>
@@ -27,11 +27,11 @@ layout: "single"
 <p>Kinderen <strong>vanaf vijf à zes jaar oud</strong> kunnen met begeleiding aan heel veel activiteiten deelnemen, en zullen zich op het terrein goed kunnen amuseren. Voor jongere kinderen zullen er minder activiteiten geschikt zijn, zij zullen dus minder hebben aan het georganiseerde aanbod.</p>
 <p>Kinderen van alle leeftijden zijn welkom, maar hou er rekening mee dat er <strong>geen kinderopvang georganiseerd</strong> wordt en dat het ook niet de bedoeling is dat jonge kinderen zonder begeleiding deelnemen aan workshops die daar niet voor bedoeld zijn (check de <a href="/deelnemers/excellent">gedragscode</a>). Kom je met partner, vrienden of familie naar Fri3d Camp, maak dan op voorhand dus goede afspraken over de begeleiding van jullie kinderen.</p>
 <h3>Eten en drinken</h3>
-<p>Er zitten twee warme maaltijden in je ticket, voor vrijdag- en zaterdagavond. Daarnaast zijn er ook snacks aan de bar te verkrijgen. Voor je ontbijt, lunch, etc. ben je op jezelf aangewezen. Er is een supermarkt in de buurt, en op de kampeerterreinen zijn er gedeelde koelkasten waar je bederfbare spullen in kwijt kan.</p>
+<p>Er zitten twee warme maaltijden in je ticket, voor vrijdag- en zaterdagavond. Voor je ontbijt, lunch, etc. ben je op jezelf aangewezen. Er is een supermarkt in de buurt, en op de kampeerterreinen zijn er gedeelde koelkasten waar je bederfbare spullen in kwijt kan. Daarnaast zijn er ook snacks aan de bar te verkrijgen.</p>
 <p>We voorzien gratis koffie, en een bar waar je terecht kan voor een rijk palet aan gekoelde dranken.</p>
 <p>Voor drank en snacks betaal je met je drankenkaart. Drankenkaarten koop je aan de infodesk.</p>
 <h3>Dieren</h3>
-<p>Honden en andere huisdieren zijn niet welkom op Fri3d Camp. Met uitzondering van assistentiedieren (blindegeleidehonden e.d.) kunnen we, omwille van veiligheidsredenen, <strong>geen huisdieren toestaan</strong> op Fri3d Camp.</p>
+<p>Honden en andere huisdieren zijn niet welkom op Fri3d Camp. Met uitzondering van assistentiedieren (blindegeleidehonden e.d.) kunnen we, omwille van veiligheidsredenen, <strong>geen huisdieren toestaan</strong> op Fri3d Camp. Voor goudvissen maken we een uitzondering, als ze aan de leiband gehouden worden.</p>
 </div>
 
 <hr class="gridrule" />

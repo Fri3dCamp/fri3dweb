@@ -10,7 +10,7 @@ layout: "single"
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3d2020/cfp" >}}
 
 <div class="block--centered">
-<p><strong>The stakes:</strong> All received content proposals of sufficient quality to consider for the main program, will get early access to ticket sales for themselves and their family. If your proposal is accepted and included in the official program, you'll get a free drinks card and some exclusive content-host goodies. We will do everything we can to make sure your activity is a success, we're open to discussus activity requirements such as providing specific support or facilities you or your activity might require.
+<p>If your proposal is accepted and included in the official program, you'll get a free drinks card and some exclusive content-host goodies. We will do everything we can to make sure your activity is a success, we're open to discussus activity requirements such as providing specific support or facilities you or your activity might require.
 </p>
 
 <p>If you think you have nothing worthy enough to contribute, think again! <strong>We're convinced anyone can bring something interesting to Fri3d Camp</strong>. Your proposal doesn't need to be a workshop or talk. You could also build a system of pneumatic tubes, organise a high-tech treasure hunt, build a huge geodesic dome... We're open to all kinds of ideas, and we'd love to see how we can help you make them a reality!</p>
