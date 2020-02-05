@@ -24,10 +24,6 @@ layout: "single"
 </div>
 
 <div class="block--centered">
-<p>From now until the <strong>15th of January</strong>, we'll be collecting all of your proposals. After that date, the Fri3d content team will start putting together the official program. Submitting to our CfP is the way to get a spot in the camp schedule and to be sure of your Fri3d Camp 2020 tickets. Don't wait too long ^_^
-</p>
-</div>
-<div class="block--centered">
 <h2 class="block__ttl">Thanks!</h2>
 <p>
 Fri3d Camp is made for and <em>by</em> the participants. Thank you for wanting to make this fourth edition into another success!<br/>
