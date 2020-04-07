@@ -7,7 +7,7 @@
 	<a class="sectionnav__item {{ if eq $currentSection.Permalink .Permalink }} sectionnav__item--selected{{ end }}" href="/{{ $currentSection.Permalink }}">{{ $currentSection.Title }}</a>
 	{{ range $currentSection.Pages }}
 		{{ $menuPage := path.Base .Permalink }}
-		<a class="sectionnav__item {{ if eq $menuPage $currentPage }}sectionnav__item--selected{{ end }}" href="/{{ .Permalink }}">{{ .Title }}</a>
+		<a class="sectionnav__item {{ if eq $menuPage $currentPage }}sectionnav__item--selected{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
 	{{ end }}
 </nav>
 {{ end }}
