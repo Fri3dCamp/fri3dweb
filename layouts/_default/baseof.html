@@ -34,7 +34,9 @@
 			<div class="navbar">
 				{{ partial "sitenav.html" . }}
 			</div>
+			{{ if not .IsHome }}
 			{{ partial "sectionnav.html" . }}
+			{{ end }}
 		{{ if .IsTranslated }}
 		<div class="langnav">
 		{{ range .Translations }}
