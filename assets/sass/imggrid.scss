@@ -1,0 +1,20 @@
+.imggrid {
+	@media screen and (min-width:$breakpoint2b) {
+		display: grid;
+		grid-template-columns: auto auto;	
+	}
+	@media screen and (min-width:$breakpoint1) {
+		grid-template-columns: auto auto auto;	
+	}
+	font-size: calc( 1.2rem + 0.5vw );
+	line-height: 150%;
+}
+.imggrid__item {
+	padding-bottom:$spacer*2;
+	@media screen and (min-width:$breakpoint2b) {
+		padding: $spacer*2;
+	}
+}
+.imggrid__imgwrapper {
+	text-align: center;
+}

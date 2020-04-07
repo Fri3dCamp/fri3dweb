@@ -6,17 +6,29 @@
 	}
 }
 
-.partners img {
-	display: block;
-	position: relative;
-	margin-left: auto;
-	margin-right: auto;
-	width: 600px;
-	height: auto;
-	max-width: 100%;
-}
 .partners h2 {
 	font-size: 1.2rem;
 	text-align: center;
 	padding: $spacer;
+}
+
+.partners__logos {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1200px;
+}
+
+.partners__logo {
+	display: inline-block;
+	margin: 10px;
+	height: 80px;
+}
+
+.partners__logo img{
+	height: 100%;
+	width: auto;
 }

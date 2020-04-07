@@ -1,0 +1,30 @@
+[
+	{
+		"img": "linuxbe.png",
+		"alt": "Linux Belgium"
+	},
+	{
+		"img": "dekimo.png",
+		"alt": "Dekimo"
+	},
+	{
+		"img": "combell.png",
+		"alt": "Combell"
+	},
+	{
+		"img": "bluebits.png",
+		"alt": "Blue Bits bv"
+	},
+	{
+		"img": "dewerkkamer.png",
+		"alt": "De Werkkamer"
+	},
+	{
+		"img": "espressif.png",
+		"alt": "Espressif"
+	},
+	{
+		"img": "rogers.png",
+		"alt": "Rogers Corporation"
+	}
+]

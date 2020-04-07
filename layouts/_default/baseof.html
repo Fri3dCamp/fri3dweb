@@ -34,12 +34,13 @@
 			<div class="navbar">
 				{{ partial "sitenav.html" . }}
 			</div>
+			{{ partial "sectionnav.html" . }}
 		{{ if .IsTranslated }}
-		<nav class="langnav">
+		<div class="langnav">
 		{{ range .Translations }}
 			<a href="{{ .Permalink }}">{{ .Language.Params.LanguageDesc }}</a>
 		{{ end}}
-		</nav>
+		</div>
 		{{ end }}
 		</header>
 		<div class="sitewrapper">
@@ -64,10 +65,9 @@
 				</nav>
 			</footer>
 		</div>
-		<div class="partners">
-			<h2>Partners | {{ if eq .Language.Lang "en" }}<a href="/en/partners/">Become a partner</a>{{ else }}<a href="/partners/">Partner worden</a>{{ end }}</h2>
-			<img src="/img/partnerblok.png" alt="{{ if eq .Language.Lang "en" }}partners Dekimo, Espressif, De Werkkamer and Linux Belgium{{ else }}partners Dekimo, Espressif, De Werkkamer en Linux Belgium{{ end }}" />
-		</div>
+
+		{{ partial "partnerblok.html" . }}
+		
 		<script src="/js/jquery-3.4.1.min.js" ></script>
 		<script src="/js/gallery.js" ></script>
 		<script src="/js/nav.js" ></script>

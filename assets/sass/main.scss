@@ -344,12 +344,38 @@ p a {
 	}
 }
 
+.sitenav--prim .menuitems--cfp .menuitems__cfp, 
+.sitenav--prim .menuitems--tickets .menuitems__tickets,
+.sitenav--prim .menuitems--deelnemers .menuitems__deelnemers,
+.sitenav--prim .menuitems--wat .menuitems__wat 
+{
+	&::after{
+		border-bottom: ($spacer/2) solid white;
+	}
+	@media screen and (max-width:$breakpoint_primnav) { 
+		&::after{
+			content:none;
+		}
+		border-left: ($spacer/2) solid white;
+	}
+}
+
 .sitenav--prim a {
 	padding-right:$spacer*1.5;
 	padding-left:$spacer*1.5;
-	padding-bottom: $spacer/2;
-	/*background-color:$clr_A;
-	color:white;*/
+	&::after{
+		border-bottom: ($spacer/2) solid black;
+		display: block;
+		width: 100%;
+		content: "";
+		position: relative;
+		top: $spacer*2;
+	}
+	@media screen and (max-width:$breakpoint_primnav) { 
+		&::after{
+			content:none;
+		}
+	}
 	color: white;
 	font-family: Montserrat, sans-serif;
 	font-weight: 400;
@@ -551,4 +577,37 @@ p a {
 }
 .langnav a {
 	margin-left: $spacer;
+}
+
+.sectionnav {
+	border-bottom: 1px solid $clr_B;
+	padding-left:$spacer;
+	padding-right:$spacer;
+	padding-bottom: $spacer;
+	@media screen and (min-width:$breakpoint_primnav) {
+		padding-left:$spacer*2;
+	}
+}
+
+.sectionnav__item {
+	display: block;
+	border-bottom: 1px solid $clr_A;
+	padding-bottom: 5px;
+	color: $clr_A;
+	margin-bottom:$spacer;
+	@media screen and (min-width:$breakpoint_primnav) {
+		margin-left:$spacer;
+		margin-bottom:0;
+		display: inline-block;
+	}
+}
+
+.sectionnav__ttl {
+	@media screen and (min-width:$breakpoint_primnav) {
+		display: inline-block;
+	}
+}
+
+.sectionnav__item--selected {
+	border-bottom: 3px solid $clr_A;
 }

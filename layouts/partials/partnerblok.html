@@ -1,0 +1,8 @@
+<div class="partners">
+	<h2>Partners | {{ if eq .Language.Lang "en" }}<a href="/en/partners/">Become a partner</a>{{ else }}<a href="/partners/">Partner worden</a>{{ end }}</h2>
+	<ul class="partners__logos">
+		{{ range $.Site.Data.partners }}
+			<li class="partners__logo"><img src="/img/partners/{{ .img }}" alt="{{ .alt }}" /></li>
+		{{ end }}
+	</ul>
+</div>
