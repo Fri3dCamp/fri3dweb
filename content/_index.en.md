@@ -1,5 +1,6 @@
 ---
 ---
+{{< corona >}}
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>
 <p>Fri3d Camp is a family friendly hacker camp for hackers, makers and DIY'ers. It takes place every two years. 2020 will be our fourth edition.</p>

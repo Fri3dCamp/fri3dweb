@@ -2,6 +2,7 @@
 title: "For participants"
 layout: "single"
 ---
+{{< corona >}}
 
 <div class="block--centered">
 

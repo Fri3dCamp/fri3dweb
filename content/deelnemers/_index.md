@@ -2,6 +2,7 @@
 title: "Voor deelnemers"
 layout: "single"
 ---
+{{< corona >}}
 
 <div class="block--centered">
 <h2>Waar kom ik terecht?</h2>

@@ -1,5 +1,6 @@
 ---
 ---
+{{< corona >}}
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>
 <p>Fri3d Camp is een tweejaarlijkse gezinsvriendelijk zomerkamp voor hackers, makers en DIY'ers. In 2020 zijn we aan onze vierde editie toe.</p>
