@@ -2,6 +2,8 @@
 title: "Checklist"
 layout: "single"
 ---
+{{< corona >}}
+
 <div class="block--centered">
 <h2>Wat breng je zeker mee?</h2>
   <p>Bereid je bezoek aan Fri3d Camp voor met deze checklist, zodat je zeker niets belangrijks vergeet. We beginnen met de <em>allerberlangrijkste</em> dingen:</p>

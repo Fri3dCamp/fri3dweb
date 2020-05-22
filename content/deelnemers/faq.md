@@ -2,6 +2,8 @@
 title: "Veelgestelde vragen"
 layout: "single"
 ---
+{{< corona >}}
+
 <div class="block--centered">
 <h2 class="faqttl">Wat valt er zoal te beleven?</h2>
 <p>Waar het abnormaal lijkt om te <strong>kamperen met een laptop</strong>, gaan wij er volledig over. Overdag zetten we alles op alles om de inner geek te bevredigen en na een pintje bij het kampvuur slapen we allemaal in onze eigen tent op het kampeerterrein.</p>
