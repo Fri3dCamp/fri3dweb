@@ -1,6 +1,7 @@
 ---
 title: "Stijlgids"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 <h2>Logo</h2>
@@ -30,19 +31,27 @@ layout: "single"
 <h2>Kleuren</h2>
 <ul class="swatches">
 	<li class="swatch swatch--clr_A">
-	<p class="swatch__label">#7d4bb3</p>
+	<p class="swatch__label">#8835c9</p>
 	</li>	
 	<li class="swatch swatch--clr_A_light">
 	<p class="swatch__label">#c085ff</p>
 	</li>
 	<li class="swatch swatch swatch--clr_B">
-	<p class="swatch__label">#ffd89e</p>
+	<p class="swatch__label">#ffad64</p>
 	</li>
 	<li class="swatch swatch--clr_C">
-	<p class="swatch__label">#56cc7b</p>
+	<p class="swatch__label">#3ce8b3</p>
 	</li>
 	<li class="swatch swatch--clr_C_dark">
-	<p class="swatch__label">#54b371</p>
+	<p class="swatch__label">#2fad83</p>
+	</li>
+</ul>
+<ul class="swatches swatches--secondary">
+	<li class="swatch swatch--clr_darkgrey">
+	<p class="swatch__label">#2d2d2d</p>
+	</li>	
+	<li class="swatch swatch--clr_red">
+	<p class="swatch__label">#ff3e3e</p>
 	</li>
 </ul>
 </div>

@@ -1,6 +1,7 @@
 ---
 title: "Tickets"
 layout: "single"
+markup: "html"
 ---
 
 <div class="block--centered">
@@ -16,7 +17,7 @@ To take part in Fri3d Camp, you need to buy tickets for all members of your part
 </ul>
 <h2>What do we expect of you?</h2>
 <ul>
-	<li>Stick to the <a href="/deelnemers/excellent">code of conduct</a>.</li>
+	<li>Stick to the <a href="/deelnemen/excellent">code of conduct</a>.</li>
 	<li>Each participant 16 years or older, helps during at least one shift. (content support, manning the bar,...) If you <em>don't</em> want this, you need to buy a premium ticket.</li>
 </ul>
 </div>

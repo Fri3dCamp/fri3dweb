@@ -1,6 +1,7 @@
 ---
 title: "Checklist"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 <h2>Wat breng je zeker mee?</h2>

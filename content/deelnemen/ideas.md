@@ -1,6 +1,7 @@
 ---
 title: "Zotte ideeën"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 <p>Met het (ruime) Fri3d Camp orga-team houden we een lijst bij, met zotte ideeën die misschien eventueel leuk zouden zijn voor op Fri3d Camp. Ideeën waar we meestal zelf niet aan toe komen, omdat we te druk bezig zijn met drank, eten en glasvezel regelen.</p>

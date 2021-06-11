@@ -1,6 +1,7 @@
 ---
 title: "Privacy"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 <h2>How does Fri3d Camp use your data?</h2>

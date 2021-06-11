@@ -23,3 +23,4 @@ summaryLength = 10
 [params]
 	socialimg_square = "/img/savethedate_square.jpg"
 	socialimg = "/img/savethedate.jpg"
+    showticker = 0
