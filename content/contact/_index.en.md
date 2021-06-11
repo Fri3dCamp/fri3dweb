@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 layout: "contact"
+markup: "html"
 ---
 
 <div class="block--centered">

@@ -1,6 +1,7 @@
 ---
 title: "About Fri3d Camp"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 	<p>Fri3d Camp is a two-yearly family-friendy summer camp for hackers, makers and DIYers. In 2020 we'll be having our fourth edition.</p>

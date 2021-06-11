@@ -2,6 +2,7 @@
 {{ $currentSection := .Site.GetPage path.Join "/" .Section }}
 {{ $subPages := len $currentSection.Pages }}
 {{ if lt 0 $subPages }}
+{{ if ne .Kind "404" }}
 <nav class="sectionnav">
 	<h3 class="sectionnav__ttl">In dit onderdeel:</h3>	
 	<a class="sectionnav__item {{ if eq $currentSection.Permalink .Permalink }} sectionnav__item--selected{{ end }}" href="{{ $currentSection.Permalink }}">{{ $currentSection.Title }}</a>
@@ -10,4 +11,5 @@
 		<a class="sectionnav__item {{ if eq $menuPage $currentPage }}sectionnav__item--selected{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
 	{{ end }}
 </nav>
+{{ end }}
 {{ end }}

@@ -1,6 +1,7 @@
 ---
 title: "Styleguide"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 <h2>Logo</h2>

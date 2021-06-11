@@ -1,6 +1,7 @@
 ---
 title: "Tickets"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 <p>
@@ -9,13 +10,13 @@ Om deel te nemen aan Fri3d Camp, moet je tickets op voorhand kopen voor alle dee
 <h2>Wat zit er in een ticket?</h2>
 <ul>
 	<li>Het volledige verblijf tijdens Fri3d Camp.</li>
-	<li>Gratis deelname aan alle activiteiten en workshops, op eventuele materiaalkost na.</li>
+	<li>Gratis <a href="/deelnemen/">deelname aan alle activiteiten en workshops</a>, op eventuele materiaalkost na.</li>
 	<li>Twee warme maaltijden, resp. vrijdag- en zaterdagavond.</li>
 	<li>Een programmeerbare badge.</li>
 </ul>
 <h2>Wat verwachten we van jou?</h2>
 <ul>
-	<li>Hou je aan de <a href="/deelnemers/excellent">gedragscode</a>.</li>
+	<li>Hou je aan de <a href="/deelnemen/excellent">gedragscode</a>.</li>
 	<li>Elke deelnemer vanaf 16 jaar draait minstens één shift mee om het kamp te doen draaien (ondersteuning workshops, bar bemannen,...). Als je dit <em>niet</em> wil, kan je een premium ticket aankopen.</li>
 </ul>
 </div>

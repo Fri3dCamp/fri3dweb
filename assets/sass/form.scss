@@ -10,13 +10,15 @@ input[type="text"], input[type="email"], textarea {
 }
 
 .button, .zammad-form .btn {
-	cursor: pointer;
+	//cursor: pointer;
 	background-color: $clr_C;
-	border:none;
+    border: none;
+	border-bottom:4px solid darken($clr_C,10%);
 	border-radius: $radius;
 	padding:10px;
 	&:hover {
-		background-color: $clr_C_dark;
+		background-color: darken($clr_C,10%);
+	    border-bottom:4px solid darken($clr_C,20%);
 	}
 }
 

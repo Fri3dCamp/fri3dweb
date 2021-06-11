@@ -124,6 +124,7 @@ p a {
 		"ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker";
 		text-align: center;
 	}
+    background-color: black;
 }
 
 .topbar--sticky {
@@ -161,7 +162,8 @@ p a {
 	background-size: auto 4vw*5;
 	height:4vw*3;
 	max-height:4vw*3;
-	background-color: $clr_A;
+	//background-color: $clr_C;
+    background-color: $clr_C;
 
 
 	@media screen and (max-width:$breakpoint1) {
@@ -219,7 +221,7 @@ p a {
 .sitenav--sec {
 	//padding:$spacer;
 	grid-area: secnav;
-	background-color:$clr_C_dark;
+	//background-color:$clr_darkgrey;
 	text-align: right;
 	padding-right:$spacer;
 	@media screen and (max-width:$breakpoint3) {
@@ -244,7 +246,7 @@ p a {
 }
 
 .sitenav__homelink {
-	background-image:url('/img/icon_home_white.svg');
+	background-image:url('/img/icon_home.svg');
 	background-size: contain;
 	display: inline-block;
 	height:calc(0.8rem + 0.8vw);
@@ -274,25 +276,33 @@ p a {
 .navbar--sticky .sitenav__homelink {
 	background-image: url('/img/logo_white_hor.svg');
 	min-width:16rem;
-	height:2rem;
-	background-position: left center;
-	border-right: 1px solid white;
+	height:100%;
+    background-color:black;
+	background-position: center;
+    background-size: 85%;
+	//border-right: 1px solid white;
 	margin-right: $spacer;
+    //padding: 0;
+    margin: 0;
+    top: 0;
+    &::after{
+        border-bottom:0;
+    }
 }
 
 .sitenav--prim {
 	display: flex;
 	flex-wrap: wrap;
-	background-color: $clr_C_dark;
+	background-color: $clr_B;
 	height:auto;
 	align-items: center;
 	@media screen and (min-width: ($breakpoint_primnav + 1px) ) {
 		border-bottom:1.2rem solid white;
-		background-color: black;
-		border-top: 4px solid $clr_C;
+		background-color: $clr_B;
+		border-top: 4px solid white;
 	}
 	grid-column: 1 / span 12;
-	border-top: 4px solid $clr_C_dark;
+	border-top: 4px solid white;
 	justify-content: space-between;
 	@media screen and (max-width: $breakpoint1) {
 		justify-content: space-around;
@@ -364,7 +374,7 @@ p a {
 	padding-right:$spacer*1.5;
 	padding-left:$spacer*1.5;
 	&::after{
-		border-bottom: ($spacer/2) solid black;
+		border-bottom: ($spacer/2) solid $clr_B;
 		display: block;
 		width: 100%;
 		content: "";
@@ -376,7 +386,7 @@ p a {
 			content:none;
 		}
 	}
-	color: white;
+	color: black;
 	font-family: Montserrat, sans-serif;
 	font-weight: 400;
 	font-size:2rem ;
@@ -386,7 +396,7 @@ p a {
 		padding-right:$spacer;
 		padding-left:$spacer;
 	}
-	@media screen and (max-width:$breakpoint1) {
+	@media screen and (max-width:$breakpoint2b) {
 		font-size:1.4rem ;
 	}
 	text-decoration: none;
@@ -433,7 +443,7 @@ p a {
 	color:white;
 	list-style: none;
 	margin: 0;
-	background-color:$clr_C_dark;
+	background-color:$clr_red;
 	padding:$spacer;
 	font-size: calc(0.8rem + 0.8vw) ;
 }
@@ -580,7 +590,7 @@ p a {
 }
 
 .sectionnav {
-	border-bottom: 1px solid $clr_B;
+	border-bottom: 1px solid black;
 	padding-left:$spacer;
 	padding-right:$spacer;
 	padding-bottom: $spacer;

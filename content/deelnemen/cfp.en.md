@@ -1,6 +1,7 @@
 ---
 title: "Call for Participation"
 layout: "single"
+markup: "html"
 ---
 <div class="block--centered">
 

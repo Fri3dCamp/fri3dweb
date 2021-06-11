@@ -20,10 +20,10 @@
 	</head>
 	<body>
 		<header class="siteheader">
-			<div class="topbar">
+			<div class="topbar">{{ if .Params.showticker }}
 				<ul class="ticker">
 					<li>14 - 16 {{ if eq .Language.Lang "en" }}August{{ else }}augustus{{ end }} 2020</li>
-				</ul>					
+				</ul>{{ end }}					
 				{{ partial "secnav.html" . }}
 			</div>
 			<div class="logobar">
