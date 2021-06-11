@@ -128,11 +128,12 @@ p a {
 }
 
 .topbar--sticky {
-	position: fixed;
-	top:0;
-	z-index: 10;
-	width: 100%;
-	//max-width: $maxwidth;
+    @media screen and (min-width:$breakpoint3) {
+        position: fixed;
+        top:0;
+        z-index: 10;
+        width: 100%;
+    }
 }
 
 .visually-hidden {
@@ -249,12 +250,16 @@ p a {
 	background-image:url('/img/icon_home.svg');
 	background-size: contain;
 	display: inline-block;
-	height:calc(0.8rem + 0.8vw);
-	width:calc(0.8rem + 0.8vw);
+	height:calc(1.4rem + 0.8vw);
+	width:calc(1.4rem + 0.8vw);
 	background-repeat: no-repeat;
 	background-position: center;
 	position:relative;
 	top: -0.2rem;
+    @media screen and (max-width:$breakpoint1) {
+	    margin: 0;
+
+    }
 	margin: $spacer*2;
 }
 
@@ -273,20 +278,22 @@ p a {
 	margin: $spacer*2;
 }
 
-.navbar--sticky .sitenav__homelink {
-	background-image: url('/img/logo_white_hor.svg');
-	min-width:16rem;
-	height:100%;
-    background-color:black;
-	background-position: center;
-    background-size: 85%;
-	//border-right: 1px solid white;
-	margin-right: $spacer;
-    //padding: 0;
-    margin: 0;
-    top: 0;
-    &::after{
-        border-bottom:0;
+.navbar--sticky .sitenav__homelink {    
+    @media screen and (min-width:$breakpoint2b) {
+        background-image: url('/img/logo_white_hor.svg');
+        min-width:16rem;
+        height:100%;
+        background-color:black;
+        background-position: center;
+        background-size: 85%;
+        //border-right: 1px solid white;
+        margin-right: $spacer;
+        //padding: 0;
+        margin: 0;
+        top: 0;
+        &::after{
+            border-bottom:0;
+        }
     }
 }
 
@@ -321,19 +328,20 @@ p a {
 	@media screen and (max-width:$breakpoint_primnav) {
 		display:block;
 		width: 100%;
-		background-color:black;
+		background-color:white;
 		padding: 0;
 		a {
 			font-size: 2rem;
 			display: block;
 			padding: $spacer;
-			border-top:1px solid $clr_A;
+			border-top:1px solid $clr_B;
 		}
 	}
 }
 
 .sitenav--prim .menuitems .sitenav--sec {
-	background-color:black;
+	//background-color:black;
+    background-color: white;
 	text-align:left;
 	padding-right: 0;
 	padding-left: 0;

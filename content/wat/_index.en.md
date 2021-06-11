@@ -4,7 +4,7 @@ layout: "single"
 markup: "html"
 ---
 <div class="block--centered">
-	<p>Fri3d Camp is a two-yearly family-friendy summer camp for hackers, makers and DIYers. In 2020 we'll be having our fourth edition.</p>
+	<p>Fri3d Camp is a two-yearly family-friendy summer camp for hackers, makers and DIYers. In 2022 we'll be having our fourth edition.</p>
 	<p>Following the hacker ethos, we have but one rule:<br>
 		<strong>Be excellent to each other</strong>. Every participant has one sole task; to make the camp a fantastic experience for everybody.</p>
 	<p>Our inspiration are the large European camps which are organized every two years, such as <a href="https://events.ccc.de/camp/">CCC Camp</a> or <a href="https://sha2017.org/">SHA</a>.</p>

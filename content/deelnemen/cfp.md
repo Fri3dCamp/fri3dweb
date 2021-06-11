@@ -5,7 +5,7 @@ markup: "html"
 ---
 <div class="block--centered">
 
-<p>dé Fri3d Camp 2020 Call for Participation is jouw uitnodiging om een voorstel in te dienen voor een activiteit op Fri3d Camp. Iedereen is vrij om op Fri3d Camp workshops of andere activiteiten te organiseren. Maar wil je een plek op het programma, een workshoplocatie, bepaalde ondersteuning of infrastructuur op het terrein? Seize the carp!</p>
+<p>dé Fri3d Camp 2022 Call for Participation is jouw uitnodiging om een voorstel in te dienen voor een activiteit op Fri3d Camp. Iedereen is vrij om op Fri3d Camp workshops of andere activiteiten te organiseren. Maar wil je een plek op het programma, een workshoplocatie, bepaalde ondersteuning of infrastructuur op het terrein? Seize the carp!</p>
 </div>
 
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3d2020/cfp" >}}
