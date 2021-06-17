@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Waar kom ik terecht?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>14 tot en met 16 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>12 tot en met 14 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
 <h2>Wat kan ik er doen?</h2>
 <p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
 <p>We stimuleren <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>

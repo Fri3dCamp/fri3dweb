@@ -66,7 +66,7 @@ markup: "html"
 	<!-- /imggrid -->
 <h3>The usual suspects</h3>
 <ul>
-<li>Je hebt geen <strong>ticket</strong>&nbsp;nodig, we weten wie je bent. Vanaf donderdag 13 augustus (18u) kan je je tent opzetten.</li>
+<li>Je hebt geen <strong>ticket</strong>&nbsp;nodig, we weten wie je bent. Vanaf donderdag 11 augustus (18u) kan je je tent opzetten.</li>
 <li><strong>Je bankkaart</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, breng dan je bankkaart geld mee. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij de organisatoren van de workshop (soldeerkitjes, lockpicking tools, 3D pennen, zilveren ringen smeden, ...). Mogelijk heb je daar cash voor nodig.</li>
 <li><strong>Kledij</strong>. Breng zeker je lading geekshirts en je meest sexy pyjama mee, zelfs sokken in sandalen zijn welkom. Kijk even uit naar het weerbericht (heat wave of zondvloed?) welke kledij best gepast is. Een extra trui voor &#39;s avonds of in de tent is altijd een goed plan.</li>
 <li><strong>Toiletzak</strong>&nbsp;met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein.</li>
