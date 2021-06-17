@@ -1,5 +1,5 @@
 ---
-title: "Be Excellent to Each other"
+title: "Code of conduct"
 layout: "single"
 markup: "html"
 ---
