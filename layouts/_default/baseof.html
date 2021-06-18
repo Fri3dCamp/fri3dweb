@@ -1,5 +1,5 @@
 {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := resources.Get "sass/style.scss" | resources.ToCSS $options }}
+{{ $style := resources.Get "sass/style.scss" | resources.ToCSS $options | fingerprint }}
 <!DOCTYPE html>
 <html lang="{{ .Language }}">
 	<head>
