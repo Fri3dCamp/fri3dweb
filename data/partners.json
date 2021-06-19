@@ -1,26 +1,32 @@
 [
 	{
 		"img": "ingegno.png",
-		"alt": "Ingegno"
+		"alt": "Ingegno",
+		"url": "https://ingegno.be/"
 	},
 	{
 		"img": "dekimo.png",
-		"alt": "Dekimo"
+		"alt": "Dekimo",
+		"url": "https://www.dekimo.com/"
 	},
 	{
 		"img": "bluebits.png",
-		"alt": "Blue Bits bv"
+		"alt": "Blue Bits bv",
+		"url": "https://www.bluebits.be/"
 	},
 	{
 		"img": "dewerkkamer.png",
-		"alt": "De Werkkamer"
+		"alt": "De Werkkamer",
+		"url": "https://www.dewerkkamer.be/"
 	},
 	{
 		"img": "espressif.png",
-		"alt": "Espressif"
+		"alt": "Espressif",
+		"url": "https://www.espressif.com/"
 	},
 	{
 		"img": "rogers.png",
-		"alt": "Rogers Corporation"
+		"alt": "Rogers Corporation",
+		"url": "https://www.rogerscorp.com/"
 	}
 ]
