@@ -5,11 +5,7 @@ markup: "html"
 ---
 
 <div class="block--centered">
-{{< contactform >}}
-</div>
-
-<div class="block--centered">
-<p>Je kan ook mailen naar <a href="mailto:info@fri3d.be">info@fri3d.be</a>.</p>
+<p>Mailen kan naar <a href="mailto:info@fri3d.be">info@fri3d.be</a>.</p>
 </div>
 
 <div class="block--centered">
