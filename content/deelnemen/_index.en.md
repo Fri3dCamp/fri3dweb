@@ -39,8 +39,6 @@ There are toilets and shower blocks on the grounds, and we will also provide ref
 
 <hr class="gridrule" />
 
-{{< cta-cfp href="/cfp" >}}
-
 <div class="block--centered">
 {{< gallery >}}
 </div>

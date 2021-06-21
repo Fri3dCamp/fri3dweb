@@ -45,8 +45,7 @@ markup: "html"
 <p>De inhoud op Fri3d Camp komt <strong>volledig van de deelnemers</strong>. Dat vinden we erg belangrijk, en dat maakt Fri3d Camp ook bijzonder. <strong>Dien dus zeker jouw voorstel in op onze <a href="/cfp">call for participation</a></strong>! Zo krijg je je een workshop, talk of andere activiteit op het officiële programma van Fri3d Camp 2020.</p>
 </div>
 
-{{< cta-cfp href="/deelnemen/cfp" >}}
-
+<hr class="gridrule" />
 
 <div class="block--centered">
 {{< gallery >}}

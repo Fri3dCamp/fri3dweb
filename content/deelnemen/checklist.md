@@ -22,12 +22,6 @@ markup: "html"
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
-                <img src="/img/checklist_cutlery.png" />
-            </div>
-            <p>Bord, bestek, beker, mok,...</p>
-        </div>
-        <div class="imggrid__item">
-            <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_cash.png" />
             </div>
             <p>Bankkaart voor je drankkkaarten en wat cash voor eventuele materiaalbijdrage bij workshops.</p>
@@ -66,38 +60,40 @@ markup: "html"
 	<!-- /imggrid -->
 <h3>The usual suspects</h3>
 <ul>
-<li>Je hebt geen <strong>ticket</strong>&nbsp;nodig, we weten wie je bent. Vanaf donderdag 11 augustus (18u) kan je je tent opzetten.</li>
-<li><strong>Je bankkaart</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, breng dan je bankkaart geld mee. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij de organisatoren van de workshop (soldeerkitjes, lockpicking tools, 3D pennen, zilveren ringen smeden, ...). Mogelijk heb je daar cash voor nodig.</li>
-<li><strong>Kledij</strong>. Breng zeker je lading geekshirts en je meest sexy pyjama mee, zelfs sokken in sandalen zijn welkom. Kijk even uit naar het weerbericht (heat wave of zondvloed?) welke kledij best gepast is. Een extra trui voor &#39;s avonds of in de tent is altijd een goed plan.</li>
-<li><strong>Toiletzak</strong>&nbsp;met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein.</li>
-<li><strong>WC papier</strong>&nbsp;want we brengen wel een deel van de nodige voorraad mee, maar je eigen rolletje is en blijft voor vanalles handig.</li>
-<li><strong>Zonnecr&egrave;me</strong>&nbsp;en <strong>medicijnen</strong>, zoals middeltjes tegen muggen, diarree of ochtendkaters.</li>
-<li><strong>Handdoek</strong>. Want hoe kan je een hackerkamp overleven zonder handdoek?</li></ul><h3 >Slapen</h3>
+<li>Je hebt geen <strong>ticket</strong> nodig, we weten wie je bent. Vanaf donderdag 11 augustus (18u) kan je je tent opzetten.</li>
+<li><strong>Je bankkaart</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, breng dan je bankkaart mee. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij de organisatoren van de workshop (soldeerkitjes, lockpicking tools, 3D pennen, zilveren ringen smeden, ...). Mogelijk heb je daar cash voor nodig.</li>
+<li><strong>Kledij</strong>. Breng zeker je lading geekshirts en je meest sexy pyjama mee, zelfs sokken in sandalen zijn welkom. Kijk even uit naar het weerbericht (heat wave of zondvloed?) welke kledij best gepast is. Een extra trui voor 's avonds of in de tent is altijd een goed plan.</li>
+<li><strong>Toiletzak</strong> met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein.</li>
+<li><strong>WC papier</strong> want we brengen wel een deel van de nodige voorraad mee, maar je eigen rolletje is en blijft voor vanalles handig.</li>
+<li><strong>Zonnecrème</strong> en <strong>medicijnen</strong>, zoals middeltjes tegen muggen, diarree of ochtendkaters.</li>
+<li><strong>Handdoek</strong>. Want hoe kan je een hackerkamp overleven zonder handdoek?</li></ul>
+<h3 >Slapen</h3>
 <ul>
-<li><strong>Tent</strong>. Iedereen kan z&#39;n tent opslaan op onze terreinen. Controleer thuis nog even of ze volledig is. Als je geen tent hebt, check dan zeker eens de Decathlon (kwaliteitstenten vanaf 30-50&euro;). Kom je met caravan of camper? Geef dit dan op voorhand door.</li>
-<li><strong>Slaapzak</strong>&nbsp;of een deken als je dat liever hebt. Vergeet ook je <strong>kussen</strong>&nbsp;niet.</li>
-<li><strong>Luchtmatras</strong>&nbsp;of veldbed. Denk aan die pomp!</li>
-<li><strong>Zaklamp</strong>. Hoofdlampjes zijn heel nuttig, maar een lampje om in je tent hangen is ook handig. &#39;s Avonds delen we voor alle kinderen lightsticks uit dus ze zullen in alle&nbsp;geval goed zichtbaar zijn in het donker.</li>
-<li>Wil je het bij je tent gezellig maken, breng dan ook een <strong>kampeerstoel</strong>&nbsp;of tafeltje mee.</li>
-<li>Als het heel zonnig en warm wordt, kan je met een <strong>reddingsdeken</strong>&nbsp;uit aluminiumfolie de warmte buiten je tent houden.</li>
-<li>Leg het <strong>brandblusapparaat</strong>&nbsp;van je wagen in je tent.</li>
-<li>Denk aan een <strong>afvalzakje</strong>&nbsp;om bij je tent te hangen.</li></ul><h3>Computer en bezigheidstherapie</h3>
+<li><strong>Tent</strong>. Iedereen kan z'n tent opslaan op onze terreinen. Controleer thuis nog even of ze volledig is. Als je geen tent hebt, check dan zeker eens de Decathlon (kwaliteitstenten vanaf 30-50&euro;). Kom je met caravan of camper? Dan koop je op voorhand een apart camperticket.</li>
+<li><strong>Slaapzak</strong> of een deken als je dat liever hebt. Vergeet ook je <strong>kussen</strong> niet.</li>
+<li><strong>Luchtmatras</strong> of veldbed. Denk aan die pomp!</li>
+<li><strong>Zaklamp</strong>. Hoofdlampjes zijn heel nuttig, maar een lampje om in je tent hangen is ook handig.</li>
+<li>Wil je het bij je tent gezellig maken, breng dan ook een <strong>kampeerstoel</strong> of tafeltje mee.</li>
+<li>Als het heel zonnig en warm wordt, kan je met een <strong>reddingsdeken</strong> uit aluminiumfolie de warmte buiten je tent houden.</li>
+<li>Leg het <strong>brandblusapparaat</strong> van je wagen in je tent.</li>
+<li>Denk aan een <strong>afvalzakje</strong> om bij je tent te hangen.</li></ul>
+<h3>Computer en bezigheidstherapie</h3>
 <ul>
-<li>Je <strong>computer</strong> is zeker welkom. Maak voor het kamp een backup en late deze backup thuis. Er is overal wireless internet op het kamp, netwerkkabels zijn dus enkel nodig als je ze zelf ook nodig hebt.</li>
+<li>Je <strong>computer</strong> is zeker welkom. Maak voor het kamp een backup en laat deze backup thuis. Er is overal wireless internet op het kamp, netwerkkabels zijn dus enkel nodig als je ze zelf ook nodig hebt.</li>
 <li>
-    <img src="/img/checklist_usb.png" class="img-right" alt="afbeelding van een USB C connector" />Een <strong>USB-C</strong>&nbsp;kabeltje om je badge op te kunnen laden en te hacken.</li>
+    <img src="/img/checklist_usb.png" class="img-right" alt="afbeelding van een USB C connector" />Een <strong>USB-C</strong> kabeltje om je badge op te kunnen laden en te hacken.</li>
 <li>Als je met onze badge aan de slag wil gaan, breng dan een breadboardje, een doos <strong>componentjes</strong>, en breadboard kabeltjes mee. Of je knutselt een low-tech jas voor je badge, dat mag ook.</li>
 <li>Heb je <strong>Micro:bit add-ons</strong> thuis liggen, breng die dan zeker mee. Onze badge heeft een Micro:bit connector.</li>
-<li><strong>Verdeelstekkers</strong>&nbsp;en een <strong>verlengdraad</strong>, zodat we de stroom echt overal krijgen. Let op dat je zal moeten delen en daisy-chainen met je buurman, zowel in de hackerspace als op de camping! Wil je ook je computer of Raspberry Pi aan een ethernetkabel hangen, dan breng je die kabel zelf mee.</li>
+<li><strong>Verdeelstekkers</strong> en een <strong>verlengdraad</strong>, zodat we de stroom echt overal krijgen. Let op dat je zal moeten delen en daisy-chainen met je buurman, zowel in de hackerspace als op de camping! Wil je ook je computer of Raspberry Pi aan een ethernetkabel hangen, dan breng je die kabel zelf mee.</li>
 <li><strong>Gadgets</strong>, van tablets tot vliegende 3d printers, zijn allemaal welkom.</li>
-<li>Er is heel wat te doen op kamp, maar je kan altijd een eigen <strong>project</strong>&nbsp;(van knutselen tot quantumcomputers, alles kan) meebrengen om er aan te werken, of gewoon voor de show.</li>
-<li>De kinderen mogen hun favoriete <strong>speelgoed</strong>&nbsp;meebrengen. Die robot, driewieler, bal, Kubb-set of een bordspel zijn zeker welkom.</li>
-<li>En als je echt aan de slag wil op het kamp, breng dan je <strong>gereedschap en onderdelen</strong>&nbsp;mee, we hebben voldoende werkplek met tafels en stoelen waar we allemaal samen aan het cre&euml;ren kunnen slaan.</li>
-<li>Breng een <strong>hoofdtelefoon</strong>&nbsp;mee als je graag je eigen muziek op zet.</li></ul><h3>Eten en drinken</h3>
+<li>Er is heel wat te doen op kamp, maar je kan altijd een eigen <strong>project</strong> (van knutselen tot quantumcomputers, alles kan) meebrengen om er aan te werken, of gewoon voor de show.</li>
+<li>De kinderen mogen hun favoriete <strong>speelgoed</strong> meebrengen. Die robot, driewieler, bal, Kubb-set of een bordspel zijn zeker welkom.</li>
+<li>En als je echt aan de slag wil op het kamp, breng dan je <strong>gereedschap en onderdelen</strong> mee, we hebben voldoende werkplek met tafels en stoelen waar we allemaal samen aan het cre&euml;ren kunnen slaan.</li>
+<li>Breng een <strong>hoofdtelefoon</strong> mee als je graag je eigen muziek op zet.</li></ul>
+<h3>Eten en drinken</h3>
 <ul>
-<li>We verzorgen voor iedereen warme avondmaaltijden op vrijdag- en zaterdagavond, inclusief in je ticket.</li>
-<li><strong>Ontbijt</strong>&nbsp;en <strong>middagmaal</strong>&nbsp;breng je wel zelf mee. Onbtijtgranen, wat beleg of een pot choco, fruit, koeken, chips, een blikje worstjes, snoep, tussendoortjes, ..., je weet zelf best wat je liefst lust. We hebben <strong>koelkasten</strong> waar je bederfbare etenswaren in kan leggen. Maar we laten hier <strong>geen drank</strong> toe, omdat onze koelkasten anders te snel vol zitten.</li>
-<li>Iedereen brengt zijn eigen <strong>bord, bestek en beker</strong>&nbsp;mee. Die kan je ook gebruiken voor de gezamenlijke maaltijden. We minimaliseren het gebruik van wegwerpborden en -bestek. Er zijn veel wasbekkens en we voorzien voor iedereen afwasproduct en sponsjes.</li>
+<li>We verzorgen voor iedereen warme avondmaaltijden op vrijdag- en zaterdagavond, die is inbegrepen in je ticket.</li>
+<li><strong>Ontbijt</strong> en <strong>middagmaal</strong> breng je wel zelf mee, of je koopt een snack aan de bar. Onbtijtgranen, wat beleg of een pot choco, fruit, koeken, chips, een blikje worstjes, snoep, tussendoortjes, ..., je weet zelf best wat je liefst lust. We hebben <strong>koelkasten</strong> waar je bederfbare etenswaren in kan leggen. Maar we laten hier <strong>geen drank</strong> toe, omdat onze koelkasten anders te snel vol zitten.</li>
 <li>Drank kan je kopen aan de bar en hoef je niet mee te slepen. Er zal een uitgebreide selectie Mate en unieke frisdrankjes voorradig zijn, aan democratische prijzen. We zorgen ook doorlopend voor gratis koffie. Wil je <strong>sterke drank</strong>, dan breng je die zelf mee, wij zorgen aan de bar voor de bijbehorende frisse drankjes en limoentjes.</li></ul>
 <h3>Special requests</h3>
 <ul>
