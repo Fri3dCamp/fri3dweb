@@ -3,7 +3,11 @@ title: "For participants"
 layout: "single"
 markup: "html"
 ---
+<div class="block--centered">
+<p>Fri3d Camp only exists <strong>thanks to all the participants</strong>. Do you have an idea for a workshop, talk or other activity? Submit it to our <a href="/cfp">Call for Participation</a>!</p>
+</div>
 
+<hr class="gridrule" />
 <div class="block--centered">
 
 <h2>Where will I end up?</h2>
