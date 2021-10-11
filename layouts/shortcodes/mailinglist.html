@@ -1,24 +1,72 @@
 <h2 class="block__ttl">{{ if eq .Site.Language.Lang "en" }}Stay up to date on Fri3d Camp{{ else }}Blijf op de hoogte over Fri3d Camp{{ end }}</h2>
 <p class="centered">{{ if eq .Site.Language.Lang "en" }}Subscribe to our mailinglist:{{ else }}Schrijf je hier in op de mailinglist:{{ end }}</p>
 <section class="mailinglist">
-<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="https://fri3d.us12.list-manage.com/subscribe/post?u=7ec9b73600863c9b7efa3883a&amp;id=355c532542" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<label for="mce-EMAIL">{{ if eq .Site.Language.Lang "en" }}E-mail Address{{ else }}E-mailadres{{end}} </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7ec9b73600863c9b7efa3883a_355c532542" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="{{ if eq .Site.Language.Lang "en" }}Subscribe{{ else }}Inschrijven{{ end }}" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+<!-- EmailOctopus embed -->
+<link rel="stylesheet"
+      href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css"
+>
+<div class="emailoctopus-form-wrapper emailoctopus-form-centered null"
+     style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(26, 26, 26);"
+>
+  <h2 class="emailoctopus-heading">
+    Schrijf je in op de mailinglist
+  </h2>
+  <p class="emailoctopus-success-message"></p>
+  <p class="emailoctopus-error-message"></p>
+  <form action="https://emailoctopus.com/lists/2e45c17f-d6c3-11eb-96e5-06b4694bee2a/members/embedded/1.3/add"
+        method="post"
+        data-message-success="Bedankt voor je inschrijving"
+        data-message-missing-email-address="Je e-mailadres is vereist"
+        data-message-invalid-email-address="Je e-mailadres ziet er niet correct uit, kijk het even na."
+        data-message-bot-submission-error="Dit lijkt op een geautomatiseerde inschrijving."
+        data-message-consent-required="Please check the checkbox to indicate your consent."
+        data-message-invalid-parameters-error="Er zijn ontbrekende of ongeldige velden."
+        data-message-unknown-error="Er is een onbekende fout opgetreden"
+        class="emailoctopus-form"
+  >
+    <div class="emailoctopus-form-row">
+      <label for="field_0">
+        E-mailadres
+      </label>
+      <input id="field_0"
+             name="field_0"
+             type="email"
+             placeholder
+             required="required"
+      >
     </div>
-</form>
+    <div aria-hidden="true"
+         class="emailoctopus-form-row-hp"
+    >
+      <input type="text"
+             name="hpc4b27b6e-eb38-11e9-be00-06b4694bee2a"
+             tabindex="-1"
+             autocomplete="nope"
+      >
+    </div>
+    <div class="emailoctopus-form-row-subscribe">
+      <input type="hidden"
+             name="successRedirectUrl"
+      >
+      <button type="submit"
+              style="background-color: rgb(136, 53, 201); color: rgb(255, 255, 255); font-family: inherit;"
+      >
+        Inschrijven
+      </button>
+    </div>
+  </form>
+  <div class="emailoctopus-rewards">
+    Powered by
+    <a href="https://emailoctopus.com/?urli=9LhgD&amp;utm_medium=user_referral&amp;utm_source=builder"
+       target="_blank"
+    >
+      EmailOctopus
+    </a>
+  </div>
 </div>
+<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js">
+</script>
 
-<!--End mc_embed_signup-->
+<!-- /EmailOctopus embed -->
+
 </section>

@@ -1,0 +1,24 @@
+.emailoctopus-form-wrapper {
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.emailoctopus-success-message {
+    //border-left:4px solid $clr_C;
+    //padding-left:$spacer;
+    background-color:$clr_C;
+    //padding:$spacer;
+    //&:empty, &:-moz-only-whitespace {
+    //    display:none;
+    //}
+}
+.emailoctopus-error-message {
+    //border-left:4px solid $clr_B;
+    //padding-left:$spacer;
+    background-color:$clr_B;
+    //padding:$spacer;
+    //&:empty, &:-moz-only-whitespace {
+    //    display:none;
+    //}
+}
