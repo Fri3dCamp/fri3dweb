@@ -1,6 +1,11 @@
 ---
 markup: "html"
 ---
+<div class="block--centered">
+<p>Fri3d Camp only exists <strong>thanks to all the participants</strong>. Do you have an idea for a workshop, talk or other activity? Submit it to our <a href="/cfp">Call for Participation</a>!</p>
+</div>
+
+<hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>
 <p>Fri3d Camp is a family friendly hacker camp for hackers, makers and DIY'ers. It takes place every two years. <br/><strong>August 12 to 14</strong> 2022 will be our fourth edition.</p>
