@@ -7,26 +7,51 @@
 	{
 		"img": "dekimo.png",
 		"alt": "Dekimo",
-		"url": "https://www.dekimo.com/"
+		"url": "https://www.dekimo.com/",
+        "desc" : {
+            "nl": "Dekimo is een leverancier van elektronische diensten. De groep bestaat uit een ontwerphuis voor elektronica, mechatronica en softwaretoepassingen, een consultancy tak, een layout dienst voor printplaat ontwerp, een gecertificeerd testlab, een prototype dienst en een sterk geautomatiseerde SMD-assemblagefabriek voor productieseries van 100 tot 100.000 PCBA's. Met 300 professionals kunnen we uw engineering partner voor de lange termijn zijn en u helpen uw bedrijfsdoelen efficiënter te bereiken.",
+            "en": "Dekimo is an electronic services supplier. The group consists of a design house for electronic engineering, mechatronics and software applications, a consultancy service, a layout service for printed circuit board design, a certified test lab, a prototype service and a highly automated SMD assembly plant for production series of 100 to 100.000 PCBA's. With 300 professionals, we can be your long-term engineering partner and help you to achieve your business goals more efficiently."
+        }
 	},
 	{
 		"img": "bluebits.png",
 		"alt": "Blue Bits bv",
-		"url": "https://www.bluebits.be/"
+		"url": "https://www.bluebits.be/",
+        "desc": {
+            "nl": "Bluebits is een bedrijf dat software graag eenvoudig maakt. Geen hersenbrekers, geen dure opleidingen, gewoon software die doet wat je ervan verwacht. "
+        }
 	},
 	{
 		"img": "dewerkkamer.png",
 		"alt": "De Werkkamer",
-		"url": "https://www.dewerkkamer.be/"
+		"url": "https://www.dewerkkamer.be/",
+        "desc" : {
+            "nl" : "De Werkkamer restaureert en herstelt meubelen, schilderijen en objecten. Daarnaast maakt De Werkkamer meubelen via 2- en 3 D CNC freestechnieken, complementair aan maar ook geïntegreerd in de restauratieactiviteiten. Opgericht in 1999 als restauratieatelier breidde De Werkkamer haar activiteiten uit met het uitvoeren van speciale projecten en de combinatie van restauratie en renovatieprojecten zowel in privé als in openbare context. "
+        }
+	},
+	{
+		"img": "cera.png",
+		"alt": "Cera",
+		"url": "https://www.cera.be/",
+        "desc" : 
+        {
+            "nl": "Met zo’n 400.000 vennoten is Cera een van de grootste coöperaties van België. We brengen mensen, middelen en organisaties samen, bundelen krachten, nemen initiatieven en realiseren projecten met een duidelijk doel: samen investeren in welvaart en welzijn."
+        }
 	},
 	{
 		"img": "espressif.png",
 		"alt": "Espressif",
-		"url": "https://www.espressif.com/"
+		"url": "https://www.espressif.com/",
+        "desc": {
+            "en" : "Espressif Systems is a world-leading Internet-of-Things company. The company designs a range of high-performance Wi-Fi+Bluetooth (BLE) chipsets and modules. It built the widely popular ESP8266 and ESP32 chips. It also has an innovative team of chip-design specialists, software/firmware developers and marketers. Espressif Systems is committed to providing the best IoT devices and software platforms in the industry."
+        }
 	},
 	{
 		"img": "rogers.png",
 		"alt": "Rogers Corporation",
-		"url": "https://www.rogerscorp.com/"
+		"url": "https://www.rogerscorp.com/",
+        "desc":{
+            "en": "Rogers Corporation is passionate about helping the world's leading innovators solve their toughest material challenges and create a cleaner, safer, and more connected world. "
+        }
 	}
 ]

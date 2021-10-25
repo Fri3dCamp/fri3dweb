@@ -12,3 +12,8 @@ markup: "html"
 <p>Would you like to become a partner of Fri3d Camp 2022 and contribute as a partner, contact us at <a href="mailto:partners@fri3d.be">info@partners.be</a>.</p>
 <div class="decoblock decoblock--xu decoblock--br"></div>
 </div>
+<div class="block--centered">
+<h2>Current partners</h2>
+<p>These partners help us make Fri3d Camp unique and special. Thanks!</p>
+</div>
+{{< partnerlist >}}
