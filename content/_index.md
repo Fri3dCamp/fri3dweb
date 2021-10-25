@@ -1,6 +1,11 @@
 ---
 markup: "html"
 ---
+<div class="block--centered">
+<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>. Heb jij een idee voor een workshop, talk of andere activiteit? Stuur ze dan in op onze <a href="/cfp">Call for Participation</a>!</p>
+</div>
+
+<hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>
 <p>Fri3d Camp is een tweejaarlijkse gezinsvriendelijk zomerkamp voor hackers, makers en DIY'ers.<br/>Van <strong>12 tot en met 14 augustus</strong> 2022 zijn we aan onze vierde editie toe.</p>

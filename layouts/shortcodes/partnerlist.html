@@ -1,0 +1,17 @@
+{{ range $.Site.Data.partners }}
+<div class="block--centered partnerlist__partner">
+<a href="{{ .url }}" class="partnerlist__logo">
+<img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
+</a>
+<p class="partnerlist__desc">
+{{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
+{{ .desc.nl }}
+{{ else if (isset .desc "en") }}
+{{ .desc.en }}
+{{ end }}
+</p>
+<p class="partnerlist__link">
+    <a href="{{ .url }}">{{ .url }}</a>
+</p>
+</div>
+{{ end }}
