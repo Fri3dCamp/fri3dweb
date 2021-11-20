@@ -53,5 +53,14 @@
         "desc":{
             "en": "Rogers Corporation is passionate about helping the world's leading innovators solve their toughest material challenges and create a cleaner, safer, and more connected world. "
         }
-	}
+	},
+    {
+        "img": "kluwer.png",
+        "alt": "Wolters Kluwer",
+        "url": "https://careers.wolterskluwer.com/",
+        "desc": {
+            "en:": "Wolters Kluwer develops ERP and accounting software for financial professionals and entrepreneurs who aim to increase their efficiëncy. From individual tools to complete suites, on premise and in the cloud. Do you want to be a part of our organisation? Find out more at https://careers.wolterskluwer.com/en",
+            "nl": "Wolters Kluwer ontwikkelt ERP- en boekhoudsoftware voor accountants en ondernemers die efficiënter willen werken. Van individuele tools tot complete suites, on-premise en in de cloud. Wil je hier mee je schouders onder zetten? Meer info op https://careers.wolterskluwer.com/nl-be"
+        }
+    }
 ]

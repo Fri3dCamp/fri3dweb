@@ -5,9 +5,9 @@
 </a>
 <p class="partnerlist__desc">
 {{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
-{{ .desc.nl }}
+{{ .desc.nl | markdownify }}
 {{ else if (isset .desc "en") }}
-{{ .desc.en }}
+{{ .desc.en | markdownify }}
 {{ end }}
 </p>
 <p class="partnerlist__link">
