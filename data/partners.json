@@ -5,6 +5,16 @@
 		"url": "https://ingegno.be/"
 	},
 	{
+		"img": "bagaar.png",
+		"alt": "Bagaar",
+		"url": "https://www.bagaar.be/"
+	},
+	{
+		"img": "aqc.png",
+		"alt": "AQC",
+		"url": "https://www.aqcbv.com/"
+	},
+	{
 		"img": "dekimo.png",
 		"alt": "Dekimo",
 		"url": "https://www.dekimo.com/",
