@@ -22,10 +22,25 @@ To take part in Fri3d Camp, you need to buy tickets for all members of your part
 </ul>
 </div>
 
+<div class="block--centered" >
+<h2>Ticket prices</h2>
+	<table class="centerme">
+		<tr><td>ticket 0-3 years</td><td>€ 12.00</td></tr>
+		<tr><td>ticket 3-6 years</td><td>€ 22.00</td></tr>
+		<tr><td>ticket 6-12 years</td><td>€ 40.00</td></tr>
+		<tr><td>ticket 12-24 years</td><td>€ 82.00</td></tr>
+		<tr><td>ticket +24 years</td><td>€ 149.00</td></tr>
+		<tr><td>ticket +24 years premium</td><td>€ 174.00</td></tr>
+		<tr><td>business ticket</td><td>€ 348.00</td></tr>
+		<tr><td>camper spot</td><td>€ 25.00</td></tr>
+		<tr><td>bed in shared bedroom<sup>*</sup></td><td>€ 30.00</td></tr>
+		<tr><td>complete bedroom<sup>*</sup></td><td>€ 160.00</td></tr>
+	</table>
+</div>
 
+<hr class="gridrule" />
 <div class="block--centered">
-<h2>Tickets are not yet available</h2>
-<p>If you want to stay up to date, follow us on social media or subscribe to our mailing list.</p>
+<p><strong>Tickets are not yet available.</strong> If you want to stay up to date, follow us on social media or subscribe to our mailing list.</p>
 </div>
 
 <a name="mailinglist"></a>

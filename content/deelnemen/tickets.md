@@ -21,9 +21,25 @@ Om deel te nemen aan Fri3d Camp, moet je tickets op voorhand kopen voor alle dee
 </ul>
 </div>
 
+<div class="block--centered" >
+<h2>Ticketprijzen</h2>
+	<table class="centerme">
+		<tr><td>ticket 0-3 jaar</td><td>€ 12.00</td></tr>
+		<tr><td>ticket 3-6 jaar</td><td>€ 22.00</td></tr>
+		<tr><td>ticket 6-12 jaar</td><td>€ 40.00</td></tr>
+		<tr><td>ticket 12-24 jaar</td><td>€ 82.00</td></tr>
+		<tr><td>ticket +24 jaar</td><td>€ 149.00</td></tr>
+		<tr><td>ticket +24 jaar premium</td><td>€ 174.00</td></tr>
+		<tr><td>ticket zakelijk</td><td>€ 348.00</td></tr>
+		<tr><td>camperplaats</td><td>€ 25.00</td></tr>
+		<tr><td>bed in gedeelde slaapkamer<sup>*</sup></td><td>€ 30.00</td></tr>
+		<tr><td>volledige slaapkamer<sup>*</sup></td><td>€ 160.00</td></tr>
+	</table>
+</div>
+
+<hr class="gridrule" />
 <div class="block--centered">
-<h2>Tickets zijn nog niet beschikbaar</h2>
-<p>Wil je op de hoogte blijven, volg dan onze social media kanalen of schrijf je in op de mailinglist.</p>
+<p><strong>Tickets zijn nog niet beschikbaar.</strong> Wil je op de hoogte blijven, volg dan onze social media kanalen of schrijf je in op de mailinglist.</p>
 </div>
 <a name="mailinglist"></a>
 <hr class="gridrule" />

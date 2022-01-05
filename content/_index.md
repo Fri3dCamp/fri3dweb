@@ -6,6 +6,12 @@ markup: "html"
 </div>
 
 <hr class="gridrule" />
+<div class="block--centered">
+
+<h2>Tickets?</h2>
+<p>Tickets kan je nog niet kopen, maar de <a href="/deelnemen/tickets/">ticketprijzen</a> staan al online.</p>
+</div>
+<hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>
 <p>Fri3d Camp is een tweejaarlijkse gezinsvriendelijk zomerkamp voor hackers, makers en DIY'ers.<br/>Van <strong>12 tot en met 14 augustus</strong> 2022 zijn we aan onze vierde editie toe.</p>
