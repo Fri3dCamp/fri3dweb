@@ -38,6 +38,12 @@ To take part in Fri3d Camp, you need to buy tickets for all members of your part
 	</table>
 </div>
 
+<div class="block--centered" >
+	<p>
+	* This is the total cost for your stay at Fri3d Camp. The number of beds per bedroom varies, but is usually 6 to 8 beds.
+	</p>
+</div>
+
 <hr class="gridrule" />
 <div class="block--centered">
 <p><strong>Tickets are not yet available.</strong> If you want to stay up to date, follow us on social media or subscribe to our mailing list.</p>
