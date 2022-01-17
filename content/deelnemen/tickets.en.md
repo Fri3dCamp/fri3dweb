@@ -15,6 +15,7 @@ To take part in Fri3d Camp, you need to <a href="https://tickets.fri3d.be/">buy 
 	<li>Two hot meals, on Friday and Saturday evening respectively.</li>
 	<li>A programmable badge.</li>
 </ul>
+
 <h2>What do we expect of you?</h2>
 <ul>
 	<li>Stick to the <a href="/deelnemen/excellent">code of conduct</a>.</li>
