@@ -1,12 +1,18 @@
 <div class="block--callout block--noborder">
 	<div class="decoblock decoblock--dots decoblock--l"></div>
-	<div class="cta cta--cfp">
+	<div class="cta cta--tickets">
 		{{ if eq .Site.Language.Lang "en" }}
 		<p class="cta__toptext">Want to enjoy a truly memorable weekend among the trees, meeting lots of interesting people who are just as nerdy as you?</p>
-		<a href="{{ index .Params "href" }}">Order your tickets!</a>
+		<a class="cta__button" href="{{ index .Params "href" }}">Order your tickets!</a>
+        <p>
+        <a class="cta__metalink" href="/deelnemen/tickets">What's included in a ticket?</a>
+        </p>
 		{{ else }}
 		<p class="cta__toptext">Zin in een fijn weekend tussen de bomen waar je nog maanden over kan napraten, en waar je allerlei mensen ontmoet die net zo nerdy zijn als jij?</p>
-		<a href="{{ index .Params "href" }}">Bestel je tickets!</a>
+		<a class="cta__button" href="{{ index .Params "href" }}">Bestel je tickets!</a>
+        <p>
+        <a class="cta__metalink" href="/deelnemen/tickets">Wat zit er in een ticket?</a>
+        </p>
 		{{ end }}
 	</div>
 	<div class="decoblock decoblock--wave decoblock--br"></div>
