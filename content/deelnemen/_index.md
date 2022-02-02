@@ -8,7 +8,7 @@ markup: "html"
 <p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>. Heb jij een idee voor een workshop, talk of andere activiteit? Stuur ze dan in op onze <a href="/cfp">Call for Participation</a>!</p>
 </div>
 
-<hr class="gridrule" />
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
 
 <div class="block--centered">
 <h2>Waar kom ik terecht?</h2>

@@ -503,7 +503,7 @@ p a {
 	background-color:$clr_B;
 }
 
-.cta a {
+.cta .cta__button {
 	display: block;
 	background-color:$clr_A;
 	color:white;
@@ -521,6 +521,13 @@ p a {
 	font-size:calc( 1.3rem + 0.5vw);
 	line-height: 1.2em;
 	margin-bottom: 1em;
+}
+
+.cta__metalink {
+	font-size:calc( 0.9rem + 0.5vw);
+    color:black;
+    line-height: 1.2em;
+    border-color: black;
 }
 
 .cta__toptext {

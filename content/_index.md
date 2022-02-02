@@ -1,16 +1,13 @@
 ---
 markup: "html"
 ---
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
 <div class="block--centered">
 <p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>. Heb jij een idee voor een workshop, talk of andere activiteit? Stuur ze dan in op onze <a href="/cfp">Call for Participation</a>!</p>
 </div>
 
-<hr class="gridrule" />
-<div class="block--centered">
-
-<h2>Tickets?</h2>
-<p>Tickets kan je nog niet kopen, maar de <a href="/deelnemen/tickets/">ticketprijzen</a> staan al online.</p>
-</div>
 <hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--hammer decoblock--l"></div>
@@ -34,6 +31,8 @@ markup: "html"
 <p>We <strong>kamperen in het bos</strong>. De locatie is geen congrescentrum of evenementenhal, maar een terrein waar normaal jeugdbewegingen op kamp komen. Dat zorgt voor een <strong>zomerse ontspannen sfeer</strong>. Waar tegelijk ook veel ruimte is voor smartphones, laptops, en allerlei low- en high-tech.</p>
 <p>We moedigen alle deelnemers ook aan om <strong>zelf hun projecten mee te brengen</strong> en erover te vertellen. Er worden tijdens Fri3d Camp voortdurend extra ad hoc workshops en activiteiten georganiseerd.</p>
 </div>
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
 
 <div class="block--centered">
 {{< gallery >}}
