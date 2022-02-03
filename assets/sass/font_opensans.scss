@@ -1,0 +1,44 @@
+
+/* open-sans-regular - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+       url('/fonts/opensans-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/opensans-regular.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/opensans-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* open-sans-italic - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'),
+       url('/fonts/opensans-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/opensans-italic.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/opensans-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* open-sans-bold - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'),
+       url('/fonts/opensans-bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/opensans-bold.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/opensans-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* open-sans-bolditalic - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'),
+       url('/fonts/opensans-bolditalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/opensans-bolditalic.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/opensans-bolditalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}

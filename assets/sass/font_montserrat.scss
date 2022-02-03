@@ -1,0 +1,66 @@
+
+/* montserrat-light - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Montserrat Light'), local('montserrat-Light'),
+       url('/fonts/montserrat-light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/montserrat-light.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/montserrat-light.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* montserrat-lightitalic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Montserrat Light Italic'), local('montserrat-Light-Italic'),
+       url('/fonts/montserrat-lightitalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/montserrat-lightitalic.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/montserrat-lightitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('montserrat-Regular'),
+       url('/fonts/montserrat-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/montserrat-regular.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/montserrat-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* montserrat-italic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Montserrat Italic'), local('montserrat-Italic'),
+       url('/fonts/montserrat-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/montserrat-italic.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/montserrat-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* montserrat-semibold - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Montserrat Bold'), local('montserrat-semibold'),
+       url('/fonts/montserrat-semibold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/montserrat-semibold.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/montserrat-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/* montserrat-semibolditalic - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Montserrat Bold Italic'), local('montserrat-semiboldItalic'),
+       url('/fonts/montserrat-semibolditalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/montserrat-semibolditalic.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/montserrat-semibolditalic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
