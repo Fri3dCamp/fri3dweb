@@ -79,6 +79,11 @@
                 }
             },
             {
+                "img": "aoyue.png",
+                "url": "https://www.aoyue3d.com",
+                "alt": "Aoyue"
+            },
+            {
                 "img": "dewerkkamer.png",
                 "alt": "De Werkkamer",
                 "url": "https://www.dewerkkamer.be/",
