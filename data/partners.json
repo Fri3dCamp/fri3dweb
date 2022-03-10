@@ -12,12 +12,18 @@
             {
                 "img": "aqc.png",
                 "alt": "AQC",
-                "url": "https://www.aqcbv.com/"
+                "url": "https://www.aqcbv.com/",
+                "desc": {
+                    "nl" : "AQC is één van de meest technisch vaardige leveranciers van verbindingen in de vorm van PCB’s voor de High Tech industrie. Met het hoofdkwartier gezeteld in Nederland, focust AQC zich erop om marktleider te worden in deze producten waaraan de meest veeleisende internationale kwaliteitseisen gesteld worden."
+                }
             },
             {
                 "img": "ingegno.png",
                 "alt": "Ingegno",
-                "url": "https://ingegno.be/"
+                "url": "https://ingegno.be/",
+                "desc":{
+                    "nl" : "Ingegno is een maakplek die kinderen en jongeren centraal zet, maar ook open staat voor makers, studenten, scholen."
+                }
             }
         ]
     },

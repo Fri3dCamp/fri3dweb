@@ -20,6 +20,10 @@
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 1200px;
+
+    .partner-size-16-bit, .partner-size-8-bit {
+        height: 50px;
+    }
 }
 
 .partners__logo {
@@ -28,35 +32,41 @@
 	height: 80px;
 }
 
-.partner-size-16-bit, .partner-size-8-bit {
-	height: 50px;
-}
 
 .partners__logo img {
 	height: 100%;
 	width: auto;
 }
 
-// .partnerlist {
-//     @media screen and (min-width:$breakpoint2) {
-// 		display: grid;
-// 		grid-template-columns: 1fr 1fr;	
-//         grid-gap: $spacer;
-// 	}
-// }
+.partnerlist-32-bit {
+    padding-bottom: $spacer*3;
+}
+
+.partnerlist-8-bit, .partnerlist-16-bit {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
 
 .partnerlist__partner {
     //border-bottom:8px solid $clr_B;
     padding-bottom: $spacer;
     margin-bottom: $spacer;
     font-size: $fontsize_small;
-    line-height: $fontsize_small*1.2;
-    // @media screen and (min-width:$breakpoint2) {
-    //     margin-bottom: 0;
-    // }
+    line-height:1.5em;
     margin-top: $spacer*3;
-    &:first-child {
+    &.partner-size-32-bit:first-child {
         margin-top: 0;
+    }
+    &.partner-size-8-bit, &.partner-size-16-bit {
+        .partnerlist__logo img {
+            height: calc( 7rem + 1.5vw );
+        }
+        padding-bottom: 0;
+        margin-bottom: 0;
+        margin-top: 0;
+        margin-left:$spacer;
+        margin-right: $spacer;
     }
 }
 
