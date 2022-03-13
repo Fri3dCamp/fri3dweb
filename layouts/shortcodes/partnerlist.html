@@ -9,7 +9,7 @@
     <a href="{{ .url }}" class="partnerlist__logo">
     <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
     </a>
-    {{ if and (eq "32 bit" $mylabel) .desc }}
+    {{ if and (or (eq "32 bit" $mylabel) (eq "16 bit" $mylabel) )  .desc }}
     <p class="partnerlist__desc">
     {{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
     {{ .desc.nl | markdownify }}

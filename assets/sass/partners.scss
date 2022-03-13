@@ -42,7 +42,11 @@
     padding-bottom: $spacer*3;
 }
 
-.partnerlist-8-bit, .partnerlist-16-bit {
+.partnerlist-16-bit {
+    margin-bottom:$spacer*4;
+}
+
+.partnerlist-8-bit {
     display: flex;
     justify-content:center;
     flex-wrap: wrap;
