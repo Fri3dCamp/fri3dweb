@@ -28,5 +28,6 @@ $breakpoint4: 360px;
 
 $breakpoint_primnav: $breakpoint2b;
 
-$fontsize_main: 1.6rem;
-$fontsize_small: 1.2rem;
+$fontsize_body: 1.6rem;
+$fontsize_main: calc( 1.5rem + 0.5vw );
+$fontsize_small: calc( 1.3rem + 0.4vw );

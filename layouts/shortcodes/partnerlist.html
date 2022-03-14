@@ -1,17 +1,24 @@
+{{/*  {{ range $.Site.Data.partners.a }}{{ . }} {{ end }}  */}}
+
+
 {{ range $.Site.Data.partners }}
-<div class="block--centered partnerlist__partner">
-<a href="{{ .url }}" class="partnerlist__logo">
-<img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
-</a>
-<p class="partnerlist__desc">
-{{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
-{{ .desc.nl | markdownify }}
-{{ else if (isset .desc "en") }}
-{{ .desc.en | markdownify }}
-{{ end }}
-</p>
-<p class="partnerlist__link">
-    <a href="{{ .url }}">{{ .url }}</a>
-</p>
-</div>
+    {{ $mylabel := .label }}
+    <div class="block--centered partnerlist partnerlist-{{ $mylabel | urlize }}">
+    {{ range .partners }}
+    <div class="partnerlist__partner partner-size-{{ $mylabel | urlize }}">
+    <a href="{{ .url }}" class="partnerlist__logo">
+    <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
+    </a>
+    {{ if and (or (eq "32 bit" $mylabel) (eq "16 bit" $mylabel) )  .desc }}
+    <p class="partnerlist__desc">
+    {{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
+    {{ .desc.nl | markdownify }}
+    {{ else if and (isset .desc "en") }}
+    {{ .desc.en | markdownify }}
+    {{ end }}
+    </p>
+    {{ end }}
+    </div>
+    {{ end }}
+    </div>
 {{ end }}

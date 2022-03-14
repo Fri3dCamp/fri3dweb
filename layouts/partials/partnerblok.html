@@ -2,11 +2,19 @@
 	<h2>Partners | {{ if eq .Language.Lang "en" }}<a href="/en/partners/">Become a partner</a>{{ else }}<a href="/partners/">Partner worden</a>{{ end }}</h2>
 	<ul class="partners__logos">
 		{{ range $.Site.Data.partners }}
-		<li class="partners__logo">
-			<a href="{{ .url }}">
-				<img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
-			</a>
-		</li>
+            {{ $oldlabel := "32 bit" }}
+            {{ $mylabel := .label }}
+            {{ if and (eq $oldlabel "32 bit") (eq $mylabel "16 bit" ) }}
+            <br/>
+            {{ end }}
+            {{ $oldlabel := $mylabel }}
+            {{ range .partners }}
+                <li class="partners__logo partner-size-{{ $mylabel | urlize }}">
+                    <a href="{{ .url }}">
+                        <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
+                    </a>
+                </li>
+            {{ end }}
 		{{ end }}
 	</ul>
 </div>
