@@ -1,0 +1,7 @@
+{{ range $index, $val := $.Site.Data.teasers }}
+<div class="block--centered">
+    <h2>{{ .title }}</h2>
+    <p>{{ .type }} door <em>{{.speaker}}</em></p>
+    <p>{{ .description | markdownify }}</p>
+</div>
+{{ end }}
