@@ -1,7 +1,15 @@
+{{ $start :=.Get "start" }}
+{{ $end :=.Get "end" }}
 {{ range $index, $val := $.Site.Data.teasers }}
+{{ if and (lt $index $end) (ge $index $start) }}
 <div class="block--centered">
-    <h2>{{ .title }}</h2>
-    <p>{{ .type }} door <em>{{.speaker}}</em></p>
-    <p>{{ .description | markdownify }}</p>
+    <article class="teaser">
+        <header class="teaser__header">
+            <p class="teaser__meta"><span class="teaser__type">{{ .type }}</span> door <em>{{.speaker}}</em></p>
+            <h2>{{ .title }}</h2>
+        </header>
+        <p class="quote">{{ .description | markdownify }}</p>
+    </article>
 </div>
+{{ end }}
 {{ end }}

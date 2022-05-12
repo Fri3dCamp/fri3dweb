@@ -114,3 +114,9 @@ h2 {
 		margin-right: 0;
 	}
 }
+
+.quote {
+    font-style: italic;
+    border-left: 2px solid $clr_B;
+    padding-left: $spacer;
+}
