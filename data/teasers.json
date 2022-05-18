@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Aan de slag met ESPHome en HomeAssistant",
+        "speaker": "Lieven Blancke",
+        "type": "Workshop",
+        "description": "HomeAssistant is een open source home automation oplossing waarmee je controle krijgt over allerlei commerciële sensoren en sturingen, maar je kan er ook je eigen hardware aan koppelen. Met ESPHome kan je met minimale programmeerkennis heel wat doen zoals je analoge waterteller en gasmeter monitoren."
+    },
+    {
+        "title": "Bouw je eigen nevelkamer",
+        "speaker": "Dimitri Janssen",
+        "type": "Workshop",
+        "description": "Na een korte introductie over radioactiviteit, het principe van een nevelkamer en een overzicht van het bouwplan gaan we aan de slag om zelf een nevelkamer te bouwen. En op het einde van de workshop proberen we 'm uit!"
+    },
+    {
+        "title": "CoderDojo @ Fri3d Camp - intro (programmeren met Scratch)",
+        "speaker": "Jan Tiri, Joram Agten, jan stappers",
+        "type": "Workshop",
+        "description": "Programmeren is niet moeilijk! Hier leren we van elkaar en van de coaches hoe we zelf spelletjes kunnen maken."
+    },
+    {
+        "title": "DIY Bluetooth speaker bouwen",
+        "speaker": "jan stappers, Sebastiaan de Schaetzen, Wouter Van de Wiele",
+        "type": "Workshop",
+        "description": "Deelnemers gaan een bluetooth speaker bouwen. Het bouwproces bestaat uit twee delen; het solderen van de printplaat en het monteren van de houten behuizing. Enige soldeerervaring is welkom, anders is een begeleider handig."
+    },
+    {
+        "title": "DIY Windturbine",
+        "speaker": "Benny Geys",
+        "type": "Lightning talk",
+        "description": "Hoe ik als totaal onervaren maker zelf een windturbine heb gemaakt. Hoe dat ging en wat ik geleerd heb."
+    },
+    {
+        "title": "electrifri3d bosspel",
+        "speaker": "Kurt Beheydt",
+        "type": "Andere activiteit",
+        "description": "Een digitaal bosspel, met gebruik van de badge en andere elektronica."
+    },
+    {
+        "title": "Glas graveren",
+        "speaker": "Peggy",
+        "type": "Workshop",
+        "description": "Het graveren van drink glas, theelicht enz. Met teksten of leuke tekeningen of logo's (+10 j begeleid door oudere)."
+    },
+    {
+        "title": "Hangmatten",
+        "speaker": "Bernard Kerckenaere",
+        "type": "Talk",
+        "description": "We bekijken de soorten hangmatten, hoe je ze gebruikt, en hoe je er een tent mee kunt vervangen."
+    },
+    {
+        "title": "Het codekrakersspel",
+        "speaker": "Thomas Dupas",
+        "type": "Workshop",
+        "description": "Kinderen tussen 6 en 12 jaar kunnen helpen om nonkel Niño uit een kluis te bevrijden. Hoe? Door een estafettespel te spelen, verzamelen ze tips waarmee ze een IP-adres samenstellen. Als ze de juiste code (het IP-adres) hebben, geven ze deze in een app in en bevrijden ze nonkel Niño."
+    },
+    {
+        "title": "Hovercrafts die je met je smartphone of tablet bestuurt.",
+        "speaker": "Yvon Masyn, FedericoBusero",
+        "type": "Workshop",
+        "description": "Bouw een model hovercraft met een WiFi-module en bestuur die met  je eigen smartphone of tablet. Zie https://youtu.be/TWfIe7EutRM. Voor iedereen vanaf 10 jaar( of vanaf 6 jaar met begeleiding).Je krijgt het resultaat en een oplader mee naar huis."
+    },
+    {
+        "title": "Kumihimo Japanse techniek touwtjes vlechten",
+        "speaker": "Belinda Dillen",
+        "type": "Workshop",
+        "description": "Touwtjes voor sleutelhangers, armbandjes, vriendschapsbandjes,... met of zonder kralen vlechten met de Japanse techniek met de Kumihimo-schijf."
+    },
+    {
+        "title": "Maak je eigen ticking Stick",
+        "speaker": "Cedric Van Nederkassel",
+        "type": "Workshop",
+        "description": "Een eeuwenoude truck uit de bootbouw! Met een 'ticking stick' neem je moeiteloos vormen over zonder ze te meten. Take your scribing skills to the next level! Ideaal voor houtbewerking, gyproc, karton en ander plaatmateriaal."
+    },
+    {
+        "title": "Micraraketjes lanceren!",
+        "speaker": "Benny Geys",
+        "type": "Andere activiteit",
+        "description": "De eerder, zelfgeknutselde raketjes zijn klaar voor lancering!"
+    },
+    {
+        "title": "OpenStreetMap voor Beginners",
+        "speaker": "Pieter Vander Vennet",
+        "type": "Workshop",
+        "description": "Ben je geinterreseerd in kaarten? Op zoek naar een FLOSS-navigatie-app? Heb je geodata nodig of wil je een kaartje op je website? Wil je meehelpen om een kaart van je eigen omgeving of van kwetsbare gebieden te maken? Dan is deze talk iets voor jou! Op deze talk geven we introductie tot OpenStreetMap en het ecosysteem dat eromheen bestaat."
+    },
+    {
+        "title": "Sterrenkijken",
+        "speaker": "Bart De Vries",
+        "type": "Andere activiteit",
+        "description": "Als het weer enigszins meezit, zijn er tijdens het Fri3d-camp-weekend verschillende astronomische fenomenen te zien die met het blote oog en/of telescoop bekeken kunnen worden."
+    },
+    {
+        "title": "Tochttechnieken voor beginners",
+        "speaker": "Birgit",
+        "type": "Workshop",
+        "description": "Tochttechnieken aanleren"
+    },
+    {
+        "title": "WiFi Robot",
+        "speaker": "hans caluwaerts",
+        "type": "Workshop",
+        "description": "Tijdens deze workshop bouw je zelf je eigen WiFi robot en afstandsbediening. De WiFi Robot maakt een eigen WiFi netwerk en is dus overal te gebruiken zonder lokaal WiFi netwerk. Tijdens de workshop lijm je de lasercut MDF onderdelen van de robot en afstandsbediening in elkaar en soldeer je de vereiste onderdelen.Indien je nog te jong bent of niet zo handig dan kan je de voorgesoldeerde robot / afstandsbediening module inbouwen. Na 4 tot 6 uur knutselen heb je een werkende robot.Met lasercut skins kan je de robot personaliseren."
+    }
+]

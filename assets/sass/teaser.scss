@@ -1,0 +1,21 @@
+.teaser {
+    margin-bottom:8rem;
+}
+
+.teaser__header p + h2 {
+    margin-top: 0;
+}
+
+.teaser__meta {
+    margin-bottom: 0;
+}
+
+.teaser__type {
+    background-color: $clr_C;
+    font-weight: bold;
+    font-size: $fontsize_small;
+    padding: 2px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-left: 2px solid black;
+}

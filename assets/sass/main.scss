@@ -364,8 +364,9 @@ p a {
 
 .sitenav--prim .menuitems--cfp .menuitems__cfp, 
 .sitenav--prim .menuitems--tickets .menuitems__tickets,
-.sitenav--prim .menuitems--deelnemers .menuitems__deelnemers,
-.sitenav--prim .menuitems--wat .menuitems__wat 
+.sitenav--prim .menuitems--deelnemen .menuitems__deelnemen,
+.sitenav--prim .menuitems--wat .menuitems__wat,
+.sitenav--prim .menuitems--programma .menuitems__programma 
 {
 	&::after{
 		border-bottom: ($spacer/2) solid white;
