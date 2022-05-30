@@ -5,18 +5,30 @@ markup: "html"
 ---
 
 <div class="block--centered">
-<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>. Heb jij een idee voor een workshop, talk of andere activiteit? Stuur ze dan in op onze <a href="/cfp">Call for Participation</a>!</p>
+<ul>
+<li><strong>Wanneer?</strong> 12-14 augustus 2022</li>
+<li><strong>Waar?</strong> Jeugddomein <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> in St-Joris-Weert (België)</li>
+<li><strong>Wat?</strong> Workshops, talks en andere activiteiten die te maken hebben met wetenschap en technologie, voor én door de deelnemers.</li>
+<li><strong>Wie?</strong> Een bont gezelschap van mensen die geïnteresseerd zijn in het creatief gebruik van wetenschap en technologie. </li>
+<li><strong>Hoe?</strong> We kamperen, iedereen brengt dus eigen tent, caravan, camper,... mee. Er is ook een beperkt aantal slaapplaatsen in een gebouw te huur.</li>
+<li><strong>Tickets?</strong> Zijn nu te bestellen op <a href="https://tickets.fri3d.be/">https://tickets.fri3d.be/</a>.</li>
+</ul>
+</div>
+<div class="block--centered">
+
+
+<h2>Waar kom ik terecht?</h2>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>12 tot en met 14 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
 </div>
 
 {{< cta-tickets href="https://tickets.fri3d.be/" >}}
 
 <div class="block--centered">
-<h2>Waar kom ik terecht?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>12 tot en met 14 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
 <h2>Wat kan ik er doen?</h2>
-<p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
-<p>We stimuleren <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
+<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>. Heb jij een idee voor een workshop, talk of andere activiteit? Stuur ze dan in op onze <a href="/cfp">Call for Participation</a>!</p>
+<p>We stimuleren ook <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
+<p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
 <h2>Wie kan ik er ontmoeten?</h2>
 <p>Als de vorige edities een indicatie zijn, zullen er op het totaal van 512 deelnemers ongeveer 170 kinderen zijn, de meesten tussen de acht en de twaalf jaar. De rest van het publiek bestaat dan uit de ouders van die kinderen, geroutineerde hackers, studenten, proffen en enthousiastelingen.</p>
 </div>
