@@ -1,14 +1,11 @@
 ---
 markup: "html"
 ---
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
 <div class="block--centered">
 <p>Fri3d Camp only exists <strong>thanks to all the participants</strong>. Do you have an idea for a workshop, talk or other activity? Submit it to our <a href="/en/cfp">Call for Participation</a>!</p>
-</div>
-<hr class="gridrule" />
-<div class="block--centered">
-
-<h2>Tickets?</h2>
-<p>You can't buy tickets yet, but <a href="/en/deelnemen/tickets/">ticket prices</a> are available.</p>
 </div>
 
 <hr class="gridrule" />
