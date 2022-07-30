@@ -366,7 +366,8 @@ p a {
 .sitenav--prim .menuitems--tickets .menuitems__tickets,
 .sitenav--prim .menuitems--deelnemen .menuitems__deelnemen,
 .sitenav--prim .menuitems--wat .menuitems__wat,
-.sitenav--prim .menuitems--programma .menuitems__programma 
+.sitenav--prim .menuitems--programma .menuitems__programma,
+.sitenav--prim .menuitems--badge .menuitems__badge
 {
 	&::after{
 		border-bottom: ($spacer/2) solid white;
