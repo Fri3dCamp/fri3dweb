@@ -24,7 +24,7 @@ markup: "html"
             <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_cash.png" />
             </div>
-            <p>De Payconiq app voor je drankkkaarten en wat cash voor eventuele materiaalbijdrage bij workshops.</p>
+            <p>De <a href="https://www.payconiq.be/nl/particulier/activeer-payconiq-by-bancontact">Payconiq</a> app voor je drankkkaarten en wat cash voor eventuele materiaalbijdrage bij workshops.</p>
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
@@ -73,7 +73,7 @@ markup: "html"
 <h3>The usual suspects</h3>
 <ul>
 <li>Je hebt geen <strong>ticket</strong> nodig, we weten wie je bent. Vanaf donderdag 11 augustus (18u) kan je je tent opzetten.</li>
-<li><strong>Je bankkaart</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, breng dan je bankkaart mee. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij de organisatoren van de workshop (soldeerkitjes, lockpicking tools, 3D pennen, zilveren ringen smeden, ...). Mogelijk heb je daar cash voor nodig.</li>
+<li>Installeer de <strong><a href="https://www.payconiq.be/nl/particulier/activeer-payconiq-by-bancontact">Payconiq</a> app</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, kan je die met Payconiq of cash betalen. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij de organisatoren van de workshop (soldeerkitjes, lockpicking tools, 3D pennen, zilveren ringen smeden, ...). Mogelijk heb je daar cash voor nodig.</li>
 <li><strong>Kledij</strong>. Breng zeker je lading geekshirts en je meest sexy pyjama mee, zelfs sokken in sandalen zijn welkom. Kijk even uit naar het weerbericht (heat wave of zondvloed?) welke kledij best gepast is. Een extra trui voor 's avonds of in de tent is altijd een goed plan.</li>
 <li><strong>Toiletzak</strong> met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein.</li>
 <li><strong>WC papier</strong> want we brengen wel een deel van de nodige voorraad mee, maar je eigen rolletje is en blijft voor vanalles handig.</li>
