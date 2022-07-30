@@ -24,13 +24,19 @@ markup: "html"
             <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_cash.png" />
             </div>
-            <p>Bankkaart voor je drankkkaarten en wat cash voor eventuele materiaalbijdrage bij workshops.</p>
+            <p>De Payconiq app voor je drankkkaarten en wat cash voor eventuele materiaalbijdrage bij workshops.</p>
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_food.png" />
             </div>
             <p>Eten en drank voor ontbijt en lunch, voorzover je die niet aan de bar koopt.</p>
+        </div>
+        <div class="imggrid__item">
+            <div class="imggrid__imgwrapper">
+                <img src="/img/checklist_cutlery.png" />
+            </div>
+            <p>Je eigen bord en bestek, voor de gezamenlijke maaltijden op vrijdag- en zaterdagavond.</p>
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
@@ -55,6 +61,12 @@ markup: "html"
                 <img src="/img/checklist_computer.png" />
             </div>
             <p>Breng je laptop en een usb-C kabeltje mee, als je met <a href="/badge/">de badge</a> aan de slag wil gaan.</p>
+        </div>
+        <div class="imggrid__item">
+            <div class="imggrid__imgwrapper">
+                <img src="/img/checklist_tools.png" />
+            </div>
+            <p>Je soldeerbout, soldeertin en eventuele andere elektronica-tools, als je die hebt.</p>
         </div>
     </div>
 	<!-- /imggrid -->

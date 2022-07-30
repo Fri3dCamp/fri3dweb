@@ -6,6 +6,11 @@ markup: "html"
 
 <div class="block--centered">
 <p>Elke Fri3d Camp deelnemer krijgt een badge. Die is eenvoudig te programmeren, en ook uit te breiden met een aantal add-ons.</p>
+
+{{< image src="/img/badge_2022.jpg" alt="Fri3d Camp badge met scherm" caption="Badge" >}}
+
+<p>De specificaties van de badge vind je op de <a href="https://hackaday.io/project/169741-fri3d-2022-badge">Hackaday projectpagina</a></p>
+
 <p>Meer informatie over hard- en software vind je op Github:</p>
 <h2>Software</h2>
 <ul>

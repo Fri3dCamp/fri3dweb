@@ -10,7 +10,7 @@ markup: "html"
 <li><strong>Waar?</strong> Jeugddomein <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> in St-Joris-Weert (België)</li>
 <li><strong>Wat?</strong> Workshops, talks en andere activiteiten die te maken hebben met wetenschap en technologie, voor én door de deelnemers.</li>
 <li><strong>Wie?</strong> Een bont gezelschap van mensen die geïnteresseerd zijn in het creatief gebruik van wetenschap en technologie. </li>
-<li><strong>Hoe?</strong> We kamperen, iedereen brengt dus eigen tent, caravan, camper,... mee. Er is ook een beperkt aantal slaapplaatsen in een gebouw te huur.</li>
+<li><strong>Hoe?</strong> We kamperen, iedereen brengt dus eigen tent, caravan, camper,... mee. Er is ook een beperkt aantal slaapplaatsen in een gebouw te huur. Lees de <a href="/deelnemen/checklist">checklist</a> om te weten wat je precies nodig hebt.</li>
 <li><strong>Tickets?</strong> Zijn nu te bestellen op <a href="https://tickets.fri3d.be/">https://tickets.fri3d.be/</a>.</li>
 </ul>
 </div>
