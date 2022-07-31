@@ -7,7 +7,7 @@ markup: "html"
 	<p>Fri3d Camp is een tweejaarlijks gezinsvriendelijk zomerkamp voor hackers, makers en doe-het-zelvers. In 2022 zijn we aan onze vierde editie toe.</p>
 	<p>Volgens het hacker ethos volgen we maar 1 regel:<br>
 		<strong>Be excellent to each other</strong>. Elke deelnemer heeft als enige taak om van het kamp voor iedereen een topervaring te maken.</p>
-	<p>Onze inspiratie zijn de grote Europese kampen die elke twee jaar worden georganiseerd, zoals <a href="https://events.ccc.de/camp/">CCC Camp</a> of <a href="https://sha2017.org/">SHA</a>.</p>
+	<p>Onze inspiratie zijn de grote Europese kampen die elke twee jaar worden georganiseerd, zoals <a href="https://events.ccc.de/camp/">CCC Camp</a> of <a href="https://mch2022.org">MCH</a>.</p>
     <h2>Wat valt er zoal te beleven?</h2>
     <p>Waar het abnormaal lijkt om te <strong>kamperen met een laptop</strong>, gaan wij er volledig over. Overdag zetten we alles op alles om de inner geek te bevredigen en na een pintje bij het kampvuur slapen we allemaal in onze eigen tent op het kampeerterrein.</p>
     <ul>
