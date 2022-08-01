@@ -73,11 +73,11 @@ markup: "html"
 <h3>The usual suspects</h3>
 <ul>
 <li>Je hebt geen <strong>ticket</strong> nodig, we weten wie je bent. Vanaf donderdag 11 augustus (18u) kan je je tent opzetten.</li>
-<li>Installeer de <strong><a href="https://www.payconiq.be/nl/particulier/activeer-payconiq-by-bancontact">Payconiq</a> app</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, kan je die met Payconiq of cash betalen. Let op! Voor een aantal workshops wordt een bijkomende betaling verwacht voor specifiek materiaal. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij verschillende workshop organisatoren (soldeerkitjes, lockpicking tools, stickers, postkaarten, ...)</li>
+<li>Installeer de <strong><a href="https://www.payconiq.be/nl/particulier/activeer-payconiq-by-bancontact">Payconiq</a> app</strong>. Als je bonnetjes voor drankjes en snacks, of een brood wil kopen, kan je die met Payconiq of cash betalen. Let op! Voor een aantal workshops wordt een bijkomende betaling verwacht voor specifiek materiaal. Als je de smaak van een workshop te pakken hebt zullen er heel wat extra kitjes te koop zijn bij verschillende workshop organisatoren (soldeerkitjes, lockpicking tools, stickers, ...)</li>
 <li><strong>Kledij</strong>. Breng zeker je lading geekshirts en je meest sexy pyjama mee, zelfs sokken in sandalen zijn welkom. Kijk even uit naar het weerbericht (heat wave of zondvloed?) welke kledij best gepast is. Een extra trui voor 's avonds of in de tent is altijd een goed plan.</li>
 <li><strong>Toiletzak</strong> met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein.</li>
 <li><strong>WC papier</strong> want we brengen wel een deel van de nodige voorraad mee, maar je eigen rolletje is en blijft voor vanalles handig.</li>
-<li><strong>Zonnecrème</strong> en <strong>medicijnen</strong>, zoals middeltjes tegen muggen, diarree of ochtendkaters.</li>
+<li><strong>Zonnecrème</strong> en <strong>medicijnen</strong>, zoals middeltjes tegen muggen, wespensteken, diarree of ochtendkaters. Een tekentang kan ook handig zijn in de bosrijke omgeving!</li>
 <li><strong>Handdoek</strong>. Want hoe kan je een hackerkamp overleven zonder handdoek?</li></ul>
 <h3 >Slapen</h3>
 <ul>
