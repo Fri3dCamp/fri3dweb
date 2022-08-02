@@ -1,0 +1,27 @@
+.grondplanwrapper {
+    padding-left: $spacer*4 ;
+    padding-right: $spacer*4;
+}
+
+.grondplan {
+    @media screen and (min-width:$breakpoint0) {
+        grid-template-columns: 50% 50%;
+        display:grid;
+    } 
+    @media screen and (min-width:$breakpoint-1) {
+        grid-template-columns: 60% 40%;
+    } 
+}
+
+.grondplan__element {
+    padding:0;
+    margin:0;
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.grondplan__plan {
+    background-color: $clr_C;
+}

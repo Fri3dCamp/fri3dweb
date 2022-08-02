@@ -14,11 +14,14 @@ markup: "html"
 <li><strong>Tickets?</strong> Zijn nu te bestellen op <a href="https://tickets.fri3d.be/">https://tickets.fri3d.be/</a>.</li>
 </ul>
 </div>
-<div class="block--centered">
 
+<div class="block--centered">
 
 <h2>Waar kom ik terecht?</h2>
 <p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>12 tot en met 14 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
+</div>
+<div class="block--wide">
+{{< map >}}
 </div>
 
 {{< cta-tickets href="https://tickets.fri3d.be/" >}}

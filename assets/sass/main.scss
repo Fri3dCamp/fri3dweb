@@ -472,8 +472,22 @@ p a {
 
 .block--centered {
 	max-width:1200px;
-	grid-column: 3 / span 8;
+	grid-column: 4 / span 7;
+	@media screen and (max-width:$breakpoint0) {
+		grid-column: 3 / span 8;
+	}
 	@media screen and (max-width:$breakpoint3) {
+		grid-column: 2 / span 10;
+	}
+}
+
+.block--wide {
+	max-width:100%;
+	grid-column: 1 / span 12;
+	// @media screen and (min-width:$breakpoint-1) {
+	//     grid-column: 2 / span 10;
+    // }
+	@media screen and (max-width:$breakpoint0) {
 		grid-column: 2 / span 10;
 	}
 }

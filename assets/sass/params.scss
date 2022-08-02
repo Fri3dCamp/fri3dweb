@@ -17,8 +17,10 @@ $clr_darkgrey: rgba(45,45,45,1);
 $spacer: 1.2rem;
 $radius: 8px;
 
-$maxwidth: 1400px;
+// $maxwidth: 1400px;
+$maxwidth: 3000px;
 
+$breakpoint-1: 1200px;
 $breakpoint0: 1024px;
 $breakpoint1: 860px;
 $breakpoint2: 800px;
