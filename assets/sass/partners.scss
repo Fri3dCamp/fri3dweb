@@ -66,11 +66,14 @@
         .partnerlist__logo img {
             height: calc( 7rem + 1.5vw );
         }
-        padding-bottom: 0;
-        margin-bottom: 0;
+        // padding-bottom: 0;
+        // margin-bottom: 0;
         margin-top: 0;
         margin-left:$spacer;
         margin-right: $spacer;
+    }
+    &.partner-size-16-bit {
+        margin-bottom: $spacer*3;
     }
 }
 

@@ -62,7 +62,7 @@
 					<a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.{{ .Language.Lang }}"><img class="cclicense" alt="Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
 				</div>
 				<nav class="sitefooter__nav">
-					<a href="http://program2018.fri3d.be">{{ if eq .Language.Lang "en" }}Program 2018{{ else }}Programma 2018{{ end }}</a> <a href="https://wiki2018.fri3d.be">Wiki 2018</a> {{ if eq .Language.Lang "en" }}<a href="/en/styleguide">Styleguide</a>{{ else }}<a href="/styleguide">Stijlgids</a>{{ end }}
+					{{ if eq .Language.Lang "en" }}<a href="/en/styleguide">Styleguide</a>{{ else }}<a href="/styleguide">Stijlgids</a>{{ end }}
 				</nav>
 			</footer>
 		</div>

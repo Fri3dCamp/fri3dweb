@@ -44,6 +44,14 @@
                 "desc": {
                     "nl": "Met zo’n 400.000 vennoten is Cera een van de grootste coöperaties van België. We brengen mensen, middelen en organisaties samen, bundelen krachten, nemen initiatieven en realiseren projecten met een duidelijk doel: samen investeren in welvaart en welzijn."
                 }
+            },
+            {
+                "img": "hermes.svg",
+                "alt": "Hermes Telecom",
+                "url": "https://hermestelecom.be/",
+                "desc": {
+                    "nl": "Hermes Telecom levert in selecte gebieden van de provincie Antwerpen, Limburg en Vlaams-Brabant regionale internettoegang gericht op de power user en internationale telefoniegebruiker."
+                }
             }
         ]
     },
