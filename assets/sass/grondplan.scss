@@ -1,6 +1,10 @@
 .grondplanwrapper {
     padding-left: $spacer*4 ;
     padding-right: $spacer*4;
+    @media screen and (max-width:$breakpoint0) {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
 
 .grondplan {
