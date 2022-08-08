@@ -11,7 +11,7 @@ markup: "html"
 <li><strong>Wat?</strong> Workshops, talks en andere activiteiten die te maken hebben met wetenschap en technologie, voor én door de deelnemers.</li>
 <li><strong>Wie?</strong> Een bont gezelschap van mensen die geïnteresseerd zijn in het creatief gebruik van wetenschap en technologie. </li>
 <li><strong>Hoe?</strong> We kamperen, iedereen brengt dus eigen tent, caravan, camper,... mee. Er is ook een beperkt aantal slaapplaatsen in een gebouw te huur. Lees de <a href="/deelnemen/checklist">checklist</a> om te weten wat je precies nodig hebt.</li>
-<li><strong>Tickets?</strong> Zijn nu te bestellen op <a href="https://tickets.fri3d.be/">https://tickets.fri3d.be/</a>.</li>
+<li><strong>Tickets?</strong> Je moet op voorhand een ticket kopen. Er zijn geen tickets te koop aan de inkom.</li>
 </ul>
 </div>
 
@@ -27,11 +27,9 @@ markup: "html"
 {{< map >}}
 </div>
 
-{{< cta-tickets href="https://tickets.fri3d.be/" >}}
-
 <div class="block--centered">
 <h2>Wat kan ik er doen?</h2>
-<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>. Heb jij een idee voor een workshop, talk of andere activiteit? Stuur ze dan in op onze <a href="/cfp">Call for Participation</a>!</p>
+<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons <a href="https://pretalx.fri3d.be/fri3dcamp2022/schedule/">Volledig programma</a> bestaat uit activiteiten die door deelnemers georganiseerd worden.</p>
 <p>We stimuleren ook <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
 <p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
