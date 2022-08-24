@@ -5,7 +5,7 @@ markup: "html"
 ---
 <div class="block--centered">
 <p>
-Om deel te nemen aan Fri3d Camp, moet je op voorhand <a href="https://tickets.fri3d.be/">tickets kopen</a> voor alle deelnemers. Er zijn geen tickets voor één dag of voor een ad-hoc bezoek, enkel voor het volledige weekend.
+Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle deelnemers. Er zijn geen tickets voor één dag of voor een ad-hoc bezoek, enkel voor het volledige weekend.
 </p>
 <h2>Wat zit er in een ticket?</h2>
 <ul>
@@ -20,8 +20,6 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand <a href="https://tickets.fr
 	<li>Elke deelnemer vanaf 16 jaar draait minstens één shift mee om het kamp te doen draaien (ondersteuning workshops, bar bemannen,...). Als je dit <em>niet</em> wil, kan je een premium ticket aankopen.</li>
 </ul>
 </div>
-
-{{< cta-tickets href="https://tickets.fri3d.be/" >}}
 
 <div class="block--centered" >
 <h2>Ticketprijzen</h2>

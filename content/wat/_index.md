@@ -11,7 +11,7 @@ markup: "html"
     <h2>Wat valt er zoal te beleven?</h2>
     <p>Waar het abnormaal lijkt om te <strong>kamperen met een laptop</strong>, gaan wij er volledig over. Overdag zetten we alles op alles om de inner geek te bevredigen en na een pintje bij het kampvuur slapen we allemaal in onze eigen tent op het kampeerterrein.</p>
     <ul>
-    <li>Ons programma bevat activiteiten die <a href="/cfp">door de deelnemers zelf worden bijgedragen</a>. We leren vanalles over <strong>wetenschap en technologie</strong> en spelen samen in de <strong>open natuur</strong>.</li>
+    <li>Ons programma bevat activiteiten die door de deelnemers zelf worden bijgedragen. We leren vanalles over <strong>wetenschap en technologie</strong> en spelen samen in de <strong>open natuur</strong>.</li>
     <li>We brengen voldoende <strong>stroom en internet</strong> mee zodat je zeker niet moet afkicken van je digitale verslaving. Je geekiest toys zijn zeer welkom.</li></ul>
     <h2>Orga-team</h2>
 	<p>De eerste drie edities van Fri3d Camp werden op poten gezet door een los team van vrijwilligers, met ondersteuning van IO Lab bvba.</p>
