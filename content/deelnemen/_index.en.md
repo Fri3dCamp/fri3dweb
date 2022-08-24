@@ -3,16 +3,11 @@ title: "For participants"
 layout: "single"
 markup: "html"
 ---
-<div class="block--centered">
-<p>Fri3d Camp only exists <strong>thanks to all the participants</strong>. Do you have an idea for a workshop, talk or other activity? Submit it to our <a href="/cfp">Call for Participation</a>!</p>
-</div>
-
-{{< cta-tickets href="https://tickets.fri3d.be/" >}}
 
 <div class="block--centered">
 
 <h2>Where will I end up?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is a large campsite where many youth-movements have their camps simultaneously. From <strong>the 12th to the 14th of August</strong> this entire campsite is dedicated to Fri3d Camp. There are sanitary buildings on site, lots of open space to put your tent, campervan, caravan or hijacked UFO, and many trees under which to find shade or to decorate with lights.</p>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is a large campsite where many youth-movements have their camps simultaneously. During Fri3d Camp, we utilise this entire campsite. There are sanitary buildings on site, lots of open space to put your tent, campervan, caravan or hijacked UFO, and many trees under which to find shade or to decorate with lights.</p>
 </div>
 <hr class="gridrule" />
 

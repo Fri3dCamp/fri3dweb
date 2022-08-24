@@ -5,13 +5,13 @@ markup: "html"
 ---
 
 <div class="block--centered">
-<p>Elke Fri3d Camp 2022 deelnemer krijgt een badge. Die is eenvoudig te programmeren, en ook uit te breiden met een aantal add-ons.</p>
+<p>Every Fri3d Camp 2022 particpant receives a badge. You can easily program it, and expand it with add-ons.</p>
 
-{{< image src="/img/badge_2022.jpg" alt="Fri3d Camp badge met scherm" caption="Badge" >}}
+{{< image src="/img/badge_2022.jpg" alt="Fri3d Camp badge with screen" caption="Badge" >}}
 
-<p>De specificaties van de badge vind je op de <a href="https://hackaday.io/project/169741-fri3d-2022-badge">Hackaday projectpagina</a></p>
+<p>You can find the badge's specs on the <a href="https://hackaday.io/project/169741-fri3d-2022-badge">Hackaday project page</a></p>
 
-<p>Meer informatie over hard- en software vind je op Github:</p>
+<p>More information about the hard- and software can be found on GitHub:</p>
 <h2>Software</h2>
 <ul>
 <li><a href="https://github.com/Fri3dCamp/Badge2020_micropython">Badge 2022 Micropython</a></li>
