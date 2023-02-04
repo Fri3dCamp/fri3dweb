@@ -4,7 +4,8 @@
 {{ if lt 0 $subPages }}
 {{ if ne .Kind "404" }}
 <nav class="sectionnav">
-	<h3 class="sectionnav__ttl">In dit onderdeel:</h3>	
+	<h3 class="sectionnav__ttl">
+		{{ if eq .Site.Language.Lang "en" }}In this section:{{ else }}In dit onderdeel:{{ end }}</h3>	
 	<a class="sectionnav__item {{ if eq $currentSection.Permalink .Permalink }} sectionnav__item--selected{{ end }}" href="{{ $currentSection.Permalink }}">{{ $currentSection.Title }}</a>
 	{{ range $currentSection.Pages }}
 		{{ $menuPage := path.Base .Permalink }}

@@ -246,7 +246,7 @@ p a {
 	}
 }
 
-.sitenav__homelink {
+.sitenav--prim .sitenav__homelink {
 	background-image:url('/img/icon_home.svg');
 	background-size: contain;
 	display: inline-block;
@@ -259,6 +259,9 @@ p a {
     @media screen and (max-width:$breakpoint1) {
 	    margin: 0;
 
+    }
+    &::after {
+        border-bottom: none;
     }
 	margin: $spacer*2;
 }
@@ -302,11 +305,13 @@ p a {
 	flex-wrap: wrap;
 	background-color: $clr_B;
 	height:auto;
-	align-items: center;
+	height: auto;
+    align-items: center;
 	@media screen and (min-width: ($breakpoint_primnav + 1px) ) {
 		border-bottom:1.2rem solid white;
 		background-color: $clr_B;
 		border-top: 4px solid white;
+        align-items: flex-end;
 	}
 	grid-column: 1 / span 12;
 	border-top: 4px solid white;
