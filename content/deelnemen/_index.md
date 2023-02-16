@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--centered">
 <ul>
-<li><strong>Wanneer?</strong> 16-19 augustus 2024</li>
+<li><strong>Wanneer?</strong> 16-18 augustus 2024</li>
 <li><strong>Waar?</strong> Jeugddomein <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> in St-Joris-Weert (België)</li>
 <li><strong>Wat?</strong> Workshops, talks en andere activiteiten die te maken hebben met wetenschap en technologie, voor én door de deelnemers.</li>
 <li><strong>Wie?</strong> Een bont gezelschap van mensen die geïnteresseerd zijn in het creatief gebruik van wetenschap en technologie. </li>
@@ -18,7 +18,7 @@ markup: "html"
 <div class="block--centered">
 
 <h2>Waar kom ik terecht?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>16 tot en met 19 augustus 2024</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>16 tot en met 18 augustus 2024</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
 </div>
 
 <div class="block--centered">

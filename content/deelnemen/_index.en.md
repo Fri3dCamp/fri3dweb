@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--centered">
 <ul>
-<li><strong>When?</strong> 16-19 August 2024</li>
+<li><strong>When?</strong> 16-18 August 2024</li>
 <li><strong>Where?</strong> <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a>, St-Joris-Weert (Belgium)</li>
 <li><strong>What?</strong> Workshops, talks and other activities around, science and technology, by and for participants.</li>
 <li><strong>Who?</strong> A varied bunch of people interested in the creative use of science and technology. </li>
