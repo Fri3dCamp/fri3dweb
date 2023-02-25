@@ -5,7 +5,7 @@ markup: "html"
 <hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--bend decoblock--l"></div>
-<p>Fri3d Camp is a family friendly hacker camp for hackers, makers and DIY'ers. It takes place every two years. <br/><strong>August 16 to 19 2024</strong> will be our fifth edition.</p>
+<p>Fri3d Camp is a family friendly hacker camp for hackers, makers and DIY'ers. It takes place every two years. <br/><strong>August 16 to 18 2024</strong> will be our fifth edition.</p>
 <div class="decoblock decoblock--herringbone decoblock--br"></div>
 </div>
 
