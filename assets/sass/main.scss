@@ -647,11 +647,18 @@ p a {
 	padding:$spacer;
 	padding-right:$spacer*2;
 	display: flex;
+    justify-content: center;
 	//display: none;
 	flex-direction: row-reverse;
+    margin-bottom: 2rem;
 }
 .langnav a {
 	margin-left: $spacer;
+    padding:1rem;
+	background-color:$clr_A;
+	border:5px solid black;
+    color: white;
+	box-shadow: 8px 8px 0 black;
 }
 
 .sectionnav {
