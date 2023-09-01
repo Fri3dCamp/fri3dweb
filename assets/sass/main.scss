@@ -566,6 +566,25 @@ p a {
 	}
 }
 
+.block--herobutton {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.herobutton {
+    display: block;
+	background-color:$clr_C;
+	color:black;
+    min-width: 40%;
+	border:5px solid black;
+	box-shadow: 8px 8px 0 black;
+	padding:1rem;
+    margin-bottom:2rem;
+    text-align: center;
+    font-weight: bold;
+}
+
 .cta__subtext {
 	font-size:calc( 1.3rem + 0.5vw);
 	line-height: 1.2em;

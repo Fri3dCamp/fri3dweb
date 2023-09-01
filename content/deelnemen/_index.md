@@ -33,6 +33,10 @@ markup: "html"
 
 <hr class="gridrule" />
 
+{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}
+
+<hr class="gridrule" />
+
 <div class="block--centered">
 <h2>Hier moet je rekening mee houden</h2>
 <h3>Kamperen</h3>

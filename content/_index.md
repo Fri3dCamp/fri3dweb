@@ -16,6 +16,19 @@ markup: "html"
 <h2>Wat kan je verwachten?</h2>
 <p>Fri3d Camp is een mix tussen een <strong>festival met technologie in plaats van muziek</strong>, een gemoedelijke campingsfeer, en een conventie van hackers en hun vrienden.</p>
 <p>Onze inspiratie zijn de grote Europese kampen die elke twee jaar worden georganiseerd, zoals <a href="https://events.ccc.de/camp/">CCC Camp</a> of <a href="https://sha2017.org/">SHA</a>.</p>
+</div>
+
+<hr class="gridrule" />
+
+<div class="block--centered">
+<h2>Zelf iets organiseren op Fri3d Camp?</h2>
+<p>Onze Call for Participation is nu open! Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>
+
+</div>
+
+{{< herobutton href="/cfp" label="Zin in!" >}}
+
+<div class="block--centered">
 {{< image src="/photos/fri3d2018/46.jpg" alt="Deelnemers aan een workshop" caption="Een rookvrije houtkachel maken" >}}
 <p>Op Fri3d Camp is het <strong>onderscheid tussen deelnemers en organisatie vager</strong> dan op veel andere events. We verwachten bijvoorbeeld dat iedereen ook een handje toesteekt tijdens een shift aan de bar, de infodesk, content-support,... Daarbuiten zal je ook merken dat <strong>iedereen behulpzaam</strong> is en je graag uit de nood helpt. Het motto daarbij is '<a href="/deelnemen/excellent">Be Excellent to Each other</a>'</p>
 {{< image src="/photos/fri3d2018/53.jpg" alt="Deelnemers rond een tafel met laptops en elektronica" caption="Workshop Mechanical Keyboards met de Fri3d Camp 2016 badge" >}}
