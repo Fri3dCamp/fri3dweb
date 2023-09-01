@@ -6,6 +6,7 @@ markup: "html"
 
 <div class="block--centered">
 <p>Elke Fri3d Camp deelnemer krijgt een badge. Die is eenvoudig te programmeren, en ook uit te breiden met een aantal add-ons.</p>
+<h2>Fri3d Camp 2022 badge</h2>
 
 {{< image src="/img/badge_2022.jpg" alt="Fri3d Camp badge met scherm" caption="Badge" >}}
 

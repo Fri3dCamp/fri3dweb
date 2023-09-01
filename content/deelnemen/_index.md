@@ -6,30 +6,24 @@ markup: "html"
 
 <div class="block--centered">
 <ul>
-<li><strong>Wanneer?</strong> 12-14 augustus 2022</li>
+<li><strong>Wanneer?</strong> 16-18 augustus 2024</li>
 <li><strong>Waar?</strong> Jeugddomein <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> in St-Joris-Weert (België)</li>
 <li><strong>Wat?</strong> Workshops, talks en andere activiteiten die te maken hebben met wetenschap en technologie, voor én door de deelnemers.</li>
 <li><strong>Wie?</strong> Een bont gezelschap van mensen die geïnteresseerd zijn in het creatief gebruik van wetenschap en technologie. </li>
 <li><strong>Hoe?</strong> We kamperen, iedereen brengt dus eigen tent, caravan, camper,... mee. Er is ook een beperkt aantal slaapplaatsen in een gebouw te huur. Lees de <a href="/deelnemen/checklist">checklist</a> om te weten wat je precies nodig hebt.</li>
-<li><strong>Tickets?</strong> Je moet op voorhand een ticket kopen. Er zijn geen tickets te koop aan de inkom.</li>
+<li><strong>Tickets?</strong> Je moet op voorhand een <a href="/tickets">ticket</a> kopen. Er zijn geen tickets te koop aan de inkom.</li>
 </ul>
 </div>
-
-
-{{< cta-app >}}
 
 <div class="block--centered">
 
 <h2>Waar kom ik terecht?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>12 tot en met 14 augustus</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
-</div>
-<div class="block--wide">
-{{< map >}}
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>16 tot en met 18 augustus 2024</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
 </div>
 
 <div class="block--centered">
 <h2>Wat kan ik er doen?</h2>
-<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons <a href="https://pretalx.fri3d.be/fri3dcamp2022/schedule/">Volledig programma</a> bestaat uit activiteiten die door deelnemers georganiseerd worden.</p>
+<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons volledig programma bestaat uit activiteiten die door deelnemers georganiseerd worden.</p>
 <p>We stimuleren ook <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
 <p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
@@ -58,13 +52,6 @@ markup: "html"
 <p>Voor drank en snacks betaal je met je drankenkaart. Drankenkaarten koop je aan de infodesk.</p>
 <h3>Dieren</h3>
 <p>Honden en andere huisdieren zijn niet welkom op Fri3d Camp. Met uitzondering van assistentiedieren (blindegeleidehonden e.d.) kunnen we, omwille van veiligheidsredenen, <strong>geen huisdieren toestaan</strong> op Fri3d Camp. Voor goudvissen maken we een uitzondering, als ze aan de leiband gehouden worden.</p>
-</div>
-
-<hr class="gridrule" />
-
-<div class="block--centered">
-<h2>Call for Participation</h2>
-<p>De inhoud op Fri3d Camp komt <strong>volledig van de deelnemers</strong>. Dat vinden we erg belangrijk, en dat maakt Fri3d Camp ook bijzonder. <strong>Dien dus zeker jouw voorstel in op onze <a href="/cfp">call for participation</a></strong>! Zo krijg je je een workshop, talk of andere activiteit op het officiële programma van Fri3d Camp 2022.</p>
 </div>
 
 <hr class="gridrule" />

@@ -9,7 +9,7 @@ markup: "html"
 <hr class="gridrule" />
 <div class="block--callout">
 <div class="decoblock decoblock--dots decoblock--l"></div>
-<p>Would you like to become a partner of Fri3d Camp 2022 and contribute as a partner, contact us at <a href="mailto:partners@fri3d.be">info@partners.be</a>.</p>
+<p>Would you like to become a partner of Fri3d Camp 2024 and contribute as a partner, contact us at <a href="mailto:partners@fri3d.be">info@partners.be</a>.</p>
 <div class="decoblock decoblock--xu decoblock--br"></div>
 </div>
 <div class="block--centered">

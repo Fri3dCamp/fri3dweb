@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Fri3d Camp 2022"
+title = "Fri3d Camp 2024"
 description = "Fri3d Camp is een tweejaarlijks gezinsvriendelijk hackercamp."
 DefaultContentLanguage= "nl"
 sectionPagesMenu = "main"
@@ -22,6 +22,6 @@ ignoreFiles = [".+?.bak.md"]
 			languageDesc = "This page in English"
 
 [params]
-	socialimg_square = "/img/site_img_2022_square.jpg"
-	socialimg = "/img/site_img_2022.jpg"
+	socialimg_square = "/img/site_image_2024_square.png"
+	socialimg = "/img/site_image_2024.png"
 	showticker = 0

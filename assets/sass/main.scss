@@ -44,9 +44,9 @@ p a {
 	height: 20px;
 	grid-column: 5 / span 4;
 	width: 150px;
-	background-image: url("/img/headerimg.svg");
+	background-image: url("/img/headerimg_2024.svg");
 	background-size: auto 800px;
-	background-position: 300px 500px;
+	background-position: 0 -480px;
 	border: none;
 }
 
@@ -67,6 +67,33 @@ p a {
 	background-position: -200px center;
 }
 
+.decoblock--herringbone {
+	background-image: url("/img/headerimg_2024.svg");
+	width: 200px;
+	background-position: -600px 0;
+}
+
+.decoblock--chicane {
+	background-image: url("/img/headerimg_2024.svg");
+	width: 200px;
+	background-position: -700px -100px;
+}
+
+.decoblock--bend {
+	background-image: url("/img/headerimg_2024.svg");
+	width: 100px;
+	height: 100px;
+	background-position: -2000px 0;
+
+
+}
+
+.decoblock--hash {
+	background-image: url("/img/headerimg_2024.svg");
+	width: 100px;
+	height: 100px;
+	background-position:-1900px 0px;
+}
 .decoblock--xu {
 	width: 200px;
 	background-position: 0 -300px;
@@ -76,6 +103,7 @@ p a {
 	width: 100px;
 	background-position: -200px 0px;
 }
+
 
 .decoblock--hammer {
 	width: 70px;
@@ -106,7 +134,7 @@ p a {
 
 .decoblock--l {
 	left: -6vw;
-	top: -40px;
+	top: -60px;
 	@media screen and (min-width:$breakpoint2) {
 		margin-top: -80px;
 		top: 50%;
@@ -158,7 +186,7 @@ p a {
 	"lg lg lg lg"
 	"lg lg lg lg";
 	width:100%;
-	background-image:url('/img/headerimg.svg');
+	background-image:url('/img/headerimg_2024.svg');
 	background-size: cover;
 	background-size: auto 4vw*5;
 	height:4vw*3;
@@ -246,7 +274,7 @@ p a {
 	}
 }
 
-.sitenav__homelink {
+.sitenav--prim .sitenav__homelink {
 	background-image:url('/img/icon_home.svg');
 	background-size: contain;
 	display: inline-block;
@@ -259,6 +287,9 @@ p a {
     @media screen and (max-width:$breakpoint1) {
 	    margin: 0;
 
+    }
+    &::after {
+        border-bottom: none;
     }
 	margin: $spacer*2;
 }
@@ -302,11 +333,13 @@ p a {
 	flex-wrap: wrap;
 	background-color: $clr_B;
 	height:auto;
-	align-items: center;
+	height: auto;
+    align-items: center;
 	@media screen and (min-width: ($breakpoint_primnav + 1px) ) {
 		border-bottom:1.2rem solid white;
 		background-color: $clr_B;
 		border-top: 4px solid white;
+        align-items: flex-end;
 	}
 	grid-column: 1 / span 12;
 	border-top: 4px solid white;
@@ -614,11 +647,18 @@ p a {
 	padding:$spacer;
 	padding-right:$spacer*2;
 	display: flex;
+    justify-content: center;
 	//display: none;
 	flex-direction: row-reverse;
+    margin-bottom: 2rem;
 }
 .langnav a {
 	margin-left: $spacer;
+    padding:1rem;
+	background-color:$clr_A;
+	border:5px solid black;
+    color: white;
+	box-shadow: 8px 8px 0 black;
 }
 
 .sectionnav {

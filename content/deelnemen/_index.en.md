@@ -3,11 +3,17 @@ title: "For participants"
 layout: "single"
 markup: "html"
 ---
-<div class="block--centered">
-<p>Fri3d Camp only exists <strong>thanks to all the participants</strong>. Do you have an idea for a workshop, talk or other activity? Submit it to our <a href="/cfp">Call for Participation</a>!</p>
-</div>
 
-{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+<div class="block--centered">
+<ul>
+<li><strong>When?</strong> 16-18 August 2024</li>
+<li><strong>Where?</strong> <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a>, St-Joris-Weert (Belgium)</li>
+<li><strong>What?</strong> Workshops, talks and other activities around, science and technology, by and for participants.</li>
+<li><strong>Who?</strong> A varied bunch of people interested in the creative use of science and technology. </li>
+<li><strong>How?</strong> We'll be camping, so you need your tent, caravan, camper,... . There is a limited amount of bedrooms availaible in the main building. Read the <a href="/deelnemen/checklist">checklist</a> to know what kind of gear you need to bring.</li>
+<li><strong>Tickets?</strong> All participants need to buy their <a href="/tickets">tickets</a> in advance. There will be no tickets for sale at the entrance.</li>
+</ul>
+</div>
 
 <div class="block--centered">
 
