@@ -9,7 +9,7 @@ markup: "html"
 <p>Ook alle <strong>workshops, talks en andere activiteiten</strong> op Fri3d Camp worden georganiseerd door de deelnemers, jij dus! Met onze call for participation proberen we alle ideeën en voorstellen op voorhand te <strong>kanaliseren in een officiëel programma</strong>. Dien je voorstel in, en als het aanvaard wordt, krijg je een plek op het programma en <strong>ondersteunen we je waar nodig</strong>.</p>
 </div>
 
-{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2022/cfp" >}}
+{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}
 
 <div class="block--centered">
 <p>Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>
