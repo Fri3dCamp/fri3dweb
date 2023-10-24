@@ -1,5 +1,5 @@
 ---
-title: "Call for Participation"
+title: "Call for Proposal"
 layout: "single"
 markup: "html"
 ---
@@ -8,7 +8,7 @@ markup: "html"
 
 <p>Fri3d Camp is <strong>created by the people who attend</strong>. Everyone lends a helping to create an excellent experience for all participants.</p>
 
-<p>All <strong>workshops, talks and other activities</strong> during Fri3d Camp are run by participants, that means you! We try to <strong>corall all your ideas into an official program</strong> With our <a href="https://pretalx.fri3d.be/fri3dcamp2024/cfp">Call for Participation</a>. Submit your proposal, and if it gets accepted, we will <strong>support you where necessary</strong>.</p>
+<p>All <strong>workshops, talks and other activities</strong> during Fri3d Camp are run by participants, that means you! We try to <strong>corall all your ideas into an official program</strong> With our <a href="https://pretalx.fri3d.be/fri3dcamp2024/cfp">Call for Proposal</a>. Submit your proposal, and if it gets accepted, we will <strong>support you where necessary</strong>.</p>
 </div>
 
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}

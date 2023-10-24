@@ -22,7 +22,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Zelf iets organiseren op Fri3d Camp?</h2>
-<p>Onze Call for Participation is nu open! Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>
+<p>Onze Call for Proposal is nu open! Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>
 
 </div>
 

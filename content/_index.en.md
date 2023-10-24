@@ -19,7 +19,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Would you like to host an activity on Fri3d Camp?</h2>
-<p>Our Call for Participation is open! All <strong>science- and technology-themed</strong> activities are welcomed. Especially projects you are working on, skills you want to teach others, and passions you'd like to share. There's room for activities of <strong>all experience and skill levels</strong>. You can use another language than Dutch for your activity, but please mention it in your proposal.</p>
+<p>Our Call for Proposal is open! All <strong>science- and technology-themed</strong> activities are welcomed. Especially projects you are working on, skills you want to teach others, and passions you'd like to share. There's room for activities of <strong>all experience and skill levels</strong>. You can use another language than Dutch for your activity, but please mention it in your proposal.</p>
 
 </div>
 
