@@ -18,3 +18,9 @@ markup: "html"
 
 <p>Your idea <strong>doesn't have to be a traditional workshop or talk</strong>, we welcome every idea! You could also build a system of pneumatic tubes, organise a high-tech treasure hunt, build a huge geodesic dome... We're open to all kinds of ideas, and we'd love to see how we can help you make them a reality!</p>
 </div>
+
+<hr class="gridrule" />
+
+<div class="block--centered">
+{{< mailinglist >}}
+</div>
