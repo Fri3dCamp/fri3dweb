@@ -21,6 +21,9 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 </ul>
 </div>
 
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
+
 <div class="block--centered" >
 <h2>Ticketprijzen</h2>
 	<table class="centerme">

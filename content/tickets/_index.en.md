@@ -23,6 +23,9 @@ To take part in Fri3d Camp, you need to buy tickets for all members of your part
 </ul>
 </div>
 
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
+
 <div class="block--centered" >
 <h2>Ticket prices</h2>
 	<table class="centerme">
