@@ -43,9 +43,6 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 	</p>
 </div>
 
-<a name="mailinglist"></a>
-<hr class="gridrule" />
-
 <hr class="gridrule" />
 <div class="block--centered">
 {{< mailinglist >}}
