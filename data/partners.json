@@ -9,6 +9,15 @@
                     "en": "Dekimo is an electronic services supplier. The group consists of a design house for electronic engineering, mechatronics and software applications, a consultancy service, a layout service for printed circuit board design, a certified test lab, a prototype service and a highly automated SMD assembly plant for production series of 100 to 100.000 PCBA's. With 300 professionals, we can be your long-term engineering partner and help you to achieve your business goals more efficiently."
                 }
             },
+			{
+                "img": "wurth.png",
+                "alt": "Würth Elektronik",
+                "url": "https://www.dekimo.com/",
+                "desc": {
+                    "nl": "",
+                    "en": ""
+                }
+            },
             {
                 "img": "aqc.png",
                 "alt": "AQC",
