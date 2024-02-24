@@ -9,11 +9,13 @@
             {{ end }}
             {{ $oldlabel := $mylabel }}
             {{ range .partners }}
+			{{ if not .hidden }}
                 <li class="partners__logo partner-size-{{ $mylabel | urlize }}">
                     <a href="{{ .url }}">
                         <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
                     </a>
                 </li>
+			{{ end }}
             {{ end }}
 		{{ end }}
 	</ul>

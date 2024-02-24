@@ -5,11 +5,21 @@
     {{ $mylabel := .label }}
     <div class="block--centered partnerlist partnerlist-{{ $mylabel | urlize }}">
     {{ range .partners }}
+	{{ if not .hidden }}
     <div class="partnerlist__partner partner-size-{{ $mylabel | urlize }}">
     <a href="{{ .url }}" class="partnerlist__logo">
     <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
     </a>
-    {{ if and (or (eq "32 bit" $mylabel) (eq "16 bit" $mylabel) )  .desc }}
+    {{ if and (or (eq "32 bit" $mylabel) (eq "16 bit" $mylabel) )  .intro }}
+    <p class="partnerlist__intro">
+    {{ if and (eq $.Site.Language.Lang "nl") (isset .intro "nl") }}
+    {{ .intro.nl | markdownify }}
+    {{ else if and (isset .intro "en") }}
+    {{ .intro.en | markdownify }}
+    {{ end }}
+    </p>
+    {{ end }}
+	{{ if and (eq "32 bit" $mylabel) .desc }}
     <p class="partnerlist__desc">
     {{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
     {{ .desc.nl | markdownify }}
@@ -19,6 +29,7 @@
     </p>
     {{ end }}
     </div>
+	{{ end }}
     {{ end }}
     </div>
 {{ end }}
