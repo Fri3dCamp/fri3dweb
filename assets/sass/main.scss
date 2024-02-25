@@ -42,7 +42,7 @@ p a {
 .gridrule {
 	display: block;
 	height: 20px;
-	grid-column: 5 / span 4;
+	grid-column: 6 / span 2;
 	width: 150px;
 	background-image: url("/img/headerimg_2024.svg");
 	background-size: auto 800px;
@@ -505,7 +505,7 @@ p a {
 
 .block--centered {
 	max-width:1200px;
-	grid-column: 4 / span 7;
+	grid-column: 4 / span 6;
 	@media screen and (max-width:$breakpoint0) {
 		grid-column: 3 / span 8;
 	}

@@ -9,6 +9,9 @@ markup: "html"
 <div class="decoblock decoblock--herringbone decoblock--br"></div>
 </div>
 
+<hr class="gridrule" />
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
 
 <div class="block--centered">
 <h2>What to expect?</h2>

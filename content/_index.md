@@ -11,6 +11,8 @@ markup: "html"
 
 <hr class="gridrule" />
 
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
 <div class="block--centered">
 
 <h2>Wat kan je verwachten?</h2>

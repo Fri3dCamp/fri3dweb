@@ -21,6 +21,9 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 </ul>
 </div>
 
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
+
 <div class="block--centered" >
 <h2>Ticketprijzen</h2>
 	<table class="centerme">
@@ -42,9 +45,6 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 	* Dit is de totaalprijs voor het volledige verblijf tijdens Fri3d Camp. Het aantal plaatsen per slaapkamer varieert, maar is meestal 6 à 8 plaatsen.
 	</p>
 </div>
-
-<a name="mailinglist"></a>
-<hr class="gridrule" />
 
 <hr class="gridrule" />
 <div class="block--centered">

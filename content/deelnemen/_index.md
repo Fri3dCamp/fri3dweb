@@ -15,6 +15,9 @@ markup: "html"
 </ul>
 </div>
 
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
 <div class="block--centered">
 
 <h2>Waar kom ik terecht?</h2>
