@@ -1,1 +1,1 @@
-rsync -rP --delete public/photos/* autotoon@thecommons.dreamhost.com:~/fri3d.be/photos/
+rsync -rP --delete public/photos/* autotoon@fri3d.be:~/fri3d.be/photos/
