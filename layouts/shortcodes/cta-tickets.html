@@ -1,4 +1,4 @@
-<div class="block--callout block--noborder">
+{{/*  <div class="block--callout block--noborder">
 	<div class="decoblock decoblock--dots decoblock--l"></div>
 	<div class="cta cta--tickets">
 		{{ if eq .Site.Language.Lang "en" }}
@@ -13,6 +13,21 @@
         <p>
         <a class="cta__metalink" href="/tickets">Wat zit er in een ticket?</a>
         </p>
+		{{ end }}
+	</div>
+	<div class="decoblock decoblock--herringbone decoblock--br"></div>
+</div>  */}}
+
+
+<div class="block--callout block--noborder">
+	<div class="decoblock decoblock--dots decoblock--l"></div>
+	<div class="cta cta--tickets">
+		{{ if eq .Site.Language.Lang "en" }}
+		<p class="cta__toptext">We are completely sold out at the moment, but there is a waiting list if you want to get notified as soon as tickets become available.</p>
+		<a class="cta__button" href="https://forms.gle/8PJFPbebuxWfWtfQ7">Put your e-mail address on the waiting list</a>
+		{{ else }}
+		<p class="cta__toptext">Alle tickets zijn momenteel uitverkocht. Maar er is een wachtlijst, zodat je op de hoogte wordt gebracht van zodra er tickets beschikbaar zijn.</p>
+		<a class="cta__button" href="https://forms.gle/8PJFPbebuxWfWtfQ7">Zet je e-mailadres op de wachtlijst</a>
 		{{ end }}
 	</div>
 	<div class="decoblock decoblock--herringbone decoblock--br"></div>
