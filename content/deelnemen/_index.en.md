@@ -21,7 +21,7 @@ markup: "html"
 <div class="block--centered">
 
 <h2>Where will I end up?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is a large campsite where many youth-movements have their camps simultaneously. From <strong>the 12th to the 14th of August</strong> this entire campsite is dedicated to Fri3d Camp. There are sanitary buildings on site, lots of open space to put your tent, campervan, caravan or hijacked UFO, and many trees under which to find shade or to decorate with lights.</p>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is a large campsite where many youth-movements have their camps simultaneously. From <strong>the 16th to the 18th of August</strong> this entire campsite is dedicated to Fri3d Camp. There are sanitary buildings on site, lots of open space to put your tent, campervan, caravan or hijacked UFO, and many trees under which to find shade or to decorate with lights.</p>
 </div>
 
 <div class="block--centered">
@@ -35,7 +35,7 @@ markup: "html"
 There are toilets and shower blocks on the grounds, and we will also provide refrigerators on the campgrounds. You can store perishable food in these, but we kindly request not to put (large) bottles in these fridges, to ensure enough room for everyone's stuff. You can always get cold drinks at the bar.</p>
 
 <h3>Activities</h3>
-<p>All activities are organised by th participants themselves. Orga just facilitates and ensures the camp runs smoothly. This means an activity exceptionally can get cancelled, limited amounts of material might be available, there might be a queue, etc. Remember our motto '<a href="/deelnemen/excellent"><em>Be Excellent</em></a>' and show consideration.</p>
+<p><a href="https://content.fri3d.be/confirmedcontent">All activities</a> are organised by the participants themselves. Orga just facilitates and ensures the camp runs smoothly. This means an activity exceptionally can get cancelled, limited amounts of material might be available, there might be a queue, etc. Remember our motto '<a href="/deelnemen/excellent"><em>Be Excellent</em></a>' and show consideration.</p>
 
 <p>We stimulate ad-hoc extra activities organised by participants. These are usually lots of fun, so keep your eyes and ears peeled. We will try our best to make these activities known through the infodesk.</p>
 <p>The difficulty level of activities can vary considerably, but we strive for quality. Participants give their talk of workshop out of passion and interest for the topic at hand. They are not animators who happen to do a 'techy' workshop, but rather (semi-)professionals who are passionate about sharing knowledge. So don't assume too quickly that something will be too easy or too hard, but use your interest as a guide.</p>

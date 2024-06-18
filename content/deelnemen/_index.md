@@ -26,7 +26,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Wat kan ik er doen?</h2>
-<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons volledig programma bestaat uit activiteiten die door deelnemers georganiseerd worden.</p>
+<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons <a href="https://content.fri3d.be/confirmedcontent">volledig programma</a> bestaat uit activiteiten die door deelnemers georganiseerd worden.</p>
 <p>We stimuleren ook <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
 <p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>

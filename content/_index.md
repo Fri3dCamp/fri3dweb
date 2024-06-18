@@ -17,6 +17,7 @@ markup: "html"
 
 <h2>Wat kan je verwachten?</h2>
 <p>Fri3d Camp is een mix tussen een <strong>festival met technologie in plaats van muziek</strong>, een gemoedelijke campingsfeer, en een conventie van hackers en hun vrienden.</p>
+<p>We zijn volop bezig met het samenstellen van het programma op basis van al jullie inzendingen, en er is al <a href="https://content.fri3d.be/confirmedcontent">een enorme variatie aan activiteiten die je kan checken</a>!</p>
 <p>Onze inspiratie zijn de grote Europese kampen die elke twee jaar worden georganiseerd, zoals <a href="https://events.ccc.de/camp/">CCC Camp</a> of <a href="https://sha2017.org/">SHA</a>.</p>
 </div>
 
@@ -24,7 +25,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Zelf iets organiseren op Fri3d Camp?</h2>
-<p>Onze Call for Proposal is nu open! Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>
+<p>Onze Call for Proposal is nog open! Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>
 
 </div>
 
