@@ -1,1 +1,0 @@
-rsync -rP --delete public/photos/* autotoon@fri3d.be:~/fri3d.be/photos/

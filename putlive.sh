@@ -1,2 +1,0 @@
-hugo && rsync -rP --delete --exclude=photos public/* autotoon@fri3d.be:~/fri3d.be/ rsync -rP --delete public/.htaccess autotoon@fri3d.be:~/fri3d.be/ 
-rsync -rP --delete public/.htaccess_2020 autotoon@fri3d.be:~/www2020.fri3d.be/.htaccess
