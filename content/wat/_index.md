@@ -14,7 +14,7 @@ markup: "html"
     <li>Ons programma bevat activiteiten die door de deelnemers zelf worden bijgedragen. We leren vanalles over <strong>wetenschap en technologie</strong> en spelen samen in de <strong>open natuur</strong>.</li>
     <li>We brengen voldoende <strong>stroom en internet</strong> mee zodat je zeker niet moet afkicken van je digitale verslaving. Je geekiest toys zijn zeer welkom.</li></ul>
     <h2>Orga-team</h2>
-	<p>De eerste drie edities van Fri3d Camp werden op poten gezet door een los team van vrijwilligers, met ondersteuning van IO Lab bvba.</p>
+	<p>De eerste drie edities van Fri3d Camp werden op poten gezet door een los team van vrijwilligers.</p>
 	<p>Na de derde editie werd Fri3d vzw opgericht om de organisatie te behartigen.</p>
     </div>
 
