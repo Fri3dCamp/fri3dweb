@@ -58,9 +58,9 @@ markup: "html"
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
-                <img src="/img/checklist_computer.png" />
+                <img src="/img/checklist_badge.png" />
             </div>
-            <p>Breng je laptop en een usb-C kabeltje mee, als je met <a href="/badge/">de badge</a> aan de slag wil gaan.</p>
+            <p>Breng je laptop, een SD kaart en een usb-C kabeltje mee, als je met <a href="/badge/">de badge</a> aan de slag wil gaan.</p>
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
