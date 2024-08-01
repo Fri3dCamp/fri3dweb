@@ -1,8 +1,8 @@
 [
     {
-        "version": "0.1.4-esp-idf.1+build.0",
-        "url": "https://github.com/MathyV/fri3d_firmware/releases/download/v0.1.4/fri3d_firmware_fox.bin",
-        "size": 1396496
+        "version": "0.1.5-esp-idf.1+build.0",
+        "url": "https://github.com/MathyV/fri3d_firmware/releases/download/v0.1.5/fri3d_firmware_fox.bin",
+        "size": 1395200
     }
 ]
 
