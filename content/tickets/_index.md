@@ -7,6 +7,11 @@ markup: "html"
 <p>
 Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle deelnemers. Er zijn geen tickets voor één dag of voor een ad-hoc bezoek, enkel voor het volledige weekend.
 </p>
+</div>
+
+{{< cta-tickets href="https://tickets.fri3d.be/" >}}
+
+<div class="block--centered">
 <h2>Wat zit er in een ticket?</h2>
 <ul>
 	<li>Het volledige verblijf tijdens Fri3d Camp.</li>
@@ -19,12 +24,6 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 	<li>Hou je aan de <a href="/deelnemen/excellent">gedragscode</a>.</li>
 	<li>Elke deelnemer vanaf 16 jaar draait minstens één shift mee om het kamp te doen draaien (ondersteuning workshops, bar bemannen,...). Als je dit <em>niet</em> wil, kan je een premium ticket aankopen.</li>
 </ul>
-</div>
-
-{{< cta-tickets href="https://tickets.fri3d.be/" >}}
-
-
-<div class="block--centered" >
 <h2>Ticketprijzen</h2>
 	<table class="centerme">
 		<tr><td>ticket 0-3 jaar</td><td>€ 14.00</td></tr>

@@ -604,6 +604,11 @@ p a {
 	margin-bottom: 2em;
 }
 
+.cta__herotext {
+	font-size:calc( 3rem + 0.5vw);
+	line-height: 1.2em;
+}
+
 .sitefooter {
 	background-color:black;
 	padding:$spacer*2;
