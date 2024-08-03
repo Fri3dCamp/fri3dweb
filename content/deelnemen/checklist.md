@@ -10,6 +10,12 @@ markup: "html"
     <div class="imggrid imggrid-checklist">
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
+                <img src="/img/checklist_scroll.png" />
+            </div>
+            <p>Het overzicht van je bestelling met je aanmeldcode. Die link vind je in de bevestigingsmail van je bestelling.</p>
+        </div>
+		<div class="imggrid__item">
+            <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_tent.png" />
             </div>
             <p>Basic kampeermateriaal: tent, luchtmatras, toiletspullen,... Je mag je tent vanaf donderdag 17u opzetten.</p>
@@ -80,7 +86,7 @@ markup: "html"
 <h3>We zitten buiten</h3>
 <ul>
 <li><strong>Een petje</strong>, of iets anders om de zon van je hoofd te houden.</li>
-<li>Voorzie je <strong>reis-apotheek</strong> ook met <strong>zonnecrème</strong> en middeltjes tegen muggen, wespensteken en tekenbeten.</li>
+<li>Breng zeker <strong>zonnecrème</strong> mee en een <strong>reis-apotheek</strong> met middeltjes tegen muggen, wespensteken en tekenbeten.</li>
 <li>Als het heel zonnig en warm wordt, kan je met een <strong>reddingsdeken</strong> uit aluminiumfolie de warmte buiten je tent houden.</li>
 </ul>
 <h3 >Slapen</h3>
