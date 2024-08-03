@@ -94,7 +94,6 @@ markup: "html"
 <li>
     <img src="/img/checklist_usb.png" class="img-right" alt="afbeelding van een USB C connector" />Een <strong>USB-C</strong> kabeltje om je badge op te kunnen laden en te hacken.</li>
 <li>Als je met onze badge aan de slag wil gaan, breng dan zeker een micro-SD kaart mee. Een breadboardje, een doos <strong>componentjes</strong>, en breadboard kabeltjes komen ook van pas.</li>
-<li>Heb je <strong>Micro:bit add-ons</strong> thuis liggen, breng die dan zeker mee. Onze badge heeft een Micro:bit connector.</li>
 <li><strong>Verdeelstekkers</strong> en een <strong>verlengdraad</strong>, zodat we de stroom echt overal krijgen. Let op dat je zal moeten delen en daisy-chainen met je buurman, zowel in de hackerspace als op de camping! Wil je ook je computer of Raspberry Pi aan een ethernetkabel hangen, dan breng je die kabel zelf mee.</li>
 <li><strong>Gadgets</strong>, van tablets tot vliegende 3d printers, zijn allemaal welkom.</li>
 <li>Er is heel wat te doen op kamp, maar je kan altijd een eigen <strong>project</strong> (van knutselen tot quantumcomputers, alles kan) meebrengen om er aan te werken, of gewoon voor de show.</li>
