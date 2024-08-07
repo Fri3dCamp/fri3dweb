@@ -60,7 +60,7 @@ markup: "html"
 <p>Kinderen van alle leeftijden zijn welkom, maar hou er rekening mee dat er <strong>geen kinderopvang georganiseerd wordt</strong> en dat het ook niet de bedoeling is dat jonge kinderen zonder begeleiding deelnemen aan workshops die daar niet voor bedoeld zijn (check de <a href="/deelnemen/excellent.html">gedragscode</a>). Kom je met partner, vrienden of familie naar Fri3d Camp, maak dan op voorhand dus goede afspraken over de begeleiding van jullie kinderen.</p>
 <h3>Eten en drinken</h3>
 <p>Er zitten twee warme maaltijden in je ticket, voor vrijdag- en zaterdagavond. Voor je ontbijt, lunch, etc. ben je op jezelf aangewezen. Er is een supermarkt in de buurt, en op de kampeerterreinen zijn er gedeelde koelkasten waar je bederfbare spullen in kwijt kan. Daarnaast zijn er ook snacks aan de bar te verkrijgen.</p>
-<p>We voorzien gratis koffie, en een bar waar je terecht kan voor een rijk palet aan gekoelde dranken.</p>
+<p>We voorzien gratis koffie en thee, en een bar waar je terecht kan voor een rijk palet aan gekoelde dranken.</p>
 <p>Voor drank en snacks betaal je met je drankenkaart. Drankenkaarten koop je aan de infodesk.</p>
 <h3>Dieren</h3>
 <p>Honden en andere huisdieren zijn niet welkom op Fri3d Camp. Met uitzondering van assistentiedieren (blindegeleidehonden e.d.) kunnen we, omwille van veiligheidsredenen, <strong>geen huisdieren toestaan</strong> op Fri3d Camp. Voor goudvissen maken we een uitzondering, als ze aan de leiband gehouden worden.</p>
