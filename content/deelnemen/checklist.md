@@ -117,7 +117,7 @@ markup: "html"
 <ul>
 <li>We verzorgen voor iedereen warme avondmaaltijden op vrijdag- en zaterdagavond, die is inbegrepen in je ticket.</li>
 <li><strong>Ontbijt</strong> en <strong>middagmaal</strong> breng je wel zelf mee, of je koopt een snack aan de bar. Onbtijtgranen, wat beleg of een pot choco, fruit, koeken, chips, een blikje worstjes, snoep, tussendoortjes, ..., je weet zelf best wat je liefst lust. We hebben <strong>koelkasten</strong> waar je bederfbare etenswaren in kan leggen. Maar we laten hier <strong>geen drank</strong> toe, omdat onze koelkasten anders te snel vol zitten.</li>
-<li>Drank kan je kopen aan de bar en hoef je niet mee te slepen. Er zal een uitgebreide selectie Mate en unieke frisdrankjes voorradig zijn, aan democratische prijzen. We zorgen ook doorlopend voor gratis koffie. Wil je <strong>sterke drank</strong>, dan breng je die zelf mee, wij zorgen aan de bar voor de bijbehorende frisse drankjes en limoentjes.</li></ul>
+<li>Drank kan je kopen aan de bar en hoef je niet mee te slepen. Er zal een uitgebreide selectie Mate en unieke frisdrankjes voorradig zijn, aan democratische prijzen. We zorgen ook doorlopend voor gratis koffie en thee.</li></ul>
 <h3>Special requests</h3>
 <ul>
 <li><strong>Blinkenlichtjes</strong>. Op een hackerkamp is het de gewoonte om je tent en het kamp te versieren met veel lichtjes. Elke keer opnieuw hebben mensen spijt dat ze die oude kerstslinger niet uit de kelder hebben gehaald. Doe de kleine moeite, neem ze mee, versier je tent en doe mee aan een nachtspektakel van duizenden kleine lichtjes!</li></ul>
