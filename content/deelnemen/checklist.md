@@ -18,7 +18,7 @@ markup: "html"
             <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_tent.png" />
             </div>
-            <p>Basic kampeermateriaal: tent, luchtmatras, toiletspullen,... Je mag je tent vanaf donderdag 17u opzetten.</p>
+            <p>Basic kampeermateriaal: tent, luchtmatras, toiletspullen,... Je mag je tent vanaf donderdag 15u opzetten.</p>
         </div>
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
