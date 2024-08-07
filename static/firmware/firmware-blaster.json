@@ -1,0 +1,14 @@
+[
+  {
+    "version": "20220511",
+    "beta": true,
+    "images": [
+      {
+        "type": "main",
+        "version": "v20220511-alpha",
+        "url": "https://github.com/area3001/Timeblaster/releases/download/v20220511-alpha/Fri3dcamp.Blaster.20220511.with_bootloader.hex",
+        "size": 24000
+      }
+    ]
+  }
+]

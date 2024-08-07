@@ -1,0 +1,14 @@
+[
+  {
+    "version": "1.0.1",
+    "beta": false,
+    "images": [
+      {
+        "type": "main",
+        "version": "v1.0.1",
+        "url": "https://raw.githubusercontent.com/Fri3dCamp/blaster_2024/v1.0.1/Sources/2024_blaster/obj/Blaster2024.hex",
+        "size": 35032
+      }
+    ]
+  }
+]
