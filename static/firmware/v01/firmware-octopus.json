@@ -1,0 +1,32 @@
+[
+  {
+    "version": "0.1.5",
+    "beta": true,
+    "images": [
+      {
+        "type": "main",
+        "version": "0.1.5",
+        "url": "https://github.com/MathyV/fri3d_firmware/releases/download/v0.1.5/fri3d_firmware_octopus.bin",
+        "size": 1447232
+      }
+    ]
+  },
+  {
+    "version": "0.1.6",
+    "beta": false,
+    "images": [
+      {
+        "type": "main",
+        "version": "0.1.6",
+        "url": "https://github.com/MathyV/fri3d_firmware/releases/download/v0.1.5/fri3d_firmware_octopus.bin",
+        "size": 1395200
+      },
+      {
+        "type": "micropython",
+        "version": "1.23.100",
+        "url": "https://github.com/Fri3dCamp/badge_2024_micropython/releases/download/v1.23.100/micropython_octopus.bin",
+        "size": 2389472
+      }
+    ]
+  }
+]
