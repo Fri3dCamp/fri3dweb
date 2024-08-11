@@ -72,6 +72,19 @@
         }
       },
       {
+        "img": "cera.png",
+        "alt": "Cera",
+        "url": "https://www.cera.be/",
+        "intro": {
+          "nl": "Samen investeren in welvaart en welzijn.",
+          "en": "Investing together in prosperity and well-being."
+        },
+        "desc": {
+          "nl": "Met 400.000 enthousiaste vennoten zijn we de grootste en warmste coöperatie van het land. Samen geraken we verder, beleven we meer en investeren we beter: in initiatieven die (het) goed doen en mensen verbinden, in projecten die opbrengen voor ons allemaal.\n\nSamen hebben we ’t goed voor elkaar.",
+          "en": "With 400,000 enthusiastic partners, we are the largest and warmest cooperative in the country. Together, we go further, experience more, and invest better: in initiatives that do good and connect people, in projects that benefit us all.\n\nTogether, we take good care of each other."
+        }
+      },
+      {
         "img": "glp.png",
         "alt": "GLP",
         "intro": {
@@ -87,19 +100,6 @@
   {
     "label": "16 bit",
     "partners": [
-      {
-        "img": "cera.png",
-        "alt": "Cera",
-        "url": "https://www.cera.be/",
-        "intro": {
-          "nl": "Samen investeren in welvaart en welzijn.",
-          "en": "Investing together in prosperity and well-being."
-        },
-        "desc": {
-          "nl": "Met 400.000 enthousiaste vennoten zijn we de grootste en warmste coöperatie van het land. Samen geraken we verder, beleven we meer en investeren we beter: in initiatieven die (het) goed doen en mensen verbinden, in projecten die opbrengen voor ons allemaal.\n\nSamen hebben we ’t goed voor elkaar.",
-          "en": "With 400,000 enthusiastic partners, we are the largest and warmest cooperative in the country. Together, we go further, experience more, and invest better: in initiatives that do good and connect people, in projects that benefit us all.\n\nTogether, we take good care of each other."
-        }
-      },
       {
         "img": "espressif.png",
         "alt": "Espressif",

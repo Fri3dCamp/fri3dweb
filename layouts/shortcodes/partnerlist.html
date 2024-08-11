@@ -17,22 +17,22 @@
 	</span>
 	{{ end }}
     {{ if and (or (eq "32 bit" $mylabel) (eq "16 bit" $mylabel) )  .intro }}
-    <p class="partnerlist__intro">
+    <div class="partnerlist__intro">
     {{ if and (eq $.Site.Language.Lang "nl") (isset .intro "nl") }}
     {{ .intro.nl | markdownify }}
     {{ else if and (isset .intro "en") }}
     {{ .intro.en | markdownify }}
     {{ end }}
-    </p>
+    </div>
     {{ end }}
 	{{ if and (eq "32 bit" $mylabel) .desc }}
-    <p class="partnerlist__desc">
+    <div class="partnerlist__desc">
     {{ if and (eq $.Site.Language.Lang "nl") (isset .desc "nl") }}
     {{ .desc.nl | markdownify }}
     {{ else if and (isset .desc "en") }}
     {{ .desc.en | markdownify }}
     {{ end }}
-    </p>
+    </div>
     {{ end }}
     </div>
 	{{ end }}
