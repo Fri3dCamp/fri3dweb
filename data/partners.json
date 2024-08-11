@@ -125,11 +125,6 @@
                 }
             },
             {
-                "img": "fablableuven.jpg",
-                "alt": "FabLab Leuven",
-                "url": "https://fablab-leuven.be"
-            },
-            {
 				"hidden" : true,
                 "img": "bagaar.png",
                 "alt": "Bagaar",
