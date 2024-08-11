@@ -51,6 +51,19 @@
                     "nl" : "WE ONDERSTEUNEN & ONTWIKKELEN STEM LABO'S - Ons motto: Je kan meer dan je denkt! Ingegno maakt STEM producten, begeleidt, traint en ondersteunt. Onze clienten: scholen, bedrijven, fablabs en particulieren.\n\nWIJZE BEZIGHEDEN VOOR WIJZE KINDEREN Wees geïnteresseerd in de manier waarop dingen werken, geïntrigeerd door de wereld om ons heen en niet bang om met nieuwe technologieën te spelen. Door te knutselen ontstaan nieuwe ideeën en ontstaat er inspiratie voor spannende projecten. Maak iets. Iets. Of haal iets uit elkaar om erachter te komen wat erin zit.\n\nProf dr. Maria Cristina Ciocci",
 					"en" : "WE SUPPORT & DEVELOP STEM LABS - Our motto: You can do more than you think! Ingegno makes STEM products, guides, trains and supports. Our clients: schools, companies, fablabs and private individuals.<br />WISE ACTIVITIES FOR WISE CHILDREN Be interested in the way things work, intrigued by the world around us, and unafraid to play with new technologies. Tinkering seeds new ideas and inspires exciting projects. Make something. Anything. Or take something apart to find out what’s inside.\n\nProf dr. Maria-Cristina Ciocci"
                 }
+            },
+            {
+                "img": "decreatievestem.png",
+                "alt": "De Creatieve Stem",
+                "url": "https://decreatievestem.be/",
+				"intro" : {
+					"nl" : "Ingegno is constant in de weer om STEM op de kaart te zetten.",
+					"en" : "Ingegno is constantly promoting STEM."
+				},
+                "desc":{
+                    "nl" : "WE ONDERSTEUNEN & ONTWIKKELEN STEM LABO'S - Ons motto: Je kan meer dan je denkt! Ingegno maakt STEM producten, begeleidt, traint en ondersteunt. Onze clienten: scholen, bedrijven, fablabs en particulieren.\n\nWIJZE BEZIGHEDEN VOOR WIJZE KINDEREN Wees geïnteresseerd in de manier waarop dingen werken, geïntrigeerd door de wereld om ons heen en niet bang om met nieuwe technologieën te spelen. Door te knutselen ontstaan nieuwe ideeën en ontstaat er inspiratie voor spannende projecten. Maak iets. Iets. Of haal iets uit elkaar om erachter te komen wat erin zit.\n\nProf dr. Maria Cristina Ciocci",
+					"en" : "WE SUPPORT & DEVELOP STEM LABS - Our motto: You can do more than you think! Ingegno makes STEM products, guides, trains and supports. Our clients: schools, companies, fablabs and private individuals.<br />WISE ACTIVITIES FOR WISE CHILDREN Be interested in the way things work, intrigued by the world around us, and unafraid to play with new technologies. Tinkering seeds new ideas and inspires exciting projects. Make something. Anything. Or take something apart to find out what’s inside.\n\nProf dr. Maria-Cristina Ciocci"
+                }
             }
         ]
     },
