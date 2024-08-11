@@ -79,7 +79,7 @@
           "en": "FLEXIBILITY. FAMILY. FUTURE."
         }
       },
-	  {
+      {
         "img": "phlippo.jpg"
       }
     ]
@@ -95,9 +95,9 @@
           "nl": "Samen investeren in welvaart en welzijn.",
           "en": "Investing together in prosperity and well-being."
         },
-		"desc": {
+        "desc": {
           "nl": "Met 400.000 enthousiaste vennoten zijn we de grootste en warmste coöperatie van het land. Samen geraken we verder, beleven we meer en investeren we beter: in initiatieven die (het) goed doen en mensen verbinden, in projecten die opbrengen voor ons allemaal.\n\nSamen hebben we ’t goed voor elkaar.",
-		  "en" : "With 400,000 enthusiastic partners, we are the largest and warmest cooperative in the country. Together, we go further, experience more, and invest better: in initiatives that do good and connect people, in projects that benefit us all.\n\nTogether, we take good care of each other."
+          "en": "With 400,000 enthusiastic partners, we are the largest and warmest cooperative in the country. Together, we go further, experience more, and invest better: in initiatives that do good and connect people, in projects that benefit us all.\n\nTogether, we take good care of each other."
         }
       },
       {
@@ -192,6 +192,12 @@
           "en:": "Wolters Kluwer develops ERP and accounting software for financial professionals and entrepreneurs who aim to increase their efficiëncy. From individual tools to complete suites, on premise and in the cloud. Do you want to be a part of our organisation? Find out more at https://careers.wolterskluwer.com/en",
           "nl": "Wolters Kluwer ontwikkelt ERP- en boekhoudsoftware voor accountants en ondernemers die efficiënter willen werken. Van individuele tools tot complete suites, on-premise en in de cloud. Wil je hier mee je schouders onder zetten? Meer info op https://careers.wolterskluwer.com/nl-be"
         }
+      },
+      {
+        "hidden": true,
+        "img": "fablableuven.jpg",
+        "alt": "FabLab Leuven",
+        "url": "https://fablab-leuven.be"
       },
       {
         "hidden": true,
