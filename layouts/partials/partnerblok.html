@@ -11,9 +11,15 @@
             {{ range .partners }}
 			{{ if not .hidden }}
                 <li class="partners__logo partner-size-{{ $mylabel | urlize }}">
+					{{ if .url }}
                     <a href="{{ .url }}">
                         <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
                     </a>
+					{{ else }}
+                    <span>
+                        <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
+                    </span>
+					{{ end }}
                 </li>
 			{{ end }}
             {{ end }}

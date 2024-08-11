@@ -7,9 +7,15 @@
     {{ range .partners }}
 	{{ if not .hidden }}
     <div class="partnerlist__partner partner-size-{{ $mylabel | urlize }}">
+	{{ if .url }}
     <a href="{{ .url }}" class="partnerlist__logo">
     <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
     </a>
+	{{ else }}
+	<span class="partnerlist__logo">
+    <img src="/img/partners/{{ .img }}" alt="{{ .alt }}" />
+	</span>
+	{{ end }}
     {{ if and (or (eq "32 bit" $mylabel) (eq "16 bit" $mylabel) )  .intro }}
     <p class="partnerlist__intro">
     {{ if and (eq $.Site.Language.Lang "nl") (isset .intro "nl") }}

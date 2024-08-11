@@ -1,154 +1,210 @@
-[{
-        "label": "32 bit",
-        "partners": [{
-                "img": "dekimo.png",
-                "alt": "Dekimo",
-                "url": "https://www.dekimo.com/",
-				"intro" : {
-					"nl" : "Dekimo is een belangrijke onafhankelijke aanbieder van elektronische oplossingen in Europa, die klanttevredenheid door lokale aanwezigheid hoog in het vaandel heeft staan.",
-					"en" : "Dekimo is an important independent electronics solution provider in Europe, who highly values customer satisfaction through local presence."
-				},
-                "desc": {
-                    "nl": "Dekimo is een leverancier van elektronische diensten. De groep bestaat uit een ontwerphuis voor elektronica, mechatronica en softwaretoepassingen, een consultancy tak, een layout dienst voor printplaat ontwerp, een gecertificeerd testlab, een prototype dienst en een sterk geautomatiseerde SMD-assemblagefabriek voor productieseries van 100 tot 100.000 PCBA's. Met 400 professionals kunnen ze uw engineering partner voor de lange termijn zijn en u helpen uw bedrijfsdoelen efficiënter te bereiken.",
-                    "en": "Dekimo is an electronic services supplier. The group consists of a design house for electronic engineering, mechatronics and software applications, a consultancy service, a layout service for printed circuit board design, a certified testlab, a prototype service and a highly automated SMD assembly plant for production series of 100 to 100.000 PCBA's. With 400 professionals, they can be your long-term engineering partner and help you to achieve your business goals more efficiently. "
-                }
-            },
-			{
-                "img": "wurth.png",
-                "alt": "Würth Elektronik",
-                "url": "https://www.dekimo.com/",
-				"intro" : {
-					"nl" : "Met zijn elektronische componenten staat Würth Elektronik voor innovatieve oplossingen, topkwaliteit en uitstekende service die verder gaan dan het gewone – in lijn met ons motto: Meer dan je verwacht!",
-					"en" : "With its electronic components, Würth Elektronik embodies innovative solutions, top quality, and outstanding service that surpass the ordinary – in line with our motto: More than you Expect!"
-				},
-                "desc": {
-                    "nl": "Würth Elektronik is de voorkeurspartner van veel ontwikkelaars en fabrikanten uit een breed scala aan industrieën. Met zijn elektronische en elektromechanische componenten, EMC componenten, radiomodules en sensoren staat Würth Elektronik voor innovatieve oplossingen, topkwaliteit en uitstekende service die veel verder gaat dan het gewone. We worden gewaardeerd omdat we geen minimale bestelhoeveelheden hanteren. We hebben veel voorraad en bieden gratis samples! De componenten zijn van industriële kwaliteit en zijn minimaal 10 jaar beschikbaar. Onze vertegenwoordigers bieden doorgedreven technisch advies, zoals bijvoorbeeld omtrent EMC, radiowetgeving of antenne matching.",
-                    "en": "Würth Elektronik is the preferred partner of many developers and manufacturers from a wide range of industries. With its electronic and electromechanical components, EMC components, radio modules and sensors, Würth Elektronik stands for innovative solutions, top quality and excellent service that goes far beyond the ordinary. We are appreciated because we do not have minimum order quantities. We have lots of stock and offer free samples! The components are of industrial quality and are available for at least 10 years. Our representatives offer thorough technical advice, such as on EMC, radio legislation or antenna matching."
-                }
-            },
-            {
-                "img": "aqc.png",
-                "alt": "AQC",
-                "url": "https://www.aqcbv.com/",
-				"intro" : {
-					"nl" : "Wat uw uitdaging ook is, AQC B.V. is uw PCB-partner.",
-					"en" : "Whatever your challenge, AQC B.V. is your PCB partner."
-				},
-                "desc": {
-                    "nl" : "AQC B.V. is één van de technisch meest deskundige leveranciers van aansluitingen in de vorm van PCB’s voor de High Tech industrie. Met het hoofdkantoor in Nederland richt AQC zich erop marktleider te worden in deze producten die voldoen aan de meest veeleisende internationale kwaliteitseisen. AQC B.V. heeft de expertise om mee te denken en te adviseren tijdens de ontwerpfase van de printplaat. Ze verzekeren u dat zij alle vragen snel, adequaat, maar vooral klantgericht beantwoorden.",
-					"en" : "AQC B.V. is one of the most technically skilled suppliers of connections in the form of PCBs for the High Tech industry. With its headquarters in the Netherlands, AQC focuses on becoming the market leader in these products that meet the most demanding international quality requirements. AQC B.V. has the expertise to think along and advise during the design phase of the PCB. They assure you that they’ll answer all questions quickly, adequately, but above all in a customer-oriented way."
-                }
-            },
-            {
-                "img": "ingegno.png",
-                "alt": "Ingegno",
-                "url": "https://ingegno.be/",
-				"intro" : {
-					"nl" : "Ingegno is constant in de weer om STEM op de kaart te zetten.",
-					"en" : "Ingegno is constantly promoting STEM."
-				},
-                "desc":{
-                    "nl" : "WE ONDERSTEUNEN & ONTWIKKELEN STEM LABO'S - Ons motto: Je kan meer dan je denkt! Ingegno maakt STEM producten, begeleidt, traint en ondersteunt. Onze clienten: scholen, bedrijven, fablabs en particulieren.\n\nWIJZE BEZIGHEDEN VOOR WIJZE KINDEREN Wees geïnteresseerd in de manier waarop dingen werken, geïntrigeerd door de wereld om ons heen en niet bang om met nieuwe technologieën te spelen. Door te knutselen ontstaan nieuwe ideeën en ontstaat er inspiratie voor spannende projecten. Maak iets. Iets. Of haal iets uit elkaar om erachter te komen wat erin zit.\n\nProf dr. Maria Cristina Ciocci",
-					"en" : "WE SUPPORT & DEVELOP STEM LABS - Our motto: You can do more than you think! Ingegno makes STEM products, guides, trains and supports. Our clients: schools, companies, fablabs and private individuals.<br />WISE ACTIVITIES FOR WISE CHILDREN Be interested in the way things work, intrigued by the world around us, and unafraid to play with new technologies. Tinkering seeds new ideas and inspires exciting projects. Make something. Anything. Or take something apart to find out what’s inside.\n\nProf dr. Maria-Cristina Ciocci"
-                }
-            },
-            {
-                "img": "decreatievestem.png",
-                "alt": "De Creatieve Stem",
-                "url": "https://decreatievestem.be/",
-				"intro" : {
-					"nl" : "Ingegno is constant in de weer om STEM op de kaart te zetten.",
-					"en" : "Ingegno is constantly promoting STEM."
-				},
-                "desc":{
-                    "nl" : "WE ONDERSTEUNEN & ONTWIKKELEN STEM LABO'S - Ons motto: Je kan meer dan je denkt! Ingegno maakt STEM producten, begeleidt, traint en ondersteunt. Onze clienten: scholen, bedrijven, fablabs en particulieren.\n\nWIJZE BEZIGHEDEN VOOR WIJZE KINDEREN Wees geïnteresseerd in de manier waarop dingen werken, geïntrigeerd door de wereld om ons heen en niet bang om met nieuwe technologieën te spelen. Door te knutselen ontstaan nieuwe ideeën en ontstaat er inspiratie voor spannende projecten. Maak iets. Iets. Of haal iets uit elkaar om erachter te komen wat erin zit.\n\nProf dr. Maria Cristina Ciocci",
-					"en" : "WE SUPPORT & DEVELOP STEM LABS - Our motto: You can do more than you think! Ingegno makes STEM products, guides, trains and supports. Our clients: schools, companies, fablabs and private individuals.<br />WISE ACTIVITIES FOR WISE CHILDREN Be interested in the way things work, intrigued by the world around us, and unafraid to play with new technologies. Tinkering seeds new ideas and inspires exciting projects. Make something. Anything. Or take something apart to find out what’s inside.\n\nProf dr. Maria-Cristina Ciocci"
-                }
-            }
-        ]
-    },
-    {
-        "label": "16 bit",
-        "partners": [
-            {
-                "img": "cera.png",
-                "alt": "Cera",
-                "url": "https://www.cera.be/",
-                "intro": {
-                    "nl": "Samen investeren in welvaart en welzijn.",
-					"en" : "Investing together in prosperity and well-being."
-                }
-            },
-			{
-                "img": "espressif.png",
-                "alt": "Espressif",
-                "url": "https://www.espressif.com/",
-                "intro": {
-					"nl" : "Espressif Systems is een wereldwijde high-tech leider op het gebied van draadloze communicatie, IoT, AI, SoC's, software en oplossingen voor een slimmere en groenere toekomst.",
-                    "en": "Espressif Systems is a global high-tech leader in wireless communication, IoT, AI, SoCs, software and solutions for a smarter and greener future."
-                }
-            },
-            {
-                "img": "bluebits.png",
-                "alt": "Blue Bits bv",
-                "url": "https://www.bluebits.be/",
-                "intro": {
-                    "nl": "Trikker (©Bluebits) het tekenprogramma voor elektriciens",
-					"en" : "Trikker (©Bluebits) the drawing program for electricians"
-                }
-            }
-        ]
-    },
-    {
-        "label": "8 bit",
-        "partners": [
-            {
-                "img": "dewerkkamer.png",
-                "alt": "De Werkkamer",
-                "url": "https://www.dewerkkamer.be/",
-                "desc": {
-                    "nl": "De Werkkamer restaureert en herstelt meubelen, schilderijen en objecten. Daarnaast maakt De Werkkamer meubelen via 2- en 3 D CNC freestechnieken, complementair aan maar ook geïntegreerd in de restauratieactiviteiten. Opgericht in 1999 als restauratieatelier breidde De Werkkamer haar activiteiten uit met het uitvoeren van speciale projecten en de combinatie van restauratie en renovatieprojecten zowel in privé als in openbare context. "
-                }
-            },
-            {
-                "img": "hermes.svg",
-                "alt": "Hermes Telecom",
-                "url": "https://hermestelecom.be/",
-                "desc": {
-                    "nl": "Hermes Telecom levert in selecte gebieden van de provincie Antwerpen, Limburg en Vlaams-Brabant regionale internettoegang gericht op de power user en internationale telefoniegebruiker."
-                }
-            },
-			{
-				"hidden" : true,
-                "img": "rogers.png",
-                "alt": "Rogers Corporation",
-                "url": "https://www.rogerscorp.com/",
-                "desc": {
-                    "en": "Rogers Corporation is passionate about helping the world's leading innovators solve their toughest material challenges and create a cleaner, safer, and more connected world. "
-                }
-            },
-            {
-				"hidden" : true,
-                "img": "kluwer.png",
-                "alt": "Wolters Kluwer",
-                "url": "https://careers.wolterskluwer.com/",
-                "desc": {
-                    "en:": "Wolters Kluwer develops ERP and accounting software for financial professionals and entrepreneurs who aim to increase their efficiëncy. From individual tools to complete suites, on premise and in the cloud. Do you want to be a part of our organisation? Find out more at https://careers.wolterskluwer.com/en",
-                    "nl": "Wolters Kluwer ontwikkelt ERP- en boekhoudsoftware voor accountants en ondernemers die efficiënter willen werken. Van individuele tools tot complete suites, on-premise en in de cloud. Wil je hier mee je schouders onder zetten? Meer info op https://careers.wolterskluwer.com/nl-be"
-                }
-            },
-            {
-				"hidden" : true,
-                "img": "bagaar.png",
-                "alt": "Bagaar",
-                "url": "https://www.bagaar.be/"
-            },
-            {
-				"hidden" : true,
-                "img": "aoyue.png",
-                "url": "https://www.aoyue3d.com",
-                "alt": "Aoyue"
-            }
-        ]
-    }
+[
+  {
+    "label": "32 bit",
+    "partners": [
+      {
+        "img": "dekimo.png",
+        "alt": "Dekimo",
+        "url": "https://www.dekimo.com/",
+        "intro": {
+          "nl": "Dekimo is een belangrijke onafhankelijke aanbieder van elektronische oplossingen in Europa, die klanttevredenheid door lokale aanwezigheid hoog in het vaandel heeft staan.",
+          "en": "Dekimo is an important independent electronics solution provider in Europe, who highly values customer satisfaction through local presence."
+        },
+        "desc": {
+          "nl": "Dekimo is een leverancier van elektronische diensten. De groep bestaat uit een ontwerphuis voor elektronica, mechatronica en softwaretoepassingen, een consultancy tak, een layout dienst voor printplaat ontwerp, een gecertificeerd testlab, een prototype dienst en een sterk geautomatiseerde SMD-assemblagefabriek voor productieseries van 100 tot 100.000 PCBA's. Met 400 professionals kunnen ze uw engineering partner voor de lange termijn zijn en u helpen uw bedrijfsdoelen efficiënter te bereiken.",
+          "en": "Dekimo is an electronic services supplier. The group consists of a design house for electronic engineering, mechatronics and software applications, a consultancy service, a layout service for printed circuit board design, a certified testlab, a prototype service and a highly automated SMD assembly plant for production series of 100 to 100.000 PCBA's. With 400 professionals, they can be your long-term engineering partner and help you to achieve your business goals more efficiently. "
+        }
+      },
+      {
+        "img": "wurth.png",
+        "alt": "Würth Elektronik",
+        "url": "https://www.dekimo.com/",
+        "intro": {
+          "nl": "Met zijn elektronische componenten staat Würth Elektronik voor innovatieve oplossingen, topkwaliteit en uitstekende service die verder gaan dan het gewone – in lijn met ons motto: Meer dan je verwacht!",
+          "en": "With its electronic components, Würth Elektronik embodies innovative solutions, top quality, and outstanding service that surpass the ordinary – in line with our motto: More than you Expect!"
+        },
+        "desc": {
+          "nl": "Würth Elektronik is de voorkeurspartner van veel ontwikkelaars en fabrikanten uit een breed scala aan industrieën. Met zijn elektronische en elektromechanische componenten, EMC componenten, radiomodules en sensoren staat Würth Elektronik voor innovatieve oplossingen, topkwaliteit en uitstekende service die veel verder gaat dan het gewone. We worden gewaardeerd omdat we geen minimale bestelhoeveelheden hanteren. We hebben veel voorraad en bieden gratis samples! De componenten zijn van industriële kwaliteit en zijn minimaal 10 jaar beschikbaar. Onze vertegenwoordigers bieden doorgedreven technisch advies, zoals bijvoorbeeld omtrent EMC, radiowetgeving of antenne matching.",
+          "en": "Würth Elektronik is the preferred partner of many developers and manufacturers from a wide range of industries. With its electronic and electromechanical components, EMC components, radio modules and sensors, Würth Elektronik stands for innovative solutions, top quality and excellent service that goes far beyond the ordinary. We are appreciated because we do not have minimum order quantities. We have lots of stock and offer free samples! The components are of industrial quality and are available for at least 10 years. Our representatives offer thorough technical advice, such as on EMC, radio legislation or antenna matching."
+        }
+      },
+      {
+        "img": "aqc.png",
+        "alt": "AQC",
+        "url": "https://www.aqcbv.com/",
+        "intro": {
+          "nl": "Wat uw uitdaging ook is, AQC B.V. is uw PCB-partner.",
+          "en": "Whatever your challenge, AQC B.V. is your PCB partner."
+        },
+        "desc": {
+          "nl": "AQC B.V. is één van de technisch meest deskundige leveranciers van aansluitingen in de vorm van PCB’s voor de High Tech industrie. Met het hoofdkantoor in Nederland richt AQC zich erop marktleider te worden in deze producten die voldoen aan de meest veeleisende internationale kwaliteitseisen. AQC B.V. heeft de expertise om mee te denken en te adviseren tijdens de ontwerpfase van de printplaat. Ze verzekeren u dat zij alle vragen snel, adequaat, maar vooral klantgericht beantwoorden.",
+          "en": "AQC B.V. is one of the most technically skilled suppliers of connections in the form of PCBs for the High Tech industry. With its headquarters in the Netherlands, AQC focuses on becoming the market leader in these products that meet the most demanding international quality requirements. AQC B.V. has the expertise to think along and advise during the design phase of the PCB. They assure you that they’ll answer all questions quickly, adequately, but above all in a customer-oriented way."
+        }
+      },
+      {
+        "img": "ingegno.png",
+        "alt": "Ingegno",
+        "url": "https://ingegno.be/",
+        "intro": {
+          "nl": "Ingegno is constant in de weer om STEM op de kaart te zetten.",
+          "en": "Ingegno is constantly promoting STEM."
+        },
+        "desc": {
+          "nl": "WE ONDERSTEUNEN & ONTWIKKELEN STEM LABO'S - Ons motto: Je kan meer dan je denkt! Ingegno maakt STEM producten, begeleidt, traint en ondersteunt. Onze clienten: scholen, bedrijven, fablabs en particulieren.\n\nWIJZE BEZIGHEDEN VOOR WIJZE KINDEREN Wees geïnteresseerd in de manier waarop dingen werken, geïntrigeerd door de wereld om ons heen en niet bang om met nieuwe technologieën te spelen. Door te knutselen ontstaan nieuwe ideeën en ontstaat er inspiratie voor spannende projecten. Maak iets. Iets. Of haal iets uit elkaar om erachter te komen wat erin zit.\n\nProf dr. Maria Cristina Ciocci",
+          "en": "WE SUPPORT & DEVELOP STEM LABS - Our motto: You can do more than you think! Ingegno makes STEM products, guides, trains and supports. Our clients: schools, companies, fablabs and private individuals.<br />WISE ACTIVITIES FOR WISE CHILDREN Be interested in the way things work, intrigued by the world around us, and unafraid to play with new technologies. Tinkering seeds new ideas and inspires exciting projects. Make something. Anything. Or take something apart to find out what’s inside.\n\nProf dr. Maria-Cristina Ciocci"
+        }
+      },
+      {
+        "img": "decreatievestem.png",
+        "alt": "De Creatieve Stem",
+        "url": "https://decreatievestem.be/"
+      },
+      {
+        "img": "elipse.svg",
+        "alt": "Elipse Power Supply Specialist",
+        "intro": {
+          "nl": "De elektronische voeding is het hart van de machine.",
+          "en": "The electronic power supply is the heart of the machine."
+        },
+        "desc": {
+          "nl": "De elektronische voeding is het hart van de machine. Hij zorgt voor de noodzakelijke spanning en stroom voor PLC's, sensoren, motoren, enzovoort.\n\n“Onze klanten zijn de specialist in hun apparaat, wij in de elektronische voeding. Samen leidt dat tot betere machines”, managing director Elipse - Evert Gys.\n\nElipse gaat samen met u op zoek naar de ideale oplossing voor uw applicatie. We denken mee met onze klanten vanaf het ontwerp tot de productie van de machine of het apparaat en bieden professionele technische support. Onze werknemers zijn een verbonden, gedreven team met een hart voor de klant.",
+          "en": "The electronic power supply is the heart of the machine. It provides the necessary voltage and current for PLCs, sensors, motors, and so on.\n\n“Our customers are the specialists in their device, we are the specialists in the electronic power supply. Together this leads to better machines,” managing director Elipse - Evert Gys.\n\nElipse will work with you to find the ideal solution for your application. We think along with our customers from design to production of the machine or device and offer professional technical support. Our employees are a connected, driven team with a heart for the customer."
+        }
+      },
+      {
+        "img": "glp.png",
+        "alt": "GLP",
+        "intro": {
+          "nl": "FLEXIBILITY. FAMILY. FUTURE.",
+          "en": "FLEXIBILITY. FAMILY. FUTURE."
+        }
+      },
+	  {
+        "img": "phlippo.jpg"
+      }
+    ]
+  },
+  {
+    "label": "16 bit",
+    "partners": [
+      {
+        "img": "cera.png",
+        "alt": "Cera",
+        "url": "https://www.cera.be/",
+        "intro": {
+          "nl": "Samen investeren in welvaart en welzijn.",
+          "en": "Investing together in prosperity and well-being."
+        },
+		"desc": {
+          "nl": "Met 400.000 enthousiaste vennoten zijn we de grootste en warmste coöperatie van het land. Samen geraken we verder, beleven we meer en investeren we beter: in initiatieven die (het) goed doen en mensen verbinden, in projecten die opbrengen voor ons allemaal.\n\nSamen hebben we ’t goed voor elkaar.",
+		  "en" : "With 400,000 enthusiastic partners, we are the largest and warmest cooperative in the country. Together, we go further, experience more, and invest better: in initiatives that do good and connect people, in projects that benefit us all.\n\nTogether, we take good care of each other."
+        }
+      },
+      {
+        "img": "espressif.png",
+        "alt": "Espressif",
+        "url": "https://www.espressif.com/",
+        "intro": {
+          "nl": "Espressif Systems is een wereldwijde high-tech leider op het gebied van draadloze communicatie, IoT, AI, SoC's, software en oplossingen voor een slimmere en groenere toekomst.",
+          "en": "Espressif Systems is a global high-tech leader in wireless communication, IoT, AI, SoCs, software and solutions for a smarter and greener future."
+        }
+      },
+      {
+        "img": "bluebits.png",
+        "alt": "Blue Bits bv",
+        "url": "https://www.bluebits.be/",
+        "intro": {
+          "nl": "Trikker (©Bluebits) het tekenprogramma voor elektriciens",
+          "en": "Trikker (©Bluebits) the drawing program for electricians"
+        }
+      }
+    ]
+  },
+  {
+    "label": "8 bit",
+    "partners": [
+      {
+        "img": "dewerkkamer.png",
+        "alt": "De Werkkamer",
+        "url": "https://www.dewerkkamer.be/",
+        "desc": {
+          "nl": "De Werkkamer restaureert en herstelt meubelen, schilderijen en objecten. Daarnaast maakt De Werkkamer meubelen via 2- en 3 D CNC freestechnieken, complementair aan maar ook geïntegreerd in de restauratieactiviteiten. Opgericht in 1999 als restauratieatelier breidde De Werkkamer haar activiteiten uit met het uitvoeren van speciale projecten en de combinatie van restauratie en renovatieprojecten zowel in privé als in openbare context. "
+        }
+      },
+      {
+        "img": "hermes.svg",
+        "alt": "Hermes Telecom",
+        "url": "https://hermestelecom.be/",
+        "desc": {
+          "nl": "Hermes Telecom levert in selecte gebieden van de provincie Antwerpen, Limburg en Vlaams-Brabant regionale internettoegang gericht op de power user en internationale telefoniegebruiker."
+        }
+      },
+      {
+        "hidden": false,
+        "img": "stemacademie.png",
+        "alt": "Stem Academie"
+      },
+      {
+        "hidden": false,
+        "img": "vlaio.png",
+        "alt": "VLAIO"
+      },
+      {
+        "hidden": false,
+        "img": "linuxbe.png",
+        "alt": "Linux Belgium"
+      },
+      {
+        "hidden": false,
+        "img": "seetronic.png",
+        "alt": "Seetronic"
+      },
+      {
+        "hidden": false,
+        "img": "comdes.png",
+        "alt": "Comdes"
+      },
+      {
+        "hidden": false,
+        "img": "lucenti.png",
+        "alt": "Lucenti"
+      },
+      {
+        "hidden": false,
+        "img": "dagit.png",
+        "alt": "Dagit"
+      },
+      {
+        "hidden": true,
+        "img": "rogers.png",
+        "alt": "Rogers Corporation",
+        "url": "https://www.rogerscorp.com/",
+        "desc": {
+          "en": "Rogers Corporation is passionate about helping the world's leading innovators solve their toughest material challenges and create a cleaner, safer, and more connected world. "
+        }
+      },
+      {
+        "hidden": true,
+        "img": "kluwer.png",
+        "alt": "Wolters Kluwer",
+        "url": "https://careers.wolterskluwer.com/",
+        "desc": {
+          "en:": "Wolters Kluwer develops ERP and accounting software for financial professionals and entrepreneurs who aim to increase their efficiëncy. From individual tools to complete suites, on premise and in the cloud. Do you want to be a part of our organisation? Find out more at https://careers.wolterskluwer.com/en",
+          "nl": "Wolters Kluwer ontwikkelt ERP- en boekhoudsoftware voor accountants en ondernemers die efficiënter willen werken. Van individuele tools tot complete suites, on-premise en in de cloud. Wil je hier mee je schouders onder zetten? Meer info op https://careers.wolterskluwer.com/nl-be"
+        }
+      },
+      {
+        "hidden": true,
+        "img": "bagaar.png",
+        "alt": "Bagaar",
+        "url": "https://www.bagaar.be/"
+      },
+      {
+        "hidden": true,
+        "img": "aoyue.png",
+        "url": "https://www.aoyue3d.com",
+        "alt": "Aoyue"
+      }
+    ]
+  }
 ]
