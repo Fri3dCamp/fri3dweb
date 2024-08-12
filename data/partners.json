@@ -93,7 +93,12 @@
         }
       },
       {
-        "img": "phlippo.jpg"
+        "img": "phlippo.jpg",
+        "alt": "Phlippo",
+        "desc": {
+          "nl": "Phlippo is vandaag de dag een gevestigde speler in de entertainmentsector. In de loop der jaren hebben we een uitstekende reputatie opgebouwd bij onze klanten door het leveren van uitmuntende klantenservice. En ja, daar zijn we bijzonder trots op!\n\nWe zijn een trendsetter in de entertainmentbranche en combineren hightechapparatuur van toonaangevende merken met expertise die is verkregen door uitgebreide ervaring. Onze productieteams bieden continue ondersteuning aan ontwerpers, producenten, projectmanagers, enzovoort, over de hele wereld. Samen realiseren we jaarlijks meer dan 600 shows.\n\nPhlippo maakt deel uit van de Rent-All groep, een van de grootste spelers op de Europese AV-markt. Dit geeft ons niet alleen toegang tot een van de meest geavanceerde, maar ook tot de grootste voorraden materialen in de EMEA-regio. Kortom... wij hebben alles in huis om aan uw behoeften te voldoen!",
+		  "en": "Today Phlippo is an established player in the entertainment branch. Over the many years we have been able to build an outstanding reputation among our clients for delivering excellent customer service. And yes, that makes us extremely proud!\n\nWe are a trendsetter in the entertainment sector and combine high-tech equipment from leading brands with know-how acquired through extensive experience. Our production teams provide permanent support to designers, producers, projectmanagers,… all over the world and together we produce over 600 shows every year.\n\nPhlippo is part of the Rent-All group, one of the largest players in the European AV market. This gives us not only access to one of the most advanced, but also the largest stocks of materials in the EMEA region. In short… we got you covered!"
+        }
       }
     ]
   },
