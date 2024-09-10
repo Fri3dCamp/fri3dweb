@@ -18,11 +18,11 @@ markup: "html"
 <div class="block--centered">
 <h2>Mosaic</h2>
 <figure class="figure--full">
-<a href="/img/headerimg.svg">
-<img src="/img/headerimg.svg" alt="Mosaic of abstract line art" />
+<a href="/img/headerimg_2024.svg">
+<img src="/img/headerimg_2024.svg" alt="Mosaic of abstract line art" />
 </a>
 <figcaption>
-<p><a href="/img/headerimg.svg">Download the website header backround image</a>.</p>
+<p><a href="/img/headerimg_2024.svg">Download the website header backround image</a>.</p>
 </figcaption>
 </figure>
 </div>

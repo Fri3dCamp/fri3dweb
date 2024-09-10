@@ -18,11 +18,11 @@ markup: "html"
 <div class="block--centered">
 <h2>Mozaïek-visual</h2>
 <figure class="figure--full">
-<a href="/img/headerimg.svg">
-<img src="/img/headerimg.svg" alt="Mozaïek van abstracte lijntekeningen" />
+<a href="/img/headerimg_2024.svg">
+<img src="/img/headerimg_2024.svg" alt="Mozaïek van abstracte lijntekeningen" />
 </a>
 <figcaption>
-<p><a href="/img/headerimg.svg">Download de achtergrondafbeelding</a> van de header als svg.</p>
+<p><a href="/img/headerimg_2024.svg">Download de achtergrondafbeelding</a> van de header als svg.</p>
 </figcaption>
 </figure>
 </div>
