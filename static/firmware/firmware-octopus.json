@@ -1,8 +1,12 @@
 [
     {
-        "version": "0.1.5-esp-idf.1+build.0",
-        "url": "https://github.com/MathyV/fri3d_firmware/releases/download/v0.1.5/fri3d_firmware_octopus.bin",
+        "version": "1.0.0",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.0/fri3d_firmware_octopus.bin",
+        "size": 1344320
+    },
+    {
+        "version": "0.1.5",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/fri3d_firmware_octopus.bin",
         "size": 1447232
     }
 ]
-

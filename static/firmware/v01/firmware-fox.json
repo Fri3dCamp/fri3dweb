@@ -1,0 +1,194 @@
+[
+  {
+    "version": "1.0.1",
+    "beta": false,
+    "images": [
+      {
+        "type": "main",
+        "version": "1.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.1/fri3d_firmware_fox.bin",
+        "size": 1315952
+      },
+      {
+        "type": "micropython",
+        "version": "1.23.0-1+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_2024_micropython/releases/download/v1.23.0-1+fri3d/micropython_fox.bin",
+        "size": 2479904
+      },
+      {
+        "type": "retro-launcher",
+        "version": "1.42-4+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-4+fri3d/retro_go_launcher_fox.bin",
+        "size": 1014240
+      },
+      {
+        "type": "retro-core",
+        "version": "1.42-4+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-4+fri3d/retro_go_core_fox.bin",
+        "size": 610528
+      },
+      {
+        "type": "retro-prboom",
+        "version": "1.42-4+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-4+fri3d/retro_go_prboom_fox.bin",
+        "size": 872816
+      },
+      {
+        "type": "vfs",
+        "version": "1.42-4+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-4+fri3d/vfs_fox.bin",
+        "size": 6750208
+      },
+      {
+        "type": "bootloader",
+        "version": "1.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.1/bootloader_fox.bin",
+        "size": 21072
+      },
+      {
+        "type": "partition-table",
+        "version": "1.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.1/partition_table_fox.bin",
+        "size": 3072
+      },
+      {
+        "type": "ota-data",
+        "version": "1.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.1/ota_data_fox.bin",
+        "size": 8192
+      },
+      {
+        "type": "nvs",
+        "version": "1.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.1/nvs_fox.bin",
+        "size": 20480
+      }
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "beta": false,
+    "images": [
+      {
+        "type": "main",
+        "version": "1.0.0",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.0/fri3d_firmware_fox.bin",
+        "size": 1315952
+      },
+      {
+        "type": "micropython",
+        "version": "1.23.0-1+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_2024_micropython/releases/download/v1.23.0-1+fri3d/micropython_fox.bin",
+        "size": 2479904
+      },
+      {
+        "type": "retro-launcher",
+        "version": "1.42-1+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-1+fri3d/retro_go_launcher_fox.bin",
+        "size": 1012192
+      },
+      {
+        "type": "retro-core",
+        "version": "1.42-1+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-1+fri3d/retro_go_core_fox.bin",
+        "size": 606528
+      },
+      {
+        "type": "retro-prboom",
+        "version": "1.42-1+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-1+fri3d/retro_go_prboom_fox.bin",
+        "size": 868752
+      },
+      {
+        "type": "vfs",
+        "version": "1.42-1+fri3d",
+        "url": "https://github.com/Fri3dCamp/badge_retro-go/releases/download/v1.42-1+fri3d/vfs_fox.bin",
+        "size": 6750205
+      },
+      {
+        "type": "bootloader",
+        "version": "1.0.0",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.0/bootloader_fox.bin",
+        "size": 21072
+      },
+      {
+        "type": "partition-table",
+        "version": "1.0.0",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.0/partition_table_fox.bin",
+        "size": 3072
+      },
+      {
+        "type": "ota-data",
+        "version": "1.0.0",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.0/ota_data_fox.bin",
+        "size": 8192
+      },
+      {
+        "type": "nvs",
+        "version": "1.0.0",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v1.0.0/nvs_fox.bin",
+        "size": 20480
+      }
+    ]
+  },
+  {
+    "version": "0.1.5",
+    "beta": true,
+    "images": [
+      {
+        "type": "main",
+        "version": "0.1.5",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/fri3d_firmware_fox.bin",
+        "size": 1395200
+      },
+      {
+        "type": "micropython",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/micropython_fox.bin",
+        "size": 614896
+      },
+      {
+        "type": "retro-launcher",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/retro_go_launcher_fox.bin",
+        "size": 968576
+      },
+      {
+        "type": "retro-core",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/retro_go_core_fox.bin",
+        "size": 555792
+      },
+      {
+        "type": "retro-prboom",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/retro_go_prboom_fox.bin",
+        "size": 818288
+      },
+      {
+        "type": "vfs",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/vfs_fox.bin",
+        "size": 6750208
+      },
+      {
+        "type": "bootloader",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/bootloader_fox.bin",
+        "size": 21136
+      },
+      {
+        "type": "partition-table",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/partition_table_fox.bin",
+        "size": 3072
+      },
+      {
+        "type": "ota-data",
+        "version": "0.0.1",
+        "url": "https://github.com/Fri3dCamp/badge_firmware/releases/download/v0.1.5/ota_data_fox.bin",
+        "size": 8192
+      }
+    ]
+  }
+]
