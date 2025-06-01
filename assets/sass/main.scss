@@ -717,3 +717,30 @@ p a {
 .sectionnav__item--selected {
 	border-bottom: 3px solid $clr_A;
 }
+
+.savethedate {
+  position: fixed;
+  top: 160px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-7deg);
+  background: repeating-linear-gradient(
+    45deg,
+    #a9a9a9,
+    #a9a9a9 12px,
+    #b3b3b3 12px,
+    #b3b3b3 24px
+  );
+  color: black;
+  padding: 90px 100px;
+  font-family: Impact, sans-serif;
+  font-weight: 900;
+  font-size: 5rem;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
+  border: 5px solid #444;
+  z-index: 9999;
+  text-align: center;
+  clip-path: polygon(6% 0%, 94% 0%, 100% 10%, 100% 90%, 94% 100%, 6% 100%, 0% 90%, 0% 10%);
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.4);
+}
