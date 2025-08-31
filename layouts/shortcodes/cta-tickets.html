@@ -1,4 +1,5 @@
-{{/*  <div class="block--callout block--noborder">
+<!-- TODOTICKETS
+<div class="block--callout block--noborder">
 	<div class="decoblock decoblock--dots decoblock--l"></div>
 	<div class="cta cta--tickets">
 		{{ if eq .Site.Language.Lang "en" }}
@@ -16,9 +17,10 @@
 		{{ end }}
 	</div>
 	<div class="decoblock decoblock--herringbone decoblock--br"></div>
-</div>  */}}
+</div>
+-->
 
-{{/*  
+<!-- TODOTICKETSWAITINGLIST
 <div class="block--callout block--noborder">
 	<div class="decoblock decoblock--dots decoblock--l"></div>
 	<div class="cta cta--tickets">
@@ -31,8 +33,10 @@
 		{{ end }}
 	</div>
 	<div class="decoblock decoblock--herringbone decoblock--br"></div>
-</div>  */}}
+</div>
+-->
 
+<!-- TODOTICKETSSOLDOUT
 <div class="block--callout block--noborder">
 	<div class="decoblock decoblock--dots decoblock--l"></div>
 	<div class="cta cta--tickets">
@@ -40,6 +44,19 @@
 		<p class="cta__herotext">Fri3d Camp 2024 is completely sold out.</p>
 		{{ else }}
 		<p class="cta__herotext">Fri3d Camp 2024 is volledig uitverkocht.</p>
+		{{ end }}
+	</div>
+	<div class="decoblock decoblock--herringbone decoblock--br"></div>
+</div>
+-->
+
+<div class="block--callout block--noborder">
+	<div class="decoblock decoblock--dots decoblock--l"></div>
+	<div class="cta cta--tickets">
+		{{ if eq .Site.Language.Lang "en" }}
+		<p class="cta__herotext">Fri3d Camp 2026 tickets are not yet available.</p>
+		{{ else }}
+		<p class="cta__herotext">Fri3d Camp 2026 tickets zijn nog niet beschikbaar.</p>
 		{{ end }}
 	</div>
 	<div class="decoblock decoblock--herringbone decoblock--br"></div>

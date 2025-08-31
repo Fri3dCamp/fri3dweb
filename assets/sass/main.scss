@@ -4,11 +4,11 @@
 }
 
 @mixin visuallyhidden {
-    position: absolute !important;
-    height: 1px; width: 1px;
-    overflow: hidden;
-    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px; width: 1px;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+	clip: rect(1px, 1px, 1px, 1px);
 }
 
 html {
@@ -145,27 +145,27 @@ p a {
 .topbar {
 	@include gridrow;
 	grid-template-areas:
-    "ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav";
+	"ticker ticker ticker ticker secnav secnav secnav secnav secnav secnav secnav secnav";
 	//position: fixed;
 	@media screen and (max-width:$breakpoint2b) {
 		grid-template-areas:
 		"ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker ticker";
 		text-align: center;
 	}
-    background-color: black;
+	background-color: black;
 }
 
 .topbar--sticky {
-    @media screen and (min-width:$breakpoint3) {
-        position: fixed;
-        top:0;
-        z-index: 10;
-        width: 100%;
-    }
+	@media screen and (min-width:$breakpoint3) {
+		position: fixed;
+		top:0;
+		z-index: 10;
+		width: 100%;
+	}
 }
 
 .visually-hidden {
-    @include visuallyhidden;
+	@include visuallyhidden;
 }
 
 
@@ -192,7 +192,7 @@ p a {
 	height:4vw*3;
 	max-height:4vw*3;
 	//background-color: $clr_C;
-    background-color: $clr_C;
+	background-color: $clr_C;
 
 
 	@media screen and (max-width:$breakpoint1) {
@@ -284,13 +284,13 @@ p a {
 	background-position: center;
 	position:relative;
 	top: -0.2rem;
-    @media screen and (max-width:$breakpoint1) {
-	    margin: 0;
+	@media screen and (max-width:$breakpoint1) {
+		margin: 0;
 
-    }
-    &::after {
-        border-bottom: none;
-    }
+	}
+	&::after {
+		border-bottom: none;
+	}
 	margin: $spacer*2;
 }
 
@@ -309,23 +309,23 @@ p a {
 	margin: $spacer*2;
 }
 
-.navbar--sticky .sitenav__homelink {    
-    @media screen and (min-width:$breakpoint2b) {
-        background-image: url('/img/logo_white_hor.svg');
-        min-width:16rem;
-        height:100%;
-        background-color:black;
-        background-position: center;
-        background-size: 85%;
-        //border-right: 1px solid white;
-        margin-right: $spacer;
-        //padding: 0;
-        margin: 0;
-        top: 0;
-        &::after{
-            border-bottom:0;
-        }
-    }
+.navbar--sticky .sitenav__homelink {	
+	@media screen and (min-width:$breakpoint2b) {
+		background-image: url('/img/logo_white_hor.svg');
+		min-width:16rem;
+		height:100%;
+		background-color:black;
+		background-position: center;
+		background-size: 85%;
+		//border-right: 1px solid white;
+		margin-right: $spacer;
+		//padding: 0;
+		margin: 0;
+		top: 0;
+		&::after{
+			border-bottom:0;
+		}
+	}
 }
 
 .sitenav--prim {
@@ -334,12 +334,12 @@ p a {
 	background-color: $clr_B;
 	height:auto;
 	height: auto;
-    align-items: center;
+	align-items: center;
 	@media screen and (min-width: ($breakpoint_primnav + 1px) ) {
 		border-bottom:1.2rem solid white;
 		background-color: $clr_B;
 		border-top: 4px solid white;
-        align-items: flex-end;
+		align-items: flex-end;
 	}
 	grid-column: 1 / span 12;
 	border-top: 4px solid white;
@@ -374,7 +374,7 @@ p a {
 
 .sitenav--prim .menuitems .sitenav--sec {
 	//background-color:black;
-    background-color: white;
+	background-color: white;
 	text-align:left;
 	padding-right: 0;
 	padding-left: 0;
@@ -518,8 +518,8 @@ p a {
 	max-width:100%;
 	grid-column: 1 / span 12;
 	// @media screen and (min-width:$breakpoint-1) {
-	//     grid-column: 2 / span 10;
-    // }
+	//		 grid-column: 2 / span 10;
+	// }
 	@media screen and (max-width:$breakpoint0) {
 		grid-column: 2 / span 10;
 	}
@@ -567,22 +567,22 @@ p a {
 }
 
 .block--herobutton {
-    padding: 2rem;
-    display: flex;
-    justify-content: center;
+	padding: 2rem;
+	display: flex;
+	justify-content: center;
 }
 
 .herobutton {
-    display: block;
+	display: block;
 	background-color:$clr_C;
 	color:black;
-    min-width: 40%;
+	min-width: 40%;
 	border:5px solid black;
 	box-shadow: 8px 8px 0 black;
 	padding:1rem;
-    margin-bottom:2rem;
-    text-align: center;
-    font-weight: bold;
+	margin-bottom:2rem;
+	text-align: center;
+	font-weight: bold;
 }
 
 .cta__subtext {
@@ -593,9 +593,9 @@ p a {
 
 .cta__metalink {
 	font-size:calc( 0.9rem + 0.5vw);
-    color:black;
-    line-height: 1.2em;
-    border-color: black;
+	color:black;
+	line-height: 1.2em;
+	border-color: black;
 }
 
 .cta__toptext {
@@ -644,7 +644,7 @@ p a {
 }
 
 .social {
-    margin-top: $spacer*3;
+	margin-top: $spacer*3;
 	display: flex;
 	justify-content: center;
 }
@@ -671,17 +671,17 @@ p a {
 	padding:$spacer;
 	padding-right:$spacer*2;
 	display: flex;
-    justify-content: center;
+	justify-content: center;
 	//display: none;
 	flex-direction: row-reverse;
-    margin-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 .langnav a {
 	margin-left: $spacer;
-    padding:1rem;
+	padding:1rem;
 	background-color:$clr_A;
 	border:5px solid black;
-    color: white;
+	color: white;
 	box-shadow: 8px 8px 0 black;
 }
 
@@ -716,31 +716,4 @@ p a {
 
 .sectionnav__item--selected {
 	border-bottom: 3px solid $clr_A;
-}
-
-.savethedate {
-  position: fixed;
-  top: 20%;
-  left: 50%;
-  transform: translateX(-50%) rotate(-7deg);
-  background: repeating-linear-gradient(
-    45deg,
-    #a9a9a9,
-    #a9a9a9 12px,
-    #b3b3b3 12px,
-    #b3b3b3 24px
-  );
-  color: black;
-  padding: 90px 100px;
-  font-family: Impact, sans-serif;
-  font-weight: 900;
-  font-size: 5rem;
-  letter-spacing: 2px;
-  line-height: 1.2;
-  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
-  border: 5px solid #444;
-  z-index: 9999;
-  text-align: center;
-  clip-path: polygon(6% 0%, 94% 0%, 100% 10%, 100% 90%, 94% 100%, 6% 100%, 0% 90%, 0% 10%);
-  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.4);
 }

@@ -21,7 +21,7 @@
 		<header class="siteheader">
 			<div class="topbar">{{ if .Params.showticker }}
 				<ul class="ticker">
-					<li>14 - 16 {{ if eq .Language.Lang "en" }}August{{ else }}augustus{{ end }} 2020</li>
+					<li>14 - 16 {{ if eq .Language.Lang "en" }}August{{ else }}augustus{{ end }} 2026</li>
 				</ul>{{ end }}					
 				{{ partial "secnav.html" . }}
 			</div>
@@ -56,14 +56,17 @@
 			</div>
 			<footer class="sitefooter">
 				<div class="sitefooter__meta">
-					{{ if eq .Language.Lang "en" }}<p>You're free to distribute the information, images and logos on our site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">freely</a>.</p>{{ else }}
-					<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>{{ end }}
+					{{ if eq .Language.Lang "en" }}
+          <p>You're free to distribute the information, images and logos on our site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">freely</a>.</p>
+          {{ else }}
+					<p>Je mag de informatie, beelden en logo's op deze site <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl">vrij verspreiden</a>.</p>
+          {{ end }}
 					<p>
 					<a class="licenselink" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.{{ .Language.Lang }}"><img class="cclicense" alt="Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a></p>
 				</div>
 				<nav class="sitefooter__nav">
-					{{ if eq .Language.Lang "en" }}<a href="/en/styleguide">Styleguide</a>{{ else }}<a href="/styleguide">Stijlgids</a>{{ end }}
-                    <a href="/deelnemen/excellent/">Gedragscode</a>
+					{{ if eq .Language.Lang "en" }}<a href="/en/styleguide">Style-guide</a>{{ else }}<a href="/styleguide">Stijlgids</a>{{ end }}
+					{{ if eq .Language.Lang "en" }}<a href="/en/deelnemen/excellent/">Code of conduct</a>{{ else }}<a href="/deelnemen/excellent/">Gedragscode</a>{{ end }}
                     <a href="/deelnemen/checklist/">Checklist</a>
 				</nav>
 			</footer>

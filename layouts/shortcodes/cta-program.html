@@ -1,3 +1,4 @@
+<!-- TODOPROGRAMME
 <div class="block--callout block--noborder">
 	<div class="decoblock decoblock--hammer decoblock--l"></div>
 	<div class="cta cta--program">
@@ -7,6 +8,18 @@
 		{{ else }}
 		<a class="cta__button" href="https://pretalx.fri3d.be/fri3dcamp2024/schedule/">Het volledige programma!</a>
 		<p class="cta__subtext">Raadpleeg het volledig programma online!</p>
+		{{ end }}
+	</div>
+	<div class="decoblock decoblock--herringbone decoblock--br"></div>
+</div>
+-->
+<div class="block--callout block--noborder">
+	<div class="decoblock decoblock--hammer decoblock--l"></div>
+	<div class="cta cta--program">
+		{{ if eq .Site.Language.Lang "en" }}
+		<p class="cta__herotext">The programme for 2026 is long from ready!</p>
+		{{ else }}
+		<p class="cta__herotext">Het programma voor 2026 is nog lang niet klaar!</p>
 		{{ end }}
 	</div>
 	<div class="decoblock decoblock--herringbone decoblock--br"></div>

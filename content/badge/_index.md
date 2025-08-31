@@ -1,27 +1,15 @@
 ---
-title: "Badge 2024"
+title: "Badge 2026"
 layout: "single"
 markup: "html"
 ---
 
 <div class="block--centered">
-<p>Elke Fri3d Camp deelnemer krijgt een badge. Die is eenvoudig te programmeren, en ook uit te breiden met een aantal add-ons.</p>
-
-{{< image src="/img/badge_2024.jpg" alt="Fri3d Camp badge met scherm" caption="Badge 2024" >}}
-
-<p>De specificaties van de badge vind je op de <a href="https://fri3dcamp.github.io/badge_2024/">Documentatiepagina</a></p>
-
-<p>Meer informatie over hard- en software vind je op Github:</p>
-<h2>Software</h2>
-<ul>
-<li><a href="https://github.com/Fri3dCamp/badge_2024_micropython">Badge 2024 Micropython</a>, dit is de standaard firmware die op de badge staat</li>
-<li><a href="https://github.com/Fri3dCamp/badge_2024_arduino">Badge 2024 Arduino</a></li>
-</ul>
-<h2>Hardware</h2>
-<ul>
-<li><a href="https://github.com/Fri3dCamp/badge_2024_hw?tab=readme-ov-file">Badge 2024 ontwerpbestanden en productiedata</a></li>
-<li><a href="https://github.com/Fri3dCamp/blaster_2024">Big Flamingo Gun add-on</a></li>
-<li><a href="https://github.com/Fri3dCamp/communicator_2024">Communicator add-on</a></li>
-</ul>
-
+<div class="block--callout block--noborder">
+	<div class="decoblock decoblock--dots decoblock--l"></div>
+	<div class="cta cta--tickets">
+		<p class="cta__herotext">Watch this space!</p>
+	</div>
+	<div class="decoblock decoblock--herringbone decoblock--br"></div>
+</div>
 </div>

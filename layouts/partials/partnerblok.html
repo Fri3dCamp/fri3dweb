@@ -1,5 +1,5 @@
 <div class="partners">
-	<h2>Partners | {{ if eq .Language.Lang "en" }}<a href="/en/partners/">Become a partner</a>{{ else }}<a href="/partners/">Partner worden</a>{{ end }}</h2>
+	<h2>{{ if eq .Language.Lang "en" }}Partners in 2024 (<a href="/en/partners/">become a partner for the 2026 edition</a>):{{ else }}Partners in 2024 (<a href="/partners/">partner worden van Fri3d Camp 2026</a>):{{ end }}</h2>
 	<ul class="partners__logos">
 		{{ range $.Site.Data.partners }}
             {{ $oldlabel := "32 bit" }}

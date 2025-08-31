@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--centered">
 <ul>
-<li><strong>Wanneer?</strong> 16-18 augustus 2024</li>
+<li><strong>Wanneer?</strong> 14-16 augustus 2026</li>
 <li><strong>Waar?</strong> Jeugddomein <a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> in St-Joris-Weert (België)</li>
 <li><strong>Wat?</strong> Workshops, talks en andere activiteiten die te maken hebben met wetenschap en technologie, voor én door de deelnemers.</li>
 <li><strong>Wie?</strong> Een bont gezelschap van mensen die geïnteresseerd zijn in het creatief gebruik van wetenschap en technologie. </li>
@@ -15,14 +15,16 @@ markup: "html"
 </ul>
 </div>
 
+<!-- TODOCFP
 <div class="block--centered">
 {{< cta-program >}}
 </div>
+-->
 
 <div class="block--centered">
 
 <h2>Waar kom ik terecht?</h2>
-<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>16 tot en met 18 augustus 2024</strong> is bijna het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
+<p><a href="https://www.hopper.be/nl/jeugdverblijf/de-kluis">De Kluis</a> is een groot terrein, waar in de zomer vaak veel jeugdbewegingen tegelijk op kamp komen. Van <strong>14 tot en met 16 augustus 2026</strong> is het hele terrein voorbehouden voor Fri3d Camp. Er is vast sanitair op het terrein, voldoende open plek om je tent, camper, caravan of gekaapte UFO op te stellen, en veel bomen om schaduw onder te zoeken of licht aan te hangen.</p>
 </div>
 
 <div class="block--wide">
@@ -31,7 +33,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Wat kan ik er doen?</h2>
-<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons <a href="https://content.fri3d.be/confirmedcontent">volledig programma</a> bestaat uit activiteiten die door deelnemers georganiseerd worden.</p>
+<p>Fri3d Camp bestaat alleen <strong>dankzij alle deelnemers</strong>! Ons volledig programma bestaat uit activiteiten die door deelnemers georganiseerd worden. Neem alvast een kijkje naar het <a href="https://content.fri3d.be/confirmedcontent">programma van de vorige versie</a>.</p>
 <p>We stimuleren ook <strong>ad-hoc extra activiteiten</strong> die door deelnemers georganiseerd worden tijdens het kamp. Die zijn vaak erg leuk en spontaan, dus hou je ogen en oren open. Vanuit de infodesk proberen we deze ook zo goed mogelijk bekend te maken.</p>
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
 <p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
@@ -39,9 +41,12 @@ markup: "html"
 <p>Als de vorige edities een indicatie zijn, zullen er op het totaal van 512 deelnemers ongeveer 170 kinderen zijn, de meesten tussen de acht en de twaalf jaar. De rest van het publiek bestaat dan uit de ouders van die kinderen, geroutineerde hackers, studenten, proffen en enthousiastelingen.</p>
 </div>
 
+<!-- TODOCFP
 <hr class="gridrule" />
 
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}
+
+!-->
 
 <hr class="gridrule" />
 

@@ -1,4 +1,8 @@
-<h2 class="block__ttl">Plan van het terrein</h2>
+{{ if eq .Site.Language.Lang "en" }}
+<h2 class="block__ttl">The terrain map in 2024</h2>
+{{ else }}
+<h2 class="block__ttl">Plan van het terein in 2024</h2>
+{{ end }}
 <div class="grondplanwrapper">
     <section class="grondplan">
         <figure class="grondplan__element grondplan__plan">

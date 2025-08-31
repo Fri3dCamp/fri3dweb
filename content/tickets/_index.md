@@ -3,6 +3,7 @@ title: "Tickets"
 layout: "single"
 markup: "html"
 ---
+
 <div class="block--centered">
 <p>
 Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle deelnemers. Er zijn geen tickets voor één dag of voor een ad-hoc bezoek, enkel voor het volledige weekend.
@@ -24,6 +25,8 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 	<li>Hou je aan de <a href="/deelnemen/excellent">gedragscode</a>.</li>
 	<li>Elke deelnemer vanaf 16 jaar draait minstens één shift mee om het kamp te doen draaien (ondersteuning workshops, bar bemannen,...). Als je dit <em>niet</em> wil, kan je een premium ticket aankopen.</li>
 </ul>
+
+<!-- TODOTICKETS
 <h2>Ticketprijzen</h2>
 	<table class="centerme">
 		<tr><td>ticket 0-3 jaar</td><td>€ 14.00</td></tr>
@@ -44,6 +47,7 @@ Om deel te nemen aan Fri3d Camp, moet je op voorhand tickets kopen voor alle dee
 	* Dit is de totaalprijs voor het volledige verblijf tijdens Fri3d Camp. Het aantal plaatsen per slaapkamer varieert, maar is meestal 6 à 8 plaatsen.
 	</p>
 </div>
+-->
 
 <hr class="gridrule" />
 <div class="block--centered">
