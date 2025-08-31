@@ -22,6 +22,6 @@ ignoreFiles = [".+?.bak.md"]
 			languageDesc = "This page in English"
 
 [params]
-	socialimg_square = "/img/site_image_2024_square.png"
-	socialimg = "/img/site_image_2024.png"
+	socialimg_square = "/img/site_image_2026_square.png"
+	socialimg = "/img/site_image_2026.png"
 	showticker = 0
