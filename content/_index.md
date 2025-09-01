@@ -27,7 +27,7 @@ markup: "html"
 <div class="block--centered">
 <h2>Zelf iets organiseren op Fri3d Camp?</h2>
 <p><strong>Graag!</strong> Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom; projecten waar je mee bezig bent, passies die je wil delen, skills die je mensen wil aanleren... Er is plek voor activiteiten van <strong>alle niveaus</strong>.</p>
-<p>Later in 2025 openen we de Call for Proposals, het platform waar je je activiteiten kan indienen.</p>
+<p>Later in 2025 openen we de Call for Proposals, het platform waar je je activiteiten kan indienen. Blijf op de hoogte via de <a href="#mailinglist">mailinglist</a>.</p>
 </div>
 
 <div class="block--centered">
@@ -52,7 +52,7 @@ markup: "html"
 {{< gallery >}}
 </div>
 
-<hr class="gridrule" />
+<hr class="gridrule" id="mailinglist"/>
 
 <div class="block--centered">
 {{< mailinglist >}}

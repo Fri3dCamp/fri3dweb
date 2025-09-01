@@ -23,7 +23,11 @@
   >
     <div class="emailoctopus-form-row">
       <label for="field_0">
+        {{ if eq $.Site.Language.Lang "en" }}
+        E-mail address
+        {{ else }}
         E-mailadres
+        {{ end }}
       </label>
       <input id="field_0"
              name="field_0"
@@ -48,7 +52,11 @@
       <button type="submit"
               style="background-color: rgb(136, 53, 201); color: rgb(255, 255, 255); font-family: inherit;"
       >
+        {{ if eq $.Site.Language.Lang "en" }}
+        Submit
+        {{ else }}
         Inschrijven
+        {{ end }}
       </button>
     </div>
   </form>
