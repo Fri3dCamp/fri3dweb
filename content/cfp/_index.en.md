@@ -9,7 +9,7 @@ markup: "html"
 <p>Fri3d Camp is <strong>created by the people who attend</strong>. Everyone lends a helping to create an excellent experience for all participants.</p>
 
 <p>All <strong>workshops, talks and other activities</strong> during Fri3d Camp are run by participants, that means you! We try to <strong>corall all your ideas into an official program</strong> With our <a href="https://pretalx.fri3d.be/fri3dcamp2026/cfp">Call for Proposals</a>. Submit your proposal(s), and if it gets accepted, we will <strong>support you where necessary</strong>.</p>
-<p>In the 2026 edition we'd like to add more focus to people's projects, even if they are not the subject of a talk or workshop. Bringing a project? Please consider submitting a proposal to the CfP!</p>
+<p>In the 2026 edition we'd like to add more focus to <strong>people's projects</strong>, even if they are not the subject of a talk or workshop. Bringing a project you'd like the camp to know about? Please consider submitting a proposal to the Call for Proposals!</p>
 </div>
 
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2026/cfp" >}}
