@@ -27,8 +27,10 @@ markup: "html"
 <div class="block--centered">
 <h2>Would you like to host an activity on Fri3d Camp?</h2>
 <p><strong>Awesome!</strong> All activities concerning <strong>science and technology</strong> are welcome; projects you're working on, skills you'd like to teach, passions you'd like to share... There's room for activities of <strong>all levels</strong>.
-<p>Later in 2025 we'll open the Call for Proposals, the platform on which you can submit an activity. Stay in the loop at the <a href="#mailinglist">mailinglist</a>.</p>
+<p>You can submit your activities via our <a href="/cfp">Call for Proposals</a>. Activities in languages other than dutch are welcome, but be sure to leave a note in your proposal!</p>
 </div>
+
+{{< herobutton href="/cfp" label="I have an activity!" >}}
 
 <div class="block--centered">
 {{< image src="/photos/fri3d2018/7.jpg" alt="A freshly made robot." caption="Making robots!" >}}

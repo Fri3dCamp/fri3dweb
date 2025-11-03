@@ -27,8 +27,10 @@ markup: "html"
 <div class="block--centered">
 <h2>Zelf iets organiseren op Fri3d Camp?</h2>
 <p><strong>Graag!</strong> Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom; projecten waar je mee bezig bent, passies die je wil delen, skills die je mensen wil aanleren... Er is plek voor activiteiten van <strong>alle niveaus</strong>.</p>
-<p>Later in 2025 openen we de Call for Proposals, het platform waar je je activiteiten kan indienen. Blijf op de hoogte via de <a href="#mailinglist">mailinglist</a>.</p>
+<p>Je kan je activiteiten indienen op onze <a href="/cfp">Call for Proposals</a>. Ook activiteiten in andere talen dan het nederlands zijn mogelijk, maar vermeld het zeker wel!</p>
 </div>
+
+{{< herobutton href="/cfp" label="Zin in!" >}}
 
 <div class="block--centered">
 {{< image src="/photos/fri3d2018/7.jpg" alt="Een robot vers van de workshop." caption="Robots maken!" >}}
