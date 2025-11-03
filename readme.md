@@ -11,7 +11,7 @@
   * [ ] checklist needs EN xlat
 
 * comment keywords;
-  * `TODOCFP` is commented-out stuff which'll become relevant again once we have the CfP up
+  * ~~`TODOCFP` is commented-out stuff which'll become relevant again once we have the CfP up~~
   * `TODOPROGRAMME` should be uncommented when we have a programme
   * `TODOTICKETS` should be uncommented when ticket sales start
   * `TODOTICKETSWAITINGLIST` should be uncommented when ticket are sold out but we're doing a waiting list campaign

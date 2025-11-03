@@ -15,11 +15,9 @@ markup: "html"
 </ul>
 </div>
 
-<!-- TODOCFP
 <div class="block--centered">
 {{< cta-program >}}
 </div>
--->
 
 <div class="block--centered">
 
@@ -41,12 +39,9 @@ markup: "html"
 <p>Als de vorige edities een indicatie zijn, zullen er op het totaal van 512 deelnemers ongeveer 170 kinderen zijn, de meesten tussen de acht en de twaalf jaar. De rest van het publiek bestaat dan uit de ouders van die kinderen, geroutineerde hackers, studenten, proffen en enthousiastelingen.</p>
 </div>
 
-<!-- TODOCFP
 <hr class="gridrule" />
 
-{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}
-
-!-->
+{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2026/cfp" >}}
 
 <hr class="gridrule" />
 
