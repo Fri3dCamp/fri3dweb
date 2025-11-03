@@ -10,7 +10,7 @@ markup: "html"
 <p>In de 2026 editie willen we je eigen projecten nog meer in de verf zetten, ook al als deze niet gepaard gaan met een talk of workshop. Breng je een project mee? Dien het zeker als voorstel in op de CfP!</p>
 </div>
 
-{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}
+{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2026/cfp" >}}
 
 <div class="block--centered">
 <p>Alle activiteiten rond <strong>wetenschap en technologie</strong> zijn welkom. Vooral projecten waar je zelf mee bezig bent, skills die je wil aanleren, en passies die je wil delen. Er is plek voor activiteiten van <strong>alle niveaus</strong>. Ook activiteiten in andere talen dan het Nederlands zijn mogelijk, maar vermeld het zeker wel.</p>

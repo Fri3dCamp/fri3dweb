@@ -8,11 +8,11 @@ markup: "html"
 
 <p>Fri3d Camp is <strong>created by the people who attend</strong>. Everyone lends a helping to create an excellent experience for all participants.</p>
 
-<p>All <strong>workshops, talks and other activities</strong> during Fri3d Camp are run by participants, that means you! We try to <strong>corall all your ideas into an official program</strong> With our <a href="https://pretalx.fri3d.be/fri3dcamp2024/cfp">Call for Proposals</a>. Submit your proposal(s), and if it gets accepted, we will <strong>support you where necessary</strong>.</p>
+<p>All <strong>workshops, talks and other activities</strong> during Fri3d Camp are run by participants, that means you! We try to <strong>corall all your ideas into an official program</strong> With our <a href="https://pretalx.fri3d.be/fri3dcamp2026/cfp">Call for Proposals</a>. Submit your proposal(s), and if it gets accepted, we will <strong>support you where necessary</strong>.</p>
 <p>In the 2026 edition we'd like to add more focus to people's projects, even if they are not the subject of a talk or workshop. Bringing a project? Please consider submitting a proposal to the CfP!</p>
 </div>
 
-{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2024/cfp" >}}
+{{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2026/cfp" >}}
 
 <div class="block--centered">
 <p>All <strong>science- and technology-themed</strong> activities are welcomed. Especially projects you are working on, skills you want to teach others, and passions you'd like to share. There's room for activities of <strong>all experience and skill levels</strong>. You can use another language than Dutch for your activity, but please mention it in your proposal(s).</p>
