@@ -46,7 +46,7 @@ markup: "html"
 
 <p>We <strong>camp in the forest</strong>. It's not a congress centre, but a terrain which normally hosts youth clubs. This brings a <strong>relaxed summer atmosphere</strong> which also has lots of room for creativity, laptops, and all kinds of (low and high) tech.</p>
 
-<p>We encourage every participant to <strong>bring their own projects</strong> and tell everyone about them. Ad-hoc workshops, talks and activities are continously being organized during the camp.</p>
+<p>We encourage every participant to <strong>bring their own projects</strong> and tell everyone about them. You can let us know about them via the <a href="/cfp">Call for Proposals</a>. Ad-hoc workshops, talks and activities are continously being organized during the camp.</p>
 
 </div>
 

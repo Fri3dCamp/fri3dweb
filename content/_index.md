@@ -46,7 +46,7 @@ markup: "html"
 
 <p>We <strong>kamperen in het bos</strong>. De locatie is geen congrescentrum of evenementenhal, maar een terrein waar normaal jeugdbewegingen op kamp komen. Dat zorgt voor een <strong>zomerse ontspannen sfeer</strong>. Waar tegelijk ook veel ruimte is voor creativiteit, laptops, en allerlei low- en high-tech.</p>
 
-<p>We moedigen alle deelnemers ook aan om <strong>zelf hun projecten mee te brengen</strong> en erover te vertellen. Er worden tijdens Fri3d Camp voortdurend extra ad hoc workshops en activiteiten georganiseerd.</p>
+<p>We moedigen alle deelnemers ook aan om <strong>zelf hun projecten mee te brengen</strong> en erover te vertellen. Vertel er ons over via een inzending op onze <a href="/cfp">Call for Proposals</a>! Er worden tijdens Fri3d Camp voortdurend extra ad hoc workshops en activiteiten georganiseerd.</p>
 
 </div>
 
