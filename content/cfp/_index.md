@@ -1,13 +1,13 @@
 ---
-title: "Call for Proposal"
+title: "Call for Proposals"
 layout: "single"
 markup: "html"
 ---
 
 <div class="block--centered">
 <p>Fri3d Camp wordt <strong>gemaakt door de deelnemers</strong>. Iedereen steekt een handje toe en samen maken we er voor iedereen een topervaring van.</p>
-<p>Ook alle <strong>workshops, talks en andere activiteiten</strong> op Fri3d Camp worden georganiseerd door de deelnemers, jij dus! Met onze Call for Proposal proberen we alle ideeën en voorstellen op voorhand te <strong>kanaliseren in een officieel programma</strong>. Dien je voorstel(len) in, en als alles aanvaard wordt, krijg je een plek op het programma en <strong>ondersteunen we je waar nodig</strong>.</p>
-<p>In de editie van 2026 willen we de <strong>eigen projecten</strong> van de deelnemers nog meer in de verf zetten, ook wanneer deze niet gepaard gaan met een talk of workshop. Breng je graag een eigen project mee dat je wil tonen aan je mede-bezoekers? Dien het zeker als voorstel in op de Call for Proposal!</p>
+<p>Ook alle <strong>workshops, talks en andere activiteiten</strong> op Fri3d Camp worden georganiseerd door de deelnemers, jij dus! Met onze Call for Proposals proberen we alle ideeën en voorstellen op voorhand te <strong>kanaliseren in een officieel programma</strong>. Dien je voorstel(len) in, en als alles aanvaard wordt, krijg je een plek op het programma en <strong>ondersteunen we je waar nodig</strong>.</p>
+<p>In de editie van 2026 willen we de <strong>eigen projecten</strong> van de deelnemers nog meer in de verf zetten, ook wanneer deze niet gepaard gaan met een talk of workshop. Breng je graag een eigen project mee dat je wil tonen aan je mede-bezoekers? Dien het zeker als voorstel in op de Call for Proposals!</p>
 </div>
 
 {{< cta-cfp href="https://pretalx.fri3d.be/fri3dcamp2026/cfp" >}}
