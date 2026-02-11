@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--callout">
 <div class="decoblock decoblock--bend decoblock--l"></div>
-<p>Fri3d Camp is een gezinsvriendelijk <strong>zomerkamp voor hackers, makers en DIY'ers</strong>, op De Kluis in <strong>St-Joris-Weert</strong>.<br/>Van <strong>14 tot en met 16 augustus 2026</strong> zijn we aan onze zesde editie toe.</p>
+<p>Fri3d Camp is een gezinsvriendelijk <strong>zomerkamp voor hackers, makers en DIY'ers</strong>, op De Kluis in <strong>St-Joris-Weert</strong>.<br/>Van <strong>14 tot en met 16 augustus 2026</strong> zijn we aan onze zesde editie toe. We verwelkomen je al vanaf s'avonds 13 augustus.</p>
 <div class="decoblock decoblock--herringbone decoblock--br"></div>
 </div>
 
