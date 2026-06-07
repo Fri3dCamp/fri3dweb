@@ -13,9 +13,7 @@ markup: "html"
 	<div class="decoblock decoblock--xu decoblock--br"></div>
 </div>
 
-<!-- TODOPARTNERS
 <div class="block--centered">
 <p>Dankzij deze partners konden we al heel wat realiseren, om Fri3d Camp uniek en bijzonder te maken. Bedankt!</p>
 </div>
 {{< partnerlist >}}
--->

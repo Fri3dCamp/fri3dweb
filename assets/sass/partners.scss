@@ -1,25 +1,25 @@
 .partners {
-	margin-bottom: 10rem;
+    margin-bottom: 10rem;
 
-	@media screen and (min-width:$breakpoint_primnav) {
-		margin-bottom: 2rem;
-	}
+    @media screen and (min-width:$breakpoint_primnav) {
+        margin-bottom: 2rem;
+    }
 }
 
 .partners h2 {
-	font-size: 1.2rem;
-	text-align: center;
-	padding: $spacer;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: $spacer;
 }
 
 .partners__logos {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 1200px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
 
     .partner-size-16-bit, .partner-size-8-bit {
         height: 50px;
@@ -27,15 +27,15 @@
 }
 
 .partners__logo {
-	display: inline-block;
-	margin: 10px;
-	height: 80px;
+    display: inline-block;
+    margin: 10px;
+    height: 80px;
 }
 
 
 .partners__logo img {
-	height: 100%;
-	width: auto;
+    height: 100%;
+    width: auto;
 }
 
 .partnerlist-32-bit {
@@ -94,8 +94,8 @@
 
 .partnerlist__intro {
     font-weight: bold;
-	text-align: center;
-
+    text-align: center;
+    margin-bottom: 1em;
 }
 
 .partnerlist__desc {

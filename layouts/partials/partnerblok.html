@@ -1,5 +1,5 @@
 <div class="partners">
-	<h2>{{ if eq .Language.Lang "en" }}Partners in 2024 (<a href="/en/partners/">become a partner for the 2026 edition</a>):{{ else }}Partners in 2024 (<a href="/partners/">partner worden van Fri3d Camp 2026</a>):{{ end }}</h2>
+	<h2>{{ if eq .Language.Lang "en" }}Onze partners:{{ else }}Our partners:{{ end }}</h2>
 	<ul class="partners__logos">
 		{{ range $.Site.Data.partners }}
             {{ $oldlabel := "32 bit" }}
@@ -9,7 +9,8 @@
             {{ end }}
             {{ $oldlabel := $mylabel }}
             {{ range .partners }}
-			{{ if not .hidden }}
+            {{ if not .hidden  }}
+            {{ if not .hidden_in_partnerblock }}
                 <li class="partners__logo partner-size-{{ $mylabel | urlize }}">
 					{{ if .url }}
                     <a href="{{ .url }}">
@@ -21,7 +22,8 @@
                     </span>
 					{{ end }}
                 </li>
-			{{ end }}
+            {{ end }}
+            {{ end }}
             {{ end }}
 		{{ end }}
 	</ul>
