@@ -186,9 +186,15 @@ p a {
 	"lg lg lg lg"
 	"lg lg lg lg";
 	width:100%;
+	/*
+	// these three are for normal flying colours
 	background-image:url('/img/headerimg_2024.svg');
 	background-size: cover;
 	background-size: auto 4vw*5;
+	*/
+	// next two are pride!
+	background-image:url('/img/headerimg_pride.png');
+	background-size: contain;
 	height:4vw*3;
 	max-height:4vw*3;
 	//background-color: $clr_C;
