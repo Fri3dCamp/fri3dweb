@@ -194,7 +194,7 @@ p a {
 	*/
 	// next two are pride!
 	background-image:url('/img/headerimg_pride.png');
-	background-size: contain;
+	background-size: cover;
 	height:4vw*3;
 	max-height:4vw*3;
 	//background-color: $clr_C;
@@ -206,7 +206,8 @@ p a {
 		grid-template-areas:
 		"lg lg lg lg"
 		"lg lg lg lg";
-		background-size: auto 8.333vw*5;
+		// normal background-size: auto 8.333vw*5;
+		background-size: cover; // pride
 		height:8.333vw*3;
 		max-height:8.333vw*3;
 	}
