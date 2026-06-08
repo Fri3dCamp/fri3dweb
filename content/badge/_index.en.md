@@ -9,12 +9,12 @@ markup: "html"
 
 {{< image src="/img/badge_2026.jpg" alt="Fri3d Camp badge with display" caption="Badge 2026" >}}
 
-<p>The specifications of the badge and official add-ons can be found on the <a href="https://fri3dcamp.github.io/badge_2026/">documentation page</a></p>
+<p>The specifications and manuals of the badge and official add-ons can be found on the <a href="https://fri3dcamp.github.io/badge_2026/">documentation page</a></p>
 
-<p>More information about the hard- and software can be found on Github:</p>
+<p>More technical information about the hard- and software can be found on Github:</p>
 <h2>Software</h2>
 <ul>
-<li><a href="https://micropythonos.com/">MicroPythonOS</a>is the default operating system that comes pre-installed on the badge</li>
+<li><a href="https://github.com/Fri3dCamp/badge_firmware_MicroPythonOS">MicroPythonOS</a>is the default operating system that comes pre-installed on the badge</li>
 </ul>
 <h2>Hardware</h2>
 <ul>

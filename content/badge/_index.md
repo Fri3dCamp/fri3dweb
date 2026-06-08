@@ -9,12 +9,12 @@ markup: "html"
 
 {{< image src="/img/badge_2026.jpg" alt="Fri3d Camp badge met scherm" caption="Badge 2026" >}}
 
-<p>De specificaties van de badge vind je op de <a href="https://fri3dcamp.github.io/badge_2026/">Documentatiepagina</a></p>
+<p>De specificaties en handleiding van de badge en diens add-ons vind je op de <a href="https://fri3dcamp.github.io/badge_2026/">Documentatiepagina</a></p>
 
-<p>Meer informatie over hard- en software vind je op Github:</p>
+<p>Meer technische informatie over de hard- en software vind je op Github:</p>
 <h2>Software</h2>
 <ul>
-<li><a href="https://micropythonos.com/">MicroPythonOS</a>, dit is het standaard besturingssysteem dat op de badge staat</li>
+<li><a href="https://github.com/Fri3dCamp/badge_firmware_MicroPythonOS">MicroPythonOS</a>, dit is het standaard besturingssysteem dat op de badge staat</li>
 </ul>
 <h2>Hardware</h2>
 <ul>
