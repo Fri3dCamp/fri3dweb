@@ -12,6 +12,19 @@
         }
       },
       {
+        "img": "aqc.png",
+        "alt": "AQC",
+        "url": "https://www.aqcbv.com/",
+        "intro": {
+          "nl": "Wat uw uitdaging ook is, AQC B.V. is uw PCB-partner.",
+          "en": "Whatever your challenge, AQC B.V. is your PCB partner."
+        },
+        "desc": {
+          "nl": "AQC B.V. is één van de technisch meest deskundige leveranciers van aansluitingen in de vorm van PCB’s voor de High Tech industrie. Met het hoofdkantoor in Nederland richt AQC zich erop marktleider te worden in deze producten die voldoen aan de meest veeleisende internationale kwaliteitseisen. AQC B.V. heeft de expertise om mee te denken en te adviseren tijdens de ontwerpfase van de printplaat. Ze verzekeren u dat zij alle vragen snel, adequaat, maar vooral klantgericht beantwoorden.",
+          "en": "AQC B.V. is one of the most technically skilled suppliers of connections in the form of PCBs for the High Tech industry. With its headquarters in the Netherlands, AQC focuses on becoming the market leader in these products that meet the most demanding international quality requirements. AQC B.V. has the expertise to think along and advise during the design phase of the PCB. They assure you that they’ll answer all questions quickly, adequately, but above all in a customer-oriented way."
+        }
+      },
+      {
         "img": "dekimo.png",
         "alt": "Dekimo Erpe-Mere",
         "url": "https://www.dekimo.com/",
@@ -30,19 +43,6 @@
         "img": "ebv.png",
         "alt": "EBV Elektronik",
         "url": "https://my.avnet.com/ebv/"
-      },
-      {
-        "img": "aqc.png",
-        "alt": "AQC",
-        "url": "https://www.aqcbv.com/",
-        "intro": {
-          "nl": "Wat uw uitdaging ook is, AQC B.V. is uw PCB-partner.",
-          "en": "Whatever your challenge, AQC B.V. is your PCB partner."
-        },
-        "desc": {
-          "nl": "AQC B.V. is één van de technisch meest deskundige leveranciers van aansluitingen in de vorm van PCB’s voor de High Tech industrie. Met het hoofdkantoor in Nederland richt AQC zich erop marktleider te worden in deze producten die voldoen aan de meest veeleisende internationale kwaliteitseisen. AQC B.V. heeft de expertise om mee te denken en te adviseren tijdens de ontwerpfase van de printplaat. Ze verzekeren u dat zij alle vragen snel, adequaat, maar vooral klantgericht beantwoorden.",
-          "en": "AQC B.V. is one of the most technically skilled suppliers of connections in the form of PCBs for the High Tech industry. With its headquarters in the Netherlands, AQC focuses on becoming the market leader in these products that meet the most demanding international quality requirements. AQC B.V. has the expertise to think along and advise during the design phase of the PCB. They assure you that they’ll answer all questions quickly, adequately, but above all in a customer-oriented way."
-        }
       },
       {
         "img": "ingegno.png",
