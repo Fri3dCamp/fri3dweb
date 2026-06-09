@@ -37,12 +37,20 @@
       {
         "img": "st_micro.png",
         "alt": "STMicroelectronics",
-        "url": "https://www.st.com/"
+        "url": "https://www.st.com/",
+        "desc": {
+          "nl": "STMicroelectronics is een toonaangevende Europese producent van halfgeleiders en micro-elektronica. Het bedrijf ontwikkelt geavanceerde microchips voor uiteenlopende sectoren, waaronder de automobielindustrie, industriële automatisering en IoT-toepassingen. Ze staan wereldwijd bekend om hun innovatieve microcontrollers, zoals de populaire STM32-familie, en krachtige sensoren. Met een sterke focus op duurzaamheid en slimme mobiliteit leveren ze de bouwstenen voor moderne elektronica. Door hun focus op R&D spelen ze een sleutelrol in de verdere digitalisering van onze dagelijkse technologie.",
+          "en": "STMicroelectronics is a leading European producer of semiconductors and micro-electronics. The company develops advanced microchips for various markets including automotive, industrial automation and IoT-applications. They are renowned world-wide for innovative microcontrollers such as the popular STM32 family, as well as powerful sensors. With a strong focus on durability and intelligent mobility they supply the building blocks for modern electronics. By focusing on R&D they play a pivotal role in the continuing digitalization of our daily technology."
+        }
       },
       {
         "img": "ebv.png",
         "alt": "EBV Elektronik",
-        "url": "https://my.avnet.com/ebv/"
+        "url": "https://my.avnet.com/ebv/",
+        "desc": {
+          "nl": "BV Elektronik (onderdeel van de Avnet-groep) is een van de leidende distributeurs van halfgeleiders in Europa. Het bedrijf fungeert als de cruciale schakel tussen chipfabrikanten – zoals STMicroelectronics – en de elektronica-industrie. Naast de pure distributie biedt EBV uitgebreide technische ondersteuning en diepgaande applicatiekennis aan ontwikkelaars. Met een eigen team van specialisten helpen ze bedrijven bij het selecteren van de juiste componenten en het ontwerpen van hardware. Door deze combinatie van logistieke kracht en technische expertise versnellen ze het innovatieproces van idee tot eindproduct.",
+          "en": "BV Electronik (part of the AVNET-group) is one of the leading distributors of semiconductors in Europe. The company acts as the crucial link between chip producers, such as STMicroelectronics, and the electronics industry. Next to distribution EBV offers extensive technological support and in-depth application knowledge to developers. With their own team of specialists they support companies in selecting the right components and designing hardware. By combining logistical strength and technical expertise they accelerate the innovation process from idea to end-product."
+        }
       },
       {
         "img": "ingegno.png",
