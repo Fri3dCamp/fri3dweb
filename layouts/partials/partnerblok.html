@@ -1,5 +1,5 @@
 <div class="partners">
-	<h2>{{ if eq .Language.Lang "en" }}Onze partners:{{ else }}Our partners:{{ end }}</h2>
+	<h2>{{ if eq .Language.Lang "en" }}Our partners:{{ else }}Onze partners:{{ end }}</h2>
 	<ul class="partners__logos">
 		{{ range $.Site.Data.partners }}
             {{ $oldlabel := "32 bit" }}
