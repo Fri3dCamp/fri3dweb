@@ -36,6 +36,11 @@
 .partners__logo img {
     height: 100%;
     width: auto;
+    @media screen and (max-width:$breakpoint_primnav) {
+      width: 80%;
+      height: auto;
+    }
+
 }
 
 .partnerlist-32-bit {
