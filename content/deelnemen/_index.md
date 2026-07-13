@@ -36,7 +36,7 @@ markup: "html"
 <p>Het niveau van activiteiten kan sterk uiteenlopen, maar we gaan steeds voor kwaliteit. Deelnemers organiseren een workshop of geven een talk vanuit hun eigen interesse en passie. Ze zijn geen animatoren die terzijde 'iets met technologie' doen, maar vaak <strong>gepassioneerde (semi-)professionals die hun kennis en enthousiasme willen delen</strong>. Denk dus niet te snel dat iets te moeilijk of net te gemakkelijk zal zijn, maar ga uit van je interesse.</p>
 <p>Alle activiteiten worden georganiseerd door de deelnemers, orga zorgt voor de omkadering en faciliteert. Dat betekent dat een activiteit uitzonderlijk afgelast kan zijn, dat er beperkt materiaal is, een wachtrij, etc. <a href="/deelnemen/excellent"><em>Be Excellent</em></a> is dan het motto. Toon begrip.</p>
 <h2>Wie kan ik er ontmoeten?</h2>
-<p>Als de vorige edities een indicatie zijn, zullen er op het totaal van 512 deelnemers ongeveer 170 kinderen zijn, de meesten tussen de acht en de twaalf jaar. De rest van het publiek bestaat dan uit de ouders van die kinderen, geroutineerde hackers, studenten, proffen en enthousiastelingen.</p>
+<p>Als de vorige edities een indicatie zijn, zullen er op het totaal van 640 deelnemers ongeveer 170 kinderen zijn, de meesten tussen de acht en de twaalf jaar. De rest van het publiek bestaat dan uit de ouders van die kinderen, geroutineerde hackers, studenten, proffen en enthousiastelingen.</p>
 </div>
 
 <hr class="gridrule" />
