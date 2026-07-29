@@ -119,6 +119,14 @@
         }
       },
       {
+        "img": "ledblox.png",
+        "alt": "Ledblox",
+        "url": "https://ledblox.com/",
+        "desc": {
+          "nl": "Ledblox bouwt modulaire ledschermen met hoge resolutie voor elk soort gebruik."
+        }
+      },
+      {
         "hidden": false,
         "img": "ziezo.png",
         "alt": "ZieZo",
