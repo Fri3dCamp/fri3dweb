@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--callout">
 <div class="decoblock decoblock--bend decoblock--l"></div>
-<p>Fri3d Camp is een gezinsvriendelijk <strong>zomerkamp voor hackers, makers en DIY'ers</strong>, op De Kluis in <strong>St-Joris-Weert</strong>.<br/>Van <strong>14 tot en met 16 augustus 2026</strong> zijn we aan onze zesde editie toe. We verwelkomen je al vanaf s'avonds 13 augustus.</p>
+<p>Fri3d Camp is een gezinsvriendelijk <strong>zomerkamp voor hackers, makers en DIY'ers</strong>, op De Kluis in <strong>St-Joris-Weert</strong>.<br/>Van <strong>13 tot en met 16 augustus 2026</strong> zijn we aan onze zesde editie toe. We verwelkomen je al vanaf s'avonds 13 augustus.</p>
 <div class="decoblock decoblock--herringbone decoblock--br"></div>
 </div>
 
@@ -18,7 +18,7 @@ markup: "html"
 
 <h2>Wat kan je verwachten?</h2>
 <p>Fri3d Camp is een mix tussen een <strong>festival met technologie in plaats van muziek</strong>, een gemoedelijke campingsfeer, en een conventie van hackers en hun vrienden.</p>
-<p>Heel het programma wordt gebracht door de bezoekers zoals jezelf. Neem alvast een kijkje naar <a href="https://content.fri3d.be/confirmedcontent">het programma van 2024</a>!</p>
+<p>Heel het programma wordt gebracht door de bezoekers zoals jezelf. Neem alvast een kijkje naar <a href="https://content.fri3d.be/fri3dcamp2026/schedule/">het programma van 2026</a>!</p>
 <p>Onze inspiratie zijn de grote Europese kampen zoals <a href="https://events.ccc.de/camp/">CCC</a>, <a href="https://www.emfcamp.org/">EMF</a> en <a href="https://why2025.org/">WHY</a>.</p>
 </div>
 

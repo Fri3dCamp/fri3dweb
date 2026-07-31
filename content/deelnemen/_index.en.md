@@ -27,7 +27,7 @@ markup: "html"
 
 <div class="block--centered">
 <h2>Activities</h2>
-<p>All activities are organised by the participants themselves (have a look at <a href="https://content.fri3d.be/confirmedcontent">everything that happened in the 2024 edition</a>. Orga just facilitates and ensures the camp runs smoothly. This means an activity exceptionally can get cancelled, limited amounts of material might be available, there might be a queue, etc. Remember our motto '<a href="/en/deelnemen/excellent"><em>Be Excellent</em></a>' and show consideration.</p>
+<p>All activities are organised by the participants themselves (have a look at <a href="ihttps://content.fri3d.be/fri3dcamp2026/schedule/">the program</a>). Orga just facilitates and ensures the camp runs smoothly. This means an activity exceptionally can get cancelled, limited amounts of material might be available, there might be a queue, etc. Remember our motto '<a href="/en/deelnemen/excellent"><em>Be Excellent</em></a>' and show consideration.</p>
 
 <p>We stimulate ad-hoc extra activities organised by participants. These are usually lots of fun, so keep your eyes and ears peeled. We will try our best to make these activities known through the infodesk.</p>
 <p>The difficulty level of activities can vary considerably, but we strive for quality. Participants give their talk of workshop out of passion and interest for the topic at hand. They are not animators who happen to do a 'techy' workshop, but rather (semi-)professionals who are passionate about sharing knowledge. So don't assume too quickly that something will be too easy or too hard, but use your interest as a guide.</p>

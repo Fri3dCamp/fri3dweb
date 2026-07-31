@@ -6,7 +6,7 @@ markup: "html"
 
 <div class="block--callout">
 <div class="decoblock decoblock--bend decoblock--l"></div>
-<p>Fri3d Camp is a family friendly hacker camp for hackers, makers and DIY'ers. It takes place every two years. <br/><strong>August 14 to 16 2026</strong> will be our sixth edition.</p>
+<p>Fri3d Camp is a family friendly hacker camp for hackers, makers and DIY'ers. It takes place every two years. <br/><strong>August 13 to 16 2026</strong> will be our sixth edition.</p>
 <div class="decoblock decoblock--herringbone decoblock--br"></div>
 </div>
 
@@ -18,7 +18,7 @@ markup: "html"
 
 <h2>What to expect?</h2>
 <p>Fri3d Camp is an interesting mix of technology festival, easy-going camping atmosphere, and a hacker convention.</p>
-</p>All of our talks and workshops are brought by visitors such like yourself. Have a look at <a href="https://content.fri3d.be/confirmedcontent">the 2024 program</a>!</p>
+</p>All of our talks and workshops are brought by visitors such like yourself. Have a look at <a href="https://content.fri3d.be/fri3dcamp2026/schedule/">the 2026 program</a>!</p>
 <p>We take our inspiration from the large European hacker camps like <a href="https://events.ccc.de/camp/">CCC</a>, <a href="https://www.emfcamp.org/">EMF</a> and <a href="https://why2025.org/">WHY</a>.</p>
 </div>
 
