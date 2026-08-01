@@ -5,6 +5,7 @@ DefaultContentLanguage= "nl"
 sectionPagesMenu = "main"
 summaryLength = 10
 ignoreFiles = [".+?.bak.md"]
+security.allowContent = ['.*']
 [languages]
 	[languages.nl]
 		languageName = "Nederlands"
