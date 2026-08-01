@@ -8,13 +8,6 @@
 }
 
 .grondplan {
-    @media screen and (min-width:$breakpoint0) {
-        grid-template-columns: 50% 50%;
-        display:grid;
-    } 
-    @media screen and (min-width:$breakpoint-1) {
-        grid-template-columns: 60% 40%;
-    } 
 }
 
 .grondplan__element {
