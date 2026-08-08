@@ -80,7 +80,7 @@ markup: "html"
 	<!-- /imggrid -->
 <h3>Algemeen</h3>
 <ul>
-<li>Breng je bankkaart mee en installeer de <strong><a href="https://www.bancontact.com/nl/consument/start/bancontact-pay-app">Bancontact Pay</a> app</strong>. Je kan drankkaarten, brood ... betalen met je bankkaart, cash of met de app. 
+<li>Breng je bankkaart mee en installeer de <strong><a href="https://www.bancontact.com/nl/consument/start/bancontact-pay-app">Bancontact Pay</a> app</strong>. Je kan barkaarten, brood ... betalen met je bankkaart, cash of met de app. 
 Let op! Voor een aantal workshops wordt een bijkomende betaling verwacht voor specifiek materiaal. Er zullen ook heel wat extra interessante kitjes te koop zijn bij verschillende workshop-organisatoren (soldeerkitjes, lockpicking tools, stickers, ...) Mogelijk accepteren zij enkel cash.</li>
 <li><strong>Kledij</strong>. Breng zeker je lading geekshirts en je meest sexy pyjama mee, zelfs sokken in sandalen zijn welkom. Kijk even uit naar het weerbericht (heat wave of zondvloed?) welke kledij best gepast is. Een extra trui voor 's avonds of in de tent is altijd een goed plan.</li>
 <li><strong>Toiletzak</strong> met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein. Vergeet ook zeker je <strong>medicijnen</strong> niet!</li>
@@ -117,8 +117,7 @@ Let op! Voor een aantal workshops wordt een bijkomende betaling verwacht voor sp
 <li>De kinderen mogen hun favoriete <strong>speelgoed</strong> meebrengen. Die robot, driewieler, bal, Kubb-set of een bordspel zijn zeker welkom.</li>
 <li>En als je echt aan de slag wil op het kamp, breng dan je <strong>gereedschap en onderdelen</strong> mee, we hebben voldoende werkplek met tafels en stoelen waar we allemaal samen aan het cre&euml;ren kunnen slaan.</li>
 <li>Breng een <strong>hoofdtelefoon</strong> mee als je graag je eigen muziek op zet.</li>
-<li>Breng <strong>oordopjes</strong> of een noise cancelling hoofdtelefoon mee als je even wil ontsnappen aan het rumoer. </li>
-</ul>
+<li>Breng <strong>oordopjes</strong> of een noise cancelling hoofdtelefoon mee als je even wil ontsnappen aan het rumoer. </li></ul>
 	
 <h3>Eten en drinken</h3>
 <ul>
