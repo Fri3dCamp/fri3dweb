@@ -4,6 +4,7 @@ layout: "single"
 markup: "html"
 ---
 <div class="block--centered">
+
 <h2>Wat breng je zeker mee?</h2>
   <p>Bereid je bezoek aan Fri3d Camp voor met deze checklist, zodat je zeker niets belangrijks vergeet. We beginnen met de <em>allerberlangrijkste</em> dingen:</p>
 	<!-- imggrid -->
@@ -25,13 +26,13 @@ markup: "html"
                 <img src="/img/checklist_power.png" />
             </div>
             <p>Stekkerblokken en verlengkabels om aan te sluiten op het stroomnetwerk en door te lussen naar de volgende kampeerplek. </p>
-       <div class=imggrid__item>
+		</div>      
+		<div class=imggrid__item>
     		<div class=imggrid__imgwrapper>
                 <img src=/img/checklist_cash.png>
             </div>
-            <p>Betaalmiddelen: bankkaart, de Bancontact Pay app en cash voor bijdragen bij workshops.
-                        </p>
-                    </div> </div>
+            <p>Betaalmiddelen: bankkaart, de Bancontact Pay app en cash voor bijdragen bij workshops. </p>
+        </div> 
         <div class="imggrid__item">
             <div class="imggrid__imgwrapper">
                 <img src="/img/checklist_food.png" />
@@ -75,6 +76,7 @@ markup: "html"
             <p>Je soldeerbout, solduur en eventuele andere elektronica-tools, als je die hebt.</p>
         </div>
     </div>
+
 	<!-- /imggrid -->
 <h3>Algemeen</h3>
 <ul>
@@ -84,6 +86,7 @@ Let op! Voor een aantal workshops wordt een bijkomende betaling verwacht voor sp
 <li><strong>Toiletzak</strong> met je tandenborstel, je deo en je favoriete douchegel. Er zijn voldoende douches op ons terrein. Vergeet ook zeker je <strong>medicijnen</strong> niet!</li>
 <li><strong>Toiletpapier</strong>, want we brengen wel een deel van de nodige voorraad mee, maar je eigen rolletje is en blijft voor vanalles handig.</li>
 <li><strong>Handdoek</strong>. Want hoe kan je een hackerkamp overleven zonder handdoek?</li></ul>
+
 <h3>We zitten buiten</h3>
 <ul>
 <li><strong>Een petje</strong>, of iets anders om de zon van je hoofd te houden.</li>
@@ -113,8 +116,9 @@ Let op! Voor een aantal workshops wordt een bijkomende betaling verwacht voor sp
 <li>Er is heel wat te doen op kamp, maar je kan altijd een eigen <strong>project</strong> (van knutselen tot quantumcomputers, alles kan) meebrengen om er aan te werken, of gewoon voor de show.</li>
 <li>De kinderen mogen hun favoriete <strong>speelgoed</strong> meebrengen. Die robot, driewieler, bal, Kubb-set of een bordspel zijn zeker welkom.</li>
 <li>En als je echt aan de slag wil op het kamp, breng dan je <strong>gereedschap en onderdelen</strong> mee, we hebben voldoende werkplek met tafels en stoelen waar we allemaal samen aan het cre&euml;ren kunnen slaan.</li>
-<li>Breng een <strong>hoofdtelefoon</strong> mee als je graag je eigen muziek op zet.</li></ul>
-<li>Breng <strong>oordopjes</strong> of een noise cancelling hoofdtelefoon mee als je even wil ontsnappen aan het rumoer. </li></ul>
+<li>Breng een <strong>hoofdtelefoon</strong> mee als je graag je eigen muziek op zet.</li>
+<li>Breng <strong>oordopjes</strong> of een noise cancelling hoofdtelefoon mee als je even wil ontsnappen aan het rumoer. </li>
+</ul>
 	
 <h3>Eten en drinken</h3>
 <ul>
